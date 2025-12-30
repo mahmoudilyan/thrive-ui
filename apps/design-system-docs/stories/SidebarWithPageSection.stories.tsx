@@ -1,6 +1,6 @@
 import React from 'react';
 import type { Meta, StoryObj } from '@storybook/react-vite';
-import { SideNavigation, SidebarProvider, PageSection } from '@thrive/ui';
+import { SideNavigation, SidebarProvider, PageSection, PageSectionWizard } from '@thrive/ui';
 import type { NavigationItem } from '@thrive/ui';
 import {
 	MdDashboard,
@@ -323,18 +323,16 @@ export const CreateWizardVariant: Story = {
 		<div className="bg-bg min-h-screen flex">
 			<SideNavigation />
 			<div className="flex-1 flex flex-col">
-				<PageSection
-					variant="create-wizard"
-					pageTitle="Create Campaign"
+				<PageSectionWizard
+					title="Create Campaign"
 					showSidebarToggle
-					steps={
-						<div className="flex items-center gap-2">
-							<span className="px-3 py-1 bg-primary text-white rounded text-sm font-medium">
-								Step 1 of 3
-							</span>
-							<span className="text-sm text-ink-secondary">Basic Information</span>
-						</div>
-					}
+					steps={[
+						{ id: 'basic', label: 'Basic Information' },
+						{ id: 'settings', label: 'Settings' },
+						{ id: 'review', label: 'Review' },
+					]}
+					currentStep={0}
+					totalSteps={3}
 				/>
 				<main className="flex-1 p-6">
 					<div className="max-w-2xl">

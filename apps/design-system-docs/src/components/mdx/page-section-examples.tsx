@@ -1,6 +1,6 @@
 'use client';
 
-import { PageSection } from '@thrive/ui';
+import { PageSection, PageSectionWizard } from '@thrive/ui';
 import { InteractiveCodeExample } from './interactive-code-example';
 
 /**
@@ -121,33 +121,34 @@ export function PageSectionWizardExample() {
 	return (
 		<InteractiveCodeExample
 			title="Wizard Layout"
-			description="Specialized layout for multi-step forms"
-			code={`<PageSection
-  variant="create-wizard"
-  breadcrumbs={[
-    { label: 'Campaigns', href: '/campaigns' },
-    { label: 'New Campaign' }
+			description="Specialized layout for multi-step forms with editable title and step indicators"
+			code={`<PageSectionWizard
+  title="New Campaign"
+  onTitleChange={(newTitle) => console.log('Title changed:', newTitle)}
+  steps={[
+    { id: 'details', label: 'Details' },
+    { id: 'audience', label: 'Audience' },
+    { id: 'content', label: 'Content' },
+    { id: 'review', label: 'Review' }
   ]}
-  primaryAction={{
-    label: 'Save Draft',
-    onClick: () => console.log('Save Draft clicked')
-  }}
-  secondaryActions={[
-    { label: 'Cancel', href: '/campaigns', onClick: () => console.log('Cancel clicked') }
-  ]}
+  currentStep={1}
+  totalSteps={4}
+  onStepClick={(step) => console.log('Step clicked:', step)}
 />`}
 		>
 			<div className="bg-bg p-4 rounded-lg">
-				<PageSection
-					variant="create-wizard"
-					breadcrumbs={[{ label: 'Campaigns', href: '/campaigns' }, { label: 'New Campaign' }]}
-					primaryAction={{
-						label: 'Save Draft',
-						onClick: () => console.log('Save Draft clicked'),
-					}}
-					secondaryActions={[
-						{ label: 'Cancel', href: '/campaigns', onClick: () => console.log('Cancel clicked') },
+				<PageSectionWizard
+					title="New Campaign"
+					onTitleChange={newTitle => console.log('Title changed:', newTitle)}
+					steps={[
+						{ id: 'details', label: 'Details' },
+						{ id: 'audience', label: 'Audience' },
+						{ id: 'content', label: 'Content' },
+						{ id: 'review', label: 'Review' },
 					]}
+					currentStep={1}
+					totalSteps={4}
+					onStepClick={step => console.log('Step clicked:', step)}
 				/>
 			</div>
 		</InteractiveCodeExample>

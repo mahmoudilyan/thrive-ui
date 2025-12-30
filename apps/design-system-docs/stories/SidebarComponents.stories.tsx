@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import type { Meta, StoryObj } from '@storybook/react';
+import type { Meta, StoryObj } from '@storybook/react-vite';
 import { SidebarSubItem } from '@thrive/ui';
 
 const meta: Meta<typeof SidebarSubItem> = {
@@ -51,9 +51,7 @@ export const TreeVisualization: Story = {
 
 		return (
 			<div className="w-64 bg-gray-50 p-4 rounded-lg flex flex-col">
-				<p className="text-xs text-gray-500 mb-2">
-					Connectors are automatic via React props:
-				</p>
+				<p className="text-xs text-gray-500 mb-2">Connectors are automatic via React props:</p>
 				{items.map(item => (
 					<SidebarSubItem
 						key={item.id}
@@ -63,10 +61,12 @@ export const TreeVisualization: Story = {
 					/>
 				))}
 				<p className="text-xs text-gray-400 mt-4">
-					• First item: small top line<br />
-					• Active item: curved arrow (SVG)<br />
-					• Before active: vertical line<br />
-					• After active: no connector
+					• First item: small top line
+					<br />
+					• Active item: curved arrow (SVG)
+					<br />
+					• Before active: vertical line
+					<br />• After active: no connector
 				</p>
 			</div>
 		);

@@ -187,8 +187,8 @@ export const CreateFolderForm: Story = {
 								id="folder-name"
 								placeholder="Enter folder name"
 								value={folderName}
-								onChange={e => setFolderName(e.target.value)}
-								onKeyDown={e => {
+								onChange={(e: React.ChangeEvent<HTMLInputElement>) => setFolderName(e.target.value)}
+								onKeyDown={(e: React.KeyboardEvent<HTMLInputElement>) => {
 									if (e.key === 'Enter' && folderName.trim()) {
 										// Handle create action
 										alert('Folder created: ' + folderName);

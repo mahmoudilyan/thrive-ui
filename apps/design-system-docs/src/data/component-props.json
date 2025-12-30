@@ -70,38 +70,90 @@
   "Avatar": {
     "props": [
       {
+        "name": "size",
+        "type": "\"sm\" | \"md\" | \"lg\" | \"xs\" | \"xl\"",
+        "required": false,
+        "description": "Size of the avatar",
+        "defaultValue": "'md'"
+      },
+      {
         "name": "showStatus",
         "type": "boolean",
-        "required": false
+        "required": false,
+        "description": "Show status indicator on the avatar"
       },
       {
         "name": "statusColor",
         "type": "\"success\" | \"warning\" | \"error\"",
-        "required": false
+        "required": false,
+        "description": "Color of the status indicator",
+        "defaultValue": "'success'"
       },
       {
         "name": "badgeCount",
         "type": "number",
-        "required": false
+        "required": false,
+        "description": "Badge count to display on the avatar"
+      },
+      {
+        "name": "variant",
+        "type": "\"normal\" | \"blue\" | \"red\" | \"yellow\" | \"orange\" | \"purple\" | \"pink\" | \"green\" | \"indigo\" | \"teal\"",
+        "required": false,
+        "description": "Color variant for the avatar fallback background",
+        "defaultValue": "'normal'"
       }
     ]
   },
   "AvatarFallback": {
     "props": [
       {
-        "name": "size",
-        "type": "\"sm\" | \"md\" | \"lg\" | \"xs\" | \"xl\"",
-        "required": false
-      },
-      {
         "name": "showIcon",
         "type": "boolean",
-        "required": false
+        "required": false,
+        "description": "Show icon instead of text/initials"
       },
       {
         "name": "variant",
         "type": "\"normal\" | \"blue\" | \"red\" | \"yellow\" | \"orange\" | \"purple\" | \"pink\" | \"green\" | \"indigo\" | \"teal\"",
-        "required": false
+        "required": false,
+        "description": "Color variant for the avatar fallback"
+      }
+    ]
+  },
+  "AvatarStack": {
+    "props": [
+      {
+        "name": "children",
+        "type": "React.ReactNode",
+        "required": true,
+        "description": "Avatar elements to stack"
+      },
+      {
+        "name": "max",
+        "type": "number",
+        "required": false,
+        "description": "Maximum number of avatars to display before showing overflow",
+        "defaultValue": "4"
+      },
+      {
+        "name": "size",
+        "type": "AvatarSize",
+        "required": false,
+        "description": "Size of all avatars in the stack",
+        "defaultValue": "'md'"
+      },
+      {
+        "name": "className",
+        "type": "string",
+        "required": false,
+        "description": "Additional className for the container"
+      },
+      {
+        "name": "borderColor",
+        "type": "\"panel\" | \"bg\" | \"transparent\"",
+        "required": false,
+        "description": "Border color for the ring around each avatar\n- 'panel': Uses panel/card background color (adapts to light/dark mode)\n- 'bg': Uses page background color (adapts to light/dark mode)\n- 'transparent': No visible ring",
+        "defaultValue": "'panel'"
       }
     ]
   },
@@ -144,20 +196,6 @@
   },
   "Button": {
     "props": [
-      {
-        "name": "variant",
-        "type": "\"primary\" | \"destructive\" | \"secondary\" | \"ghost\" | \"ghost-body\" | \"ghost-destructive\" | \"link\"",
-        "required": false,
-        "description": "Visual style variant of the button",
-        "defaultValue": "\"primary\""
-      },
-      {
-        "name": "size",
-        "type": "\"xs\" | \"sm\" | \"md\" | \"lg\"",
-        "required": false,
-        "description": "Size of the button",
-        "defaultValue": "\"md\""
-      },
       {
         "name": "asChild",
         "type": "boolean",
@@ -457,20 +495,6 @@
   },
   "IconButton": {
     "props": [
-      {
-        "name": "variant",
-        "type": "\"primary\" | \"destructive\" | \"secondary\" | \"ghost\" | \"link\"",
-        "required": false,
-        "description": "Visual style variant of the icon button",
-        "defaultValue": "\"primary\""
-      },
-      {
-        "name": "size",
-        "type": "\"xs\" | \"sm\" | \"md\" | \"lg\"",
-        "required": false,
-        "description": "Size of the icon button",
-        "defaultValue": "\"md\""
-      },
       {
         "name": "asChild",
         "type": "boolean",

@@ -97,10 +97,10 @@ export function generatePropsDocumentation() {
 					const props: PropInfo[] = [];
 
 					type.getProperties().forEach(prop => {
-						const propName = prop.getName();
-						const propType = prop
-							.getTypeAtLocation(typeAlias)
-							.getText(undefined, { maxLength: 100 });
+					const propName = prop.getName();
+					const rawType = prop.getTypeAtLocation(typeAlias).getText();
+					// Truncate long type strings for readability
+					const propType = rawType.length > 100 ? rawType.slice(0, 100) + '...' : rawType;
 						const declarations = prop.getDeclarations();
 						const isRequired = declarations.some(
 							decl => !decl.getType().isNullable() && !decl.getType().isUndefined()

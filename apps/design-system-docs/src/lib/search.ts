@@ -1,4 +1,4 @@
-import Fuse from 'fuse.js';
+import Fuse, { type FuseResultMatch } from 'fuse.js';
 import type { SearchIndexItem } from './content';
 
 /**
@@ -23,17 +23,14 @@ export function createSearchIndex(items: SearchIndexItem[]) {
 /**
  * Search content items
  */
-export function searchContent(
-	searchIndex: Fuse<SearchIndexItem>,
-	query: string
-): SearchResult[] {
+export function searchContent(searchIndex: Fuse<SearchIndexItem>, query: string): SearchResult[] {
 	if (!query || query.trim().length < 2) {
 		return [];
 	}
 
 	const results = searchIndex.search(query);
-	
-	return results.map((result) => ({
+
+	return results.map(result => ({
 		item: result.item,
 		score: result.score || 0,
 		matches: result.matches || [],
@@ -43,24 +40,19 @@ export function searchContent(
 export interface SearchResult {
 	item: SearchIndexItem;
 	score: number;
-	matches: Fuse.FuseResultMatch[];
+	matches: readonly FuseResultMatch[];
 }
 
 /**
  * Highlight matching text in search results
  */
-export function highlightMatches(
-	text: string,
-	matches: Fuse.FuseResultMatch[]
-): string {
+export function highlightMatches(text: string, matches: readonly FuseResultMatch[]): string {
 	if (!matches || matches.length === 0) {
 		return text;
 	}
 
 	// Sort matches by start position
-	const sortedMatches = matches
-		.flatMap((match) => match.indices)
-		.sort((a, b) => a[0] - b[0]);
+	const sortedMatches = matches.flatMap(match => match.indices).sort((a, b) => a[0] - b[0]);
 
 	let result = '';
 	let lastIndex = 0;
@@ -90,7 +82,7 @@ export function getSuggestions(
 	let filtered = items;
 
 	if (category) {
-		filtered = items.filter((item) => item.category === category);
+		filtered = items.filter(item => item.category === category);
 	}
 
 	// Sort by relevance (you can customize this)
@@ -100,26 +92,23 @@ export function getSuggestions(
 /**
  * Filter results by category
  */
-export function filterByCategory(
-	results: SearchResult[],
-	category: string
-): SearchResult[] {
-	return results.filter((result) => result.item.category === category);
+export function filterByCategory(results: SearchResult[], category: string): SearchResult[] {
+	return results.filter(result => result.item.category === category);
 }
 
 /**
  * Group search results by category
  */
-export function groupResultsByCategory(
-	results: SearchResult[]
-): Record<string, SearchResult[]> {
-	return results.reduce((acc, result) => {
-		const category = result.item.category;
-		if (!acc[category]) {
-			acc[category] = [];
-		}
-		acc[category].push(result);
-		return acc;
-	}, {} as Record<string, SearchResult[]>);
+export function groupResultsByCategory(results: SearchResult[]): Record<string, SearchResult[]> {
+	return results.reduce(
+		(acc, result) => {
+			const category = result.item.category;
+			if (!acc[category]) {
+				acc[category] = [];
+			}
+			acc[category].push(result);
+			return acc;
+		},
+		{} as Record<string, SearchResult[]>
+	);
 }
-
