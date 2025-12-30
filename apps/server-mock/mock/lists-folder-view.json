@@ -1,0 +1,320 @@
+{
+	"data": [
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "8167",
+			"folderName": "Social Media and Chatbot automation - Richard",
+			"folderItems": 1,
+			"id": "8167",
+			"name": "Social Media and Chatbot automation - Richard",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Lists/Folder/8167"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"created_on": "Monday 11/25/2024 04:00 PM",
+			"status-label": "-"
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "5674",
+			"folderName": "Outbound Lists RS",
+			"folderItems": 33,
+			"id": "5674",
+			"name": "Outbound Lists RS",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Lists/Folder/5674"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"created_on": "Thursday 03/14/2024 01:20 PM",
+			"status-label": "-"
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "3601",
+			"folderName": "Georges lists",
+			"folderItems": 1,
+			"id": "3601",
+			"name": "Georges lists",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Lists/Folder/3601"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"created_on": "Monday 05/01/2023 05:41 AM",
+			"status-label": "-"
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2579",
+			"folderName": "Offline Events Campaigns",
+			"folderItems": 1,
+			"id": "2579",
+			"name": "Offline Events Campaigns",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Lists/Folder/2579"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"created_on": "Thursday 04/27/2023 12:04 PM",
+			"status-label": "-"
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "8",
+			"folderName": "Demo Events",
+			"folderItems": 1,
+			"id": "8",
+			"name": "Demo Events",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Lists/Folder/8"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"created_on": "Friday 11/19/2021 10:34 AM",
+			"status-label": "-"
+		},
+		{
+			"id": "150536",
+			"list": "Email Marketing Guide 2025",
+			"created_on": "Thursday 12/19/2024 05:56 AM",
+			"contacts": "20",
+			"landing_pages": {
+				"count": "1",
+				"page": {
+					"id": "51558",
+					"name": "Email Marketing Guide in 2025 - Learn How to Drive Engagement",
+					"preview": "https://pages.vbout.com/51558/email-marketing-in-2025---learn-how-to-drive-engagement-|-vbout"
+				}
+			},
+			"status_confirmed": "19",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "1",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/150536"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "149231",
+			"list": "Instagram Comment to DM Automation - Instagram Funnel",
+			"created_on": "Monday 12/02/2024 04:42 PM",
+			"contacts": "6",
+			"status_confirmed": "6",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/149231"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "147848",
+			"list": "Personalized List",
+			"created_on": "Wednesday 11/13/2024 03:19 PM",
+			"contacts": "2",
+			"status_confirmed": "2",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/147848"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "145326",
+			"list": "Calendar Booking - Richard",
+			"created_on": "Wednesday 10/09/2024 11:20 AM",
+			"contacts": "-",
+			"status_confirmed": "-",
+			"status_unconfirmed": "-",
+			"status_unsubscribed": "-",
+			"status_bounced": "-",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/145326"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "144384",
+			"list": "AI Experts Subscription",
+			"created_on": "Wednesday 09/25/2024 11:42 AM",
+			"contacts": "2",
+			"status_confirmed": "2",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/144384"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		}
+	],
+	"draw": 1,
+	"recordsTotal": "211",
+	"recordsFiltered": "211"
+}

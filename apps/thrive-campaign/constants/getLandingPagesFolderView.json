@@ -1,0 +1,277 @@
+{
+  "data": [
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "8167",
+      "folderName": "Social Media and Chatbot automation - Richard",
+      "folderItems": 2,
+      "id": "8167",
+      "name": "Social Media and Chatbot automation - Richard",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "LandingPages\/Folder\/8167"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "12\/02\/2024 04:34 PM",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2319",
+      "folderName": "Old Webinars",
+      "folderItems": 8,
+      "id": "2319",
+      "name": "Old Webinars",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "LandingPages\/Folder\/2319"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "11\/24\/2022 04:40 AM",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2318",
+      "folderName": "Done-for-you funnel Campaign",
+      "folderItems": 3,
+      "id": "2318",
+      "name": "Done-for-you funnel Campaign",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "LandingPages\/Folder\/2318"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "11\/24\/2022 04:38 AM",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2317",
+      "folderName": "VBOUT Partners Monthly Meeting Groups",
+      "folderItems": 2,
+      "id": "2317",
+      "name": "VBOUT Partners Monthly Meeting Groups",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "LandingPages\/Folder\/2317"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "11\/24\/2022 04:36 AM",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2316",
+      "folderName": "Video Tutorials",
+      "folderItems": 2,
+      "id": "2316",
+      "name": "Video Tutorials",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "LandingPages\/Folder\/2316"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "11\/24\/2022 04:34 AM",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2315",
+      "folderName": "Reengagement Campaigns",
+      "folderItems": 1,
+      "id": "2315",
+      "name": "Reengagement Campaigns",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "LandingPages\/Folder\/2315"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "11\/24\/2022 04:31 AM",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2314",
+      "folderName": "VBOUT Promotions",
+      "folderItems": 4,
+      "id": "2314",
+      "name": "VBOUT Promotions",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "LandingPages\/Folder\/2314"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "11\/24\/2022 04:27 AM",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2313",
+      "folderName": "VBOUT Workshops",
+      "folderItems": 1,
+      "id": "2313",
+      "name": "VBOUT Workshops",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "LandingPages\/Folder\/2313"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "11\/24\/2022 04:20 AM",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2312",
+      "folderName": "Onboarding",
+      "folderItems": 2,
+      "id": "2312",
+      "name": "Onboarding",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "LandingPages\/Folder\/2312"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "11\/24\/2022 04:19 AM",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2311",
+      "folderName": "VBOUT Partners",
+      "folderItems": 33,
+      "id": "2311",
+      "name": "VBOUT Partners",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "LandingPages\/Folder\/2311"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "11\/24\/2022 04:05 AM",
+      "status-label": "-"
+    }
+  ],
+  "draw": 1,
+  "recordsTotal": "86",
+  "recordsFiltered": "86"
+}

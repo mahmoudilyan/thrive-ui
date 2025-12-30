@@ -1,0 +1,831 @@
+{
+	"tabid": "videos",
+	"isGroup": false,
+	"id": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+	"type": "youtube",
+	"stream": [
+		{
+			"uid": "",
+			"id": "CewA_WC5K-8",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/CewA_WC5K-8/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span> </span>",
+				"media": "",
+				"timestamp": "03/05/2025 11:01 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/CewA_WC5K-8\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "19",
+			"likes": "0",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "_xAKYeWqHKw",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/_xAKYeWqHKw/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span> </span>",
+				"media": "",
+				"timestamp": "03/05/2025 10:57 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/_xAKYeWqHKw\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "3",
+			"likes": "0",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "r8AqSXtWNl8",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/r8AqSXtWNl8/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span> </span>",
+				"media": "",
+				"timestamp": "03/05/2025 10:50 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/r8AqSXtWNl8\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "11",
+			"likes": "0",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "cz1C0LfgKZg",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/cz1C0LfgKZg/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span> </span>",
+				"media": "",
+				"timestamp": "03/05/2025 10:44 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/cz1C0LfgKZg\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "5",
+			"likes": "1",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "xja6ZjvLQ9c",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/xja6ZjvLQ9c/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span> </span>",
+				"media": "",
+				"timestamp": "03/05/2025 10:35 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/xja6ZjvLQ9c\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "7",
+			"likes": "0",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "pxGiLNxVJHs",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/pxGiLNxVJHs/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span> </span>",
+				"media": "",
+				"timestamp": "03/05/2025 10:17 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/pxGiLNxVJHs\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "20",
+			"likes": "0",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "-gBizqw3zaw",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/-gBizqw3zaw/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>🔹 Episode Highlights:\nEver wondered what goes on inside those exclusive WhatsApp and Telegram crypto trading groups? 🤫 We're pulling back the curtain and exposing the shocking reality of these scams! 🚫\n\nWatch as we:\n\n- Unmask the fake profiles and impersonations used to lure victims 🎭\n- Reveal the fraudulent crypto portals designed to steal your money 💰\n-Investigate the hidden details behind these elaborate scams 🕵️‍♀️\nConfront the scammers directly! 👊\n\nDon't become another victim! Learn how to spot the red flags and protect your investments. 🚨\n\nTimestamps:\n\n00:00 Introduction to Crypto Trading Scams\n00:36 Invitation to OpenBuild.ai Beta\n01:06 How Crypto Trading Scams Operate\n01:59 Fake Profiles and Impersonations\n03:51 The Fake Crypto Portal\n07:09 Investigating the Scam\n13:32 Confronting the Scammers\n17:00 Conclusion and Warnings\n\nShare this video and help us stop these crypto criminals! 📢\n\n🔗 Links & Resources:\nhttps://www.openbuild.ai\n\n🎙️ Listen on your favorite platform:\nSpotify: https://open.spotify.com/show/0qVmfyRWS5IiR9yaLisnq4?si=bc2d899bed8a4a8c\nYouTube: https://youtube.com/playlist?list=PLNRR1S9rmw1KfIQhxokp9xm05ZAWUo7ar&si=zDhbhLvQkjFvtJHJ\nGoogle Podcast: \nApple: https://podcasts.apple.com/us/podcast/life-with-ai-unlocking-your-third-brain/id1713244508\n\n#artificialintelligence #chatgpt #Gemini #openai #marketing #podcast #ai #generativeai #CryptoFraud #TelegramCrypto #WhatsAppCrypto #ScamInvestigation #CryptoAwareness #CyberCrime #DigitalFraud #ProtectYourMoney #podcast </span>",
+				"media": "",
+				"timestamp": "03/05/2025 02:58 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/-gBizqw3zaw\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "115",
+			"likes": "2",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "Ck6zn89L2ZM",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/Ck6zn89L2ZM/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>🔹 Episode Highlights:\n\nScammers are getting more sophisticated, and their tactics keep evolving. In this video, we break down 30 of the most common online scams—from phishing attacks and fake investment schemes to deepfake scams and social media fraud. Learn how these scams work and how to protect yourself from losing your money, data, or identity.\n\n⚠️ Scams Covered in This Video:\n🔹 Phishing scams & fake tech support alerts\n🔹 Social media & marketplace scams\n🔹 Romance scams & fake job offers\n🔹 Cryptocurrency & Ponzi schemes\n🔹 Fake charities, deepfake voice fraud & many more!\n\n💡 How to Stay Safe Online:\n✔️ Never click on suspicious links or provide personal info.\n✔️ Always verify sources before making payments.\n✔️ Be cautious of \"too good to be true\" offers.\n✔️ Report scams to the proper authorities.\n\n00:00:32 - Online Scams Have Crossed $1 Trillion\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=32s\n\n00:01:04 - Deepfake Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=64s\n\n00:01:37 - Phishing Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=97s\n\n00:02:08 - Fake Delivery Notifications\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=128s\n\n00:03:10 - Tech Support Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=190s\n\n00:04:47 - IRS/Government Impersonation Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=287s\n\n00:06:21 - Romance Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=381s\n\n00:09:30 - Ransomware Attacks\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=570s\n\n00:12:11 - Investment Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=731s\n\n00:13:16 - Fake Podcast Invitations\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=796s\n\n00:14:47 - Cryptocurrency Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=887s\n\n00:15:52 - Fake Online Marketplace Listings\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=952s\n\n00:17:56 - Fake PayPal Receipts\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=1076s\n\n00:19:01 - Fake Job Listings to Steal Personal Info\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=1141s\n\n00:21:00 - Ponzi and Pyramid Schemes\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=1234s\n\n00:22:06 - Pig Butchering Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=1328s\n\n00:23:30 - Fake Tech Support Ads\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=1455s\n\n00:25:49 - Fake Rental Listings\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=1549s\n\n00:26:51 - Amazon Triangulation Scam\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=1611s\n\n00:27:51 - Fake Lottery/Giveaway Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=1671s\n\n00:28:22 - Fake Appliance Insurance Calls\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=1702s\n\n00:29:15 - Email Extortion Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=1735s\n\n00:30:29 - Fake Health Products\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=1829s\n\n00:31:01 - Dark Web and Deep Web Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=1861s\n\n00:32:35 - Sextortion Scams via Video Chat\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=1954s\n\n00:33:40 - Fake Subscription Renewal Calls\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=2015s\n\n00:35:07 - Deepfake Voice Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=2107s\n\n00:37:48 - Fake Government Grants & Aid Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=2360s\n\n00:40:22 - Money Mule Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=2422s\n\n00:44:32 - Reverse Identity Theft Scams\nhttps://youtube.com/watch?v=Ck6zn89L2ZM&t=2672s\n\n🔗 Links & Resources:\nhttps://www.openbuild.ai\nhttps://chat.openai.com\n\n🎙️ Listen on your favorite platform:\nSpotify: https://open.spotify.com/show/0qVmfyRWS5IiR9yaLisnq4?si=bc2d899bed8a4a8c\nYouTube: https://youtube.com/playlist?list=PLNRR1S9rmw1KfIQhxokp9xm05ZAWUo7ar&si=zDhbhLvQkjFvtJHJ\nGoogle Podcast: \nApple: https://podcasts.apple.com/us/podcast/life-with-ai-unlocking-your-third-brain/id1713244508\n\n#artificialintelligence #chatgpt #Gemini #Sora #soraopenai #openai #marketing #podcast #ai #generativeai #onlinescams #techsupportscams #callcenterscams #IRSscams #AIscams #lotteryscam #romancescam\n\nFull credits for the scenes can be found here:\nhttps://docs.google.com/document/d/1u2IzXuz3wTfK_hnIzeQ7V3G6ZSCQz9faEu6p-8gs1vI/edit?usp=sharing </span>",
+				"media": "",
+				"timestamp": "02/19/2025 01:42 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/Ck6zn89L2ZM\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "3",
+			"views": "295",
+			"likes": "6",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "rK5f5ojWymI",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/rK5f5ojWymI/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>Did DeepSeek really build a ChatGPT competitor for just $5M? Or is there more to the story? 🤔\n\n🔥 In this video, we break down:\n\nHow DeepSeek was trained & why it’s so cheap 💰\nAPI pricing: DeepSeek vs OpenAI GPT-4o 🏆\nWhat DeepSeek lacks (GPTs, multimodal AI & more)\nThe future of AI & whether OpenAI will fight back\n💡 Will DeepSeek disrupt AI… or is it just a budget alternative? Let’s find out.\n\n📌 Timestamps:\n\n#AI #DeepSeek #ChatGPT #TechNews #ArtificialIntelligence #MachineLearning #artificialintelligence #chatgpt #Gemini #Sora #soraopenai #openai #marketing #podcast #ai #generativeai\n\n🔗 Links & Resources:\nhttps://www.openbuild.ai\nhttps://chat.openai.com\nhttps://deepseek.com\nhttps://www.vbout.com\n\n🎙️ Listen on your favorite platform:\nSpotify: https://open.spotify.com/show/0qVmfyRWS5IiR9yaLisnq4?si=bc2d899bed8a4a8c\nYouTube: https://youtube.com/playlist?list=PLNRR1S9rmw1KfIQhxokp9xm05ZAWUo7ar&si=zDhbhLvQkjFvtJHJ\nGoogle Podcast: \nApple: https://podcasts.apple.com/us/podcast/life-with-ai-unlocking-your-third-brain/id1713244508\n\n📢 Subscribe for more AI insights! 🔥 </span>",
+				"media": "",
+				"timestamp": "01/30/2025 05:56 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/rK5f5ojWymI\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "30",
+			"likes": "0",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "FPe7PLgLV9Q",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/FPe7PLgLV9Q/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>Learn how to build an AI chatbot for your own website, Facebook, Instagram, SMS, WhatsApp and more, in just a few minutes. No code required. 🌐🤖✨\n\n🔹 Episode Highlights: \n\nDiscover how to create AI-powered chatbots in just minutes without any coding knowledge! 🚀 Learn how to deploy your chatbot on websites, Facebook, Instagram, WhatsApp, and SMS to streamline inquiries, generate leads, and offer 24/7 support in 60+ languages. Perfect for personal projects, businesses, and beyond. Start now for free! 💼💡\n\n---\n\n🔗 **Key Timestamps:**\n- [00:00](https://www.youtube.com/watch?v=FPe7PLgLV9Q&t=0): Introduction to AI Chatbots\n- [00:32](https://www.youtube.com/watch?v=FPe7PLgLV9Q&t=32): How Chatbots Can Be Used\n- [01:02](https://www.youtube.com/watch?v=FPe7PLgLV9Q&t=62): Creating and Verifying an Account\n- [01:56](https://www.youtube.com/watch?v=FPe7PLgLV9Q&t=116): Collecting Your Data for Training\n- [03:40](https://www.youtube.com/watch?v=FPe7PLgLV9Q&t=220): Authorizing Chatbot on Websites & Social Media\n- [04:10](https://www.youtube.com/watch?v=FPe7PLgLV9Q&t=250): Customizing Lead Forms\n- [05:30](https://www.youtube.com/watch?v=FPe7PLgLV9Q&t=330): Uploading Training Files\n- [07:30](https://www.youtube.com/watch?v=FPe7PLgLV9Q&t=450): Configuring Chatbot Personality & Forms\n- [09:50](https://www.youtube.com/watch?v=FPe7PLgLV9Q&t=590): Training and Testing Your Chatbot\n- [12:00](https://www.youtube.com/watch?v=FPe7PLgLV9Q&t=720): Monitoring Analytics and Interactions\n\n---\n\n📢 **What You'll Learn:**\n1. How to build chatbots quickly without coding 🖥️💬\n2. Leveraging AI to enhance customer interaction across platforms 🤝✨\n3. Practical steps to train chatbots using your data 📂🔍\n4. Deployment tips for websites, Facebook, and Instagram 🌍🎯\n5. Techniques to track and improve chatbot performance 📊📈\n\n---\n\n🌟 **Get Started Today!**\n- No coding needed\n- Free to start\n- Fully customizable\n- Works across all major channels\n\n\n💡 **Don't forget to like, share, and subscribe for more tutorials!** 👍🔔\n\n🔗 Links & Resources:\nhttps://www.openbuild.ai\nhttps://www.vbout.com\nhttps://chat.openai.com\n\n🎙️ Listen on your favorite platform:\nSpotify: https://open.spotify.com/show/0qVmfyRWS5IiR9yaLisnq4?si=bc2d899bed8a4a8c\nYouTube: https://youtube.com/playlist?list=PLNRR1S9rmw1KfIQhxokp9xm05ZAWUo7ar&si=zDhbhLvQkjFvtJHJ\nApple: https://podcasts.apple.com/us/podcast/life-with-ai-unlocking-your-third-brain/id1713244508\n\n#artificialintelligence #chatgpt #Gemini #openai #marketing #podcast #ai #generativeai #chatbot #aichatbot #AIChatbot #NoCodeTools #ArtificialIntelligence #LeadGeneration #CustomerSupport #TechTips #AI </span>",
+				"media": "",
+				"timestamp": "11/21/2024 10:11 AM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/FPe7PLgLV9Q\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "255",
+			"likes": "4",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "mwS_0VLPiH4",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/mwS_0VLPiH4/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>Generate personalized cold email openers, subject lines, SMS copy, and cold-calling scripts with the Google Sheet AI Content Wizard! This powerful tool integrates OpenAI with Google Sheets to help you streamline outreach and connect with leads effectively. \n\n🔧 Features:\n- Free and simple alternative to Clay tables.\n- Supports OpenAI models like GPT-3.5 and GPT-4.\n- Automates content creation for emails, SMS, and cold calls.\n- Includes website analysis and outreach suggestions.\n\n📋 Requirements:\n- A Google account for Google Sheets access.\n- OpenAI API key for GPT model integration.\n- Predefined Google Sheet template for seamless setup.\n\n🚀 Installation Guide:\n1. Choose a script optimized for your preferred OpenAI model.\n2. Paste the script into the Google Sheets Apps Script editor.\n3. Replace the API key and authorize the script.\n4. Start generating outreach content effortlessly!\n\n📂 Resources:\n- Video Tutorial: [https://youtu.be/mwS_0VLPiH4](https://youtu.be/mwS_0VLPiH4)\n- Sample Google Sheet: [https://docs.google.com/spreadsheets/d/1WoV6zwcd1Ov5L4AGICUU9Rz6Xxtua-z-VjlPtKMqcMk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1WoV6zwcd1Ov5L4AGICUU9Rz6Xxtua-z-VjlPtKMqcMk/edit?usp=sharing)\n- GitHub Code: [https://github.com/richardfallah/Google-Sheet-AI-Content-Wizard](https://github.com/richardfallah/Google-Sheet-AI-Content-Wizard)\n\n📊 Perfect for marketers, sales teams, and anyone looking to supercharge their outreach efforts. Install today and experience the power of AI-enhanced cold outreach! 💡\n\n\n🔗 Links & Resources:\nScript on Github With Instructions:\nhttps://github.com/richardfallah/Google-Sheet-AI-Content-Wizard\n\nGoogle Sheet Template:\nhttps://docs.google.com/spreadsheets/d/1WoV6zwcd1Ov5L4AGICUU9Rz6Xxtua-z-VjlPtKMqcMk/edit?usp=sharing\n\nhttps://www.openbuild.ai\nhttps://chat.openai.com\n\n🎙️ Listen on your favorite platform:\nSpotify: https://open.spotify.com/show/0qVmfyRWS5IiR9yaLisnq4?si=bc2d899bed8a4a8c\nYouTube: https://youtube.com/playlist?list=PLNRR1S9rmw1KfIQhxokp9xm05ZAWUo7ar&si=zDhbhLvQkjFvtJHJ\nGoogle Podcast: \nApple: https://podcasts.apple.com/us/podcast/life-with-ai-unlocking-your-third-brain/id1713244508\n\nDon't forget to LIKE, SHARE, and SUBSCRIBE for more episodes on unlocking the potential of AI in our everyday lives!\n\n#artificialintelligence #chatgpt #Gemini #openai #marketing #podcast #ai #generativeai #Googlesheets #coldemails #coldcalling #SMS #coldoutreach #emailmarketing </span>",
+				"media": "",
+				"timestamp": "11/15/2024 12:14 AM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/mwS_0VLPiH4\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "2",
+			"views": "214",
+			"likes": "3",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "tfi-8a9gB_0",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/tfi-8a9gB_0/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>How #phishing #emails work and \nhow we stop 100s of them each month. This is why we moderate each account, extensively, and have proprietary monitoring and detection in place to keep VBOUT clean and safe for @everyone \n\n#marketing #emailmarketing #phishingemails #security www.vbout.com </span>",
+				"media": "",
+				"timestamp": "09/06/2024 06:17 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/tfi-8a9gB_0\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "25",
+			"likes": "0",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "jfBItRu-C0Y",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/jfBItRu-C0Y/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>Greatness is earned, not given. What you do today has a direct impact on your future. \r\n#Grind #FutureSuccess #Commitment #KeepGoing #TrustTheProcess </span>",
+				"media": "",
+				"timestamp": "09/02/2024 08:42 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/jfBItRu-C0Y\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "14",
+			"likes": "1",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "41rU0l7p7eQ",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/41rU0l7p7eQ/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>Watch out for these employment scams and when in doubt! use AI :)\nHere is a short video on how this scam works, beginning, middle and end. Also, how I made #Gemini, my personal security consultant.\n\nStay informed and safe! \n\n#artificialintelligence #chatgpt #Gemini #openai #marketing #podcast #ai #generativeai #ScamAlert #CryptoSafety #AI #EmploymentScam #ProtectYourCrypto #OpenBuildAI #GeminiAI #cadence #cadencescam </span>",
+				"media": "",
+				"timestamp": "08/23/2024 05:40 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/41rU0l7p7eQ\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "47",
+			"likes": "0",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "lcRfTTMaTfM",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/lcRfTTMaTfM/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>Watch out for these employment scams and when in doubt! use AI :)\nHere is a short video on how this scam works, beginning, middle and end. Also, how I made #Gemini, my personal security consultant.\n\nStay informed and safe! \n\n#artificialintelligence #chatgpt #Gemini #openai #marketing #podcast #ai #generativeai #ScamAlert #CryptoSafety #AI #EmploymentScam #ProtectYourCrypto #OpenBuildAI #GeminiAI #cadence #cadencescam </span>",
+				"media": "",
+				"timestamp": "08/23/2024 05:39 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/lcRfTTMaTfM\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "42",
+			"likes": "0",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "Qr3vrZ_XYsI",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/Qr3vrZ_XYsI/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>Watch out for these employment scams and when in doubt! use AI :)\nHere is a short video on how this scam works, beginning, middle and end. Also, how I made #Gemini, my personal security consultant.\n\nStay informed and safe! \n\n#artificialintelligence #chatgpt #Gemini #openai #marketing #podcast #ai #generativeai #ScamAlert #CryptoSafety #AI #EmploymentScam #ProtectYourCrypto #OpenBuildAI #GeminiAI #cadence #cadencescam </span>",
+				"media": "",
+				"timestamp": "08/23/2024 05:38 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/Qr3vrZ_XYsI\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "44",
+			"likes": "1",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "gwUrbp3falw",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/gwUrbp3falw/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>Watch out for these employment scams and when in doubt! use AI :)\nHere is a short video on how this scam works, beginning, middle and end. Also, how I made #Gemini, my personal security consultant.\n\nStay informed and safe! \n\n#artificialintelligence #chatgpt #Gemini #openai #marketing #podcast #ai #generativeai #ScamAlert #CryptoSafety #AI #EmploymentScam #ProtectYourCrypto #OpenBuildAI #GeminiAI #cadence #cadencescam </span>",
+				"media": "",
+				"timestamp": "08/23/2024 05:37 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/gwUrbp3falw\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "26",
+			"likes": "1",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "CqPuGveMFDM",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/CqPuGveMFDM/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>Watch out for these employment scams and when in doubt! use AI :)\nHere is a short video on how this scam works, beginning, middle and end. Also, how I made #Gemini, my personal security consultant.\n\nStay informed and safe! \n\n#artificialintelligence #chatgpt #Gemini #openai #marketing #podcast #ai #generativeai #ScamAlert #CryptoSafety #AI #EmploymentScam #ProtectYourCrypto #OpenBuildAI #GeminiAI #cadence #cadencescam </span>",
+				"media": "",
+				"timestamp": "08/23/2024 05:35 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/CqPuGveMFDM\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "32",
+			"likes": "0",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "5h64qOrOFPE",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/5h64qOrOFPE/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>🔹 Episode Highlights:\n\nWatch out for these employment scams and when in doubt! use AI :)\nHere is a short video on how this scam works, beginning, middle and end. Also, how I made #Gemini, my personal security consultant.\n\nStay informed and safe! \n\n00:00 Introduction to Employment Scam\n\n00:30 Invitation to OpenBuild.ai Beta\n\n00:59 Initial Scam Contact\n\n02:19 Scam Progression and Red Flags\n\n04:02 Using AI to Identify Scams\n\n07:51 Scam Conclusion and Summary\n\n10:04 Final Thoughts and Warnings\n\n\n🔗 Links & Resources:\nhttps://www.openbuild.ai\nhttp://www.vbout.com\n\n🎙️ Listen on your favorite platform:\nSpotify: https://open.spotify.com/show/0qVmfyRWS5IiR9yaLisnq4?si=bc2d899bed8a4a8c\nYouTube: https://youtube.com/playlist?list=PLNRR1S9rmw1KfIQhxokp9xm05ZAWUo7ar&si=zDhbhLvQkjFvtJHJ\nGoogle Podcast: \nApple: https://podcasts.apple.com/us/podcast/life-with-ai-unlocking-your-third-brain/id1713244508\n\nDon't forget to LIKE, SHARE, and SUBSCRIBE for more episodes on unlocking the potential of AI in our everyday lives!\n\n#artificialintelligence #chatgpt #Gemini #openai #marketing #podcast #ai #generativeai #ScamAlert #CryptoSafety #AI #EmploymentScam #ProtectYourCrypto #OpenBuildAI #GeminiAI #cadence #cadencescam </span>",
+				"media": "",
+				"timestamp": "08/23/2024 05:08 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/5h64qOrOFPE\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "70",
+			"likes": "2",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "4ip5w429WUU",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/4ip5w429WUU/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>All you need to know about the latest EU and US AI compliance laws and how it impacts you:\n\nHighlights:\n- [00:00:00](https://youtube.com/watch?v=4ip5w429WUU&t=0s) 🎙️ Introduction and Overview\n\n  - Introduction to the episode's focus on AI regulations in the EU and US,\n  - Invitation to join the beta release of Open Build AI chatbot.\n\n- [00:00:40](https://youtube.com/watch?v=4ip5w429WUU&t=40s) 🇪🇺 EU AI Act\n\n  - Effective date and impact of the EU AI Act,\n  - Risk-based classification of AI systems into unacceptable risk, high risk, and low risk,\n  - Creation and role of the European Artificial Intelligence Board (EAIB),\n  - Potential global influence of the EU AI Act.\n\n- [00:02:55](https://youtube.com/watch?v=4ip5w429WUU&t=175s) 🇺🇸 US AI Compliance\n\n  - Fragmentation in US AI regulations across different federal agencies (FTC, FDA, NHTSA),\n  - Lack of overarching federal standards for AI ethics and transparency,\n  - Varying state regulations on privacy and data protection.\n\n- [00:04:58](https://youtube.com/watch?v=4ip5w429WUU&t=298s) 🌐 Importance for Businesses\n\n  - Importance of understanding both EU and US regulations for global operations,\n  - Emphasis on ethical considerations in AI use,\n  - Business impact including legal compliance, fines, and building consumer trust.\n\n- [00:05:51](https://youtube.com/watch?v=4ip5w429WUU&t=351s) 📝 Conclusion\n\n  - Recap of the importance of knowing key AI regulation provisions in both regions,\n  - Appreciation for watching and anticipation for future updates.\n🔗 Links & Resources:\nhttps://www.jdsupra.com/legalnews/the-eu-ai-act-enters-into-force-9172737/\nhttps://www.jdsupra.com/legalnews/artificial-intelligence-briefing-white-8318611/\nhttps://www.openbuild.ai\nhttps://chat.openai.com\n🎙️ Listen on your favorite platform:\nSpotify: https://open.spotify.com/show/0qVmfyRWS5IiR9yaLisnq4?si=bc2d899bed8a4a8c\nYouTube: https://youtube.com/playlist?list=PLNRR1S9rmw1KfIQhxokp9xm05ZAWUo7ar&si=zDhbhLvQkjFvtJHJ\nGoogle Podcast: \nApple: https://podcasts.apple.com/us/podcast/life-with-ai-unlocking-your-third-brain/id1713244508\n\nDon't forget to LIKE, SHARE, and SUBSCRIBE for more episodes on unlocking the potential of AI in our everyday lives!\n\n#artificialintelligence #chatgpt #Gemini #Sora #soraopenai #openai #marketing #podcast #ai #generativeai </span>",
+				"media": "",
+				"timestamp": "08/08/2024 12:36 AM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/4ip5w429WUU\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "94",
+			"likes": "1",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "lv8T4TpVcgM",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/lv8T4TpVcgM/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span>Sora by OPENAI looks very promising. It can generate high resolution realistic videos with great details and smooth transitions. I breakdown this pre-release for you with video examples, limitations and what to expect.\n\n🔹 Episode Highlights:\n- [00:01](https://www.youtube.com/watch?v=lv8T4TpVcgM&ab_channel=RichardFallah&t=1s) 🚀 Overview of Sora: OpenAI's Text-to-Video Model\n\n  - Introduction to Sora, OpenAI's upcoming text-to-video generation model.\n  - Details on the release, examples provided, and insights into the model's capabilities.\n\n- [01:11](https://www.youtube.com/watch?v=lv8T4TpVcgM&ab_channel=RichardFallah&t=71s) 🎥 Quality and Diversity of Generated Videos\n\n  - Demonstrations of high-quality videos with smooth transitions and natural object positioning.\n  - Examples ranging from urban scenes to historical footage, showcasing diverse applications.\n  - Mention of generating both realistic and 3D character videos.\n\n- [04:11](https://www.youtube.com/watch?v=lv8T4TpVcgM&ab_channel=RichardFallah&t=251s) 💡 Technical Details and Limitations\n\n  - Explanation of the diffusion model used for video generation.\n  - Discussion on the model's ability to animate still images and extend existing footage.\n  - Noted limitations include duration constraints, physical implausibilities, and challenges in modeling complex interactions.\n\n- [07:01](https://www.youtube.com/watch?v=lv8T4TpVcgM&ab_channel=RichardFallah&t=421s) 💼 Release Details and Potential Usage\n\n  - Estimated release timeline and considerations regarding safety and technical improvements.\n  - Speculation on usage scenarios, including integration with ChatGPT and API access for developers.\n  - Mention of potential pricing models and expectations for commercial usage rights.\n\n🔗 Links & Resources:\nhttps://www.openbuild.ai\nhttps://chat.openai.com\nhttps://bard.google.com\n🎙️ Listen on your favorite platform:\nSpotify: https://open.spotify.com/show/0qVmfyRWS5IiR9yaLisnq4?si=bc2d899bed8a4a8c\nYouTube: https://youtube.com/playlist?list=PLNRR1S9rmw1KfIQhxokp9xm05ZAWUo7ar&si=zDhbhLvQkjFvtJHJ\nGoogle Podcast: https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lYjM1MDJkYy9wb2RjYXN0L3Jzcw\nApple: https://podcasts.apple.com/us/podcast/life-with-ai-unlocking-your-third-brain/id1713244508\n\nDon't forget to LIKE, SHARE, and SUBSCRIBE for more episodes on unlocking the potential of AI in our everyday lives!\n\n#artificialintelligence #chatgpt #Sora #soraopenai #openai #aivideoart  #anthropic #midjourney #ai #generativeai </span>",
+				"media": "",
+				"timestamp": "02/18/2024 09:25 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/lv8T4TpVcgM\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "2",
+			"views": "55",
+			"likes": "2",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "_j9YzJec6sQ",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/_j9YzJec6sQ/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span> </span>",
+				"media": "",
+				"timestamp": "02/09/2024 06:17 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/_j9YzJec6sQ\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "10",
+			"likes": "0",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "iok2q2Qn9xA",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/iok2q2Qn9xA/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span> </span>",
+				"media": "",
+				"timestamp": "02/09/2024 06:10 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/iok2q2Qn9xA\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "28",
+			"likes": "0",
+			"type": "youtube"
+		},
+		{
+			"uid": "",
+			"id": "Xnib8HF3iuk",
+			"header": {
+				"imageAlt": "-",
+				"userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+				"account_name": "Richard Fallah",
+				"screen_name": "",
+				"picture": "https://i.ytimg.com/vi/Xnib8HF3iuk/default.jpg",
+				"action": "",
+				"url": "https://www.youtube.com/channel/UC0E7uPO0Dmv0_8_6CNi-UBg"
+			},
+			"can": {
+				"comment": 1,
+				"remove": 1,
+				"like": 1
+			},
+			"body": {
+				"text": "<span> </span>",
+				"media": "",
+				"timestamp": "02/09/2024 05:52 PM",
+				"postLink": "",
+				"embedded": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/Xnib8HF3iuk\" frameborder=\"0\" allowfullscreen>"
+			},
+			"entities": {
+				"images": [],
+				"videos": []
+			},
+			"streamType": "myVideos",
+			"comments": "0",
+			"views": "47",
+			"likes": "0",
+			"type": "youtube"
+		}
+	],
+	"profile": {
+		"id": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+		"name": "Richard Fallah",
+		"picture": "https://yt3.ggpht.com/ytc/APkrFKZGO-f8vlLGpVSGKQbcy-Dy9vilO2NPm772hlu_HQ=s88-c-k-c0x00ffffff-no-rj"
+	},
+	"title": "Videos",
+	"status": "success"
+}

@@ -1,0 +1,178 @@
+{
+	"tabid": "messages",
+	"isGroup": false,
+	"id": "24",
+	"type": "twilio",
+	"messages": [
+		{
+			"id": "30465",
+			"updated_time": "04/08/2024 10:43 AM",
+			"more": 0,
+			"mms": 0,
+			"contacts": 3,
+			"contactsInfo": {
+				"first_name": "",
+				"last_name": "",
+				"full_name": "",
+				"email": "johnny+255@vbout.com"
+			},
+			"sender": {
+				"id": "SM9def41d0e7586fa3441f0c069a86085d14755579sd6xx7",
+				"direction": "inbound",
+				"phone": "+96170949324",
+				"name": "",
+				"picture": ""
+			},
+			"snippet": "what is the ai sales?",
+			"unread": 0,
+			"messages": [
+				{
+					"sender": 1,
+					"id": "SM9def41d0e7586fa3441f0c069a86085d14755579sd6xx7",
+					"from": {
+						"id": "SM9def41d0e7586fa3441f0c069a86085d14755579sd6xx7",
+						"name": "",
+						"phone": "+96170949324"
+					},
+					"message": "what is the ai sales?",
+					"created_time": "04/08/2024 10:43 AM",
+					"images": [],
+					"videos": []
+				},
+				{
+					"sender": 1,
+					"id": "SM9def41d0e7586fa3441f0c069a86085d14755579sd6x9",
+					"from": {
+						"id": "SM9def41d0e7586fa3441f0c069a86085d14755579sd6x9",
+						"name": "",
+						"phone": "+96170949324"
+					},
+					"message": "what is the ai sales?",
+					"created_time": "04/01/2024 07:20 AM",
+					"images": [],
+					"videos": []
+				}
+			],
+			"after": 2,
+			"can": {
+				"reply": 1
+			}
+		},
+		{
+			"id": "30106",
+			"updated_time": "04/02/2024 01:17 AM",
+			"more": 0,
+			"mms": 0,
+			"contacts": 0,
+			"contactsInfo": [],
+			"sender": {
+				"id": "SM9def41d0e7586fa3441f0c069a86085d14755579sd6xx1",
+				"direction": "inbound",
+				"phone": "+19174007133",
+				"name": "",
+				"picture": ""
+			},
+			"snippet": "what is the ai sales?",
+			"unread": 0,
+			"messages": [
+				{
+					"sender": 1,
+					"id": "SM9def41d0e7586fa3441f0c069a86085d14755579sd6xx1",
+					"from": {
+						"id": "SM9def41d0e7586fa3441f0c069a86085d14755579sd6xx1",
+						"name": "",
+						"phone": "+19174007133"
+					},
+					"message": "what is the ai sales?",
+					"created_time": "04/02/2024 01:17 AM",
+					"images": [],
+					"videos": []
+				}
+			],
+			"after": 1,
+			"can": {
+				"reply": 1
+			}
+		},
+		{
+			"id": "30072",
+			"updated_time": "04/01/2024 09:32 AM",
+			"more": 0,
+			"mms": 0,
+			"contacts": 0,
+			"contactsInfo": [],
+			"sender": {
+				"id": "SM9def41d0e7586fa3441f0c069a86085d14755579sd6xx2",
+				"direction": "inbound",
+				"phone": "+15307231737",
+				"name": "",
+				"picture": ""
+			},
+			"snippet": "what is the ai sales?",
+			"unread": 0,
+			"messages": [
+				{
+					"sender": 1,
+					"id": "SM9def41d0e7586fa3441f0c069a86085d14755579sd6xx2",
+					"from": {
+						"id": "SM9def41d0e7586fa3441f0c069a86085d14755579sd6xx2",
+						"name": "",
+						"phone": "+15307231737"
+					},
+					"message": "what is the ai sales?",
+					"created_time": "04/01/2024 09:32 AM",
+					"images": [],
+					"videos": []
+				}
+			],
+			"after": 1,
+			"can": {
+				"reply": 1
+			}
+		},
+		{
+			"id": "30067",
+			"updated_time": "04/01/2024 07:12 AM",
+			"more": 0,
+			"mms": 0,
+			"contacts": 0,
+			"contactsInfo": [],
+			"sender": {
+				"id": "SM9def41d0e7586fa3441f0c069a86085da12345T2",
+				"direction": "inbound",
+				"phone": "+96171618478",
+				"name": "",
+				"picture": ""
+			},
+			"snippet": "what is the ai sales?",
+			"unread": 0,
+			"messages": [
+				{
+					"sender": 1,
+					"id": "SM9def41d0e7586fa3441f0c069a86085da12345T2",
+					"from": {
+						"id": "SM9def41d0e7586fa3441f0c069a86085da12345T2",
+						"name": "",
+						"phone": "+96171618478"
+					},
+					"message": "what is the ai sales?",
+					"created_time": "04/01/2024 07:12 AM",
+					"images": [],
+					"videos": []
+				}
+			],
+			"after": 1,
+			"can": {
+				"reply": 1
+			}
+		}
+	],
+	"profile": {
+		"id": "24",
+		"name": "Richard SMS",
+		"picture": ""
+	},
+	"title": "Messages",
+	"after": 4,
+	"status": "success"
+}

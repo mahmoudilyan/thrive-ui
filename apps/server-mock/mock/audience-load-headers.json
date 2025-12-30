@@ -1,0 +1,54 @@
+{
+	"headers": {
+		"id": "",
+		"name": {
+			"title": "Audience",
+			"sort": true
+		},
+		"contacts": "Contacts",
+		"created_on": {
+			"title": "Created",
+			"sort": true
+		},
+		"last_updated": {
+			"title": "Last Updated",
+			"sort": true
+		},
+		"actions": "Actions"
+	},
+	"actions": {
+		"master": {
+			"text": "Show Results",
+			"className": "actionAudienceContacts"
+		},
+		"list": {
+			"edit": {
+				"text": "Edit",
+				"className": "actionEditAudience"
+			},
+			"copy": {
+				"text": "Copy",
+				"className": "actionCopyAudience"
+			},
+			"refresh": {
+				"text": "Refresh",
+				"className": "actionRefreshAudience"
+			},
+			"export": {
+				"text": "Export",
+				"className": "actionExportAudience"
+			},
+			"export_history": {
+				"text": "Export History",
+				"className": "actionAudienceExportHistory"
+			},
+			"divider2": "divider",
+			"folder": "",
+			"folder-divider": "divider",
+			"delete": {
+				"text": "Delete",
+				"className": "actionDeleteAudience"
+			}
+		}
+	}
+}

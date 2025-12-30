@@ -1,0 +1,42 @@
+{
+	"headers": {
+		"id": "",
+		"goal_name": {
+			"title": "Goal",
+			"sort": true
+		},
+		"type": "Type",
+		"domain": "Domain",
+		"value": "Value",
+		"achieved": "Reach",
+		"status": {
+			"title": "Status",
+			"toggle": true,
+			"className": "actionUpdateGoalStatus"
+		},
+		"actions": "Actions"
+	},
+	"actions": {
+		"master": {
+			"text": "Analytics",
+			"className": "actionGoalStats"
+		},
+		"list": {
+			"edit": {
+				"text": "Edit",
+				"className": "actionEditGoal"
+			},
+			"dividerx": "divider",
+			"folder": "",
+			"folder-divider": "divider",
+			"attachtoassetgroup": "",
+			"addtotask": "",
+			"createnewtask": "",
+			"divider2": "divider",
+			"delete": {
+				"text": "Delete",
+				"className": "actionDeleteGoal"
+			}
+		}
+	}
+}

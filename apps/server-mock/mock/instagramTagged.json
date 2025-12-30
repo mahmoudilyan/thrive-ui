@@ -1,0 +1,43 @@
+{
+	"tabid": "tags",
+	"isGroup": false,
+	"id": "17841402208943925",
+	"type": "instagram",
+	"stream": [
+		{
+			"id": "17949128432984991",
+			"uid": "17841402208943925",
+			"header": {
+				"userid": "ciprcoms",
+				"account_name": "ciprcoms",
+				"picture": null,
+				"imageAlt": "C",
+				"url": "https://www.instagram.com/ciprcoms",
+				"type": "business",
+				"commentsType": "tags"
+			},
+			"body": {
+				"text": "Email. SMS. Engagement you can measure.\n\nIn this highlight, Haytham shares how AI-powered CRM tools are taking Digital PR to the next level—making outreach smarter, more personalized, and way more effective.\n\n• Track clicks, views, opens, and real-time engagement.\n• Go beyond email with SMS marketing that meets audiences where they are.\n• The future of lead gen is multi-channel, data-driven, and powered by AI.\n\n🎧 Catch the full episode TOMORROW—get ready to see what modern PR really looks like.\n\n#CIPRPodcast #DigitalPR #AIinMarketing #LeadGeneration #CRMStrategy #EmailMarketing #SMSMarketing",
+				"media": {
+					"type": "video",
+					"thumb": "https://app.vbout.com/timthumb.php?w=200&src=https%3A%2F%2Fscontent-iad3-2.cdninstagram.com%2Fv%2Ft51.29350-15%2F499572922_1430340258140817_1127024964145375223_n.jpg%3Fstp%3Ddst-jpg_e35_tt6%26_nc_cat%3D103%26ccb%3D1-7%26_nc_sid%3D18de74%26_nc_ohc%3DsAiUof3j9bIQ7kNvwHZ-CdA%26_nc_oc%3DAdnfpLeg0nAgo7KXHiJF6AAXL1Yu8-lqdbN8qK_tfRPFI5pGWyghOd5Ed5fM-LB2WrM%26_nc_zt%3D23%26_nc_ht%3Dscontent-iad3-2.cdninstagram.com%26edm%3DAJ7ooaQEAAAA%26_nc_gid%3Dy_kpv_-Wo56BgO-UaKR8Pg%26oh%3D00_AfK1mGyKm_JDgM1MhfvxJLiYchIx0Jum9nSOnyVz_IilOQ%26oe%3D683CF57B",
+					"url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t16/f2/m86/AQPprbbiAVd41qriHgmCR0lxLpQfSKFMr8hVs2opI08oWpOrRquYz2ziI9D6xCodDcoW7-ewXfFZqhBR2jPe9X3oEE-jSM6eqq3OBN4.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLmNsaXBzLnVua25vd24tQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSJ9&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AJ7ooaQEAAAA&_nc_gid=y_kpv_-Wo56BgO-UaKR8Pg&_nc_cat=110&_nc_oc=Adk9OxZuQ11RJgIe0tzQboLzyaXP-cqtTf8J-5MX5SD-S7tKl4AB6Pzm8yT1TTTn0CM&vs=1249806266851272_510416173&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80MjRGRTI2Qzc3OEJBRjVERDhERUZDNDVCQTM3NEU4RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT0xLangxbUUxYnBVMzRDQUtNSmJWVjJMakFGYnFfRUFBQUYVAgLIARIAKAAYABsBiAd1c2Vfb2lsATEVAAAmirWvwpuhzz8VAigCQzMsF0BEBT987ZFoGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHUAZeadAQA%3D&ccb=9-4&oh=00_AfKIMxNKKurm5RX545zxjIuklLuQxhqj_9aWjPJfRN2m7w&oe=6838FA16&_nc_sid=1d576d"
+				},
+				"timestamp": "05/19/2025 01:35 PM",
+				"postLink": "https://www.instagram.com/reel/DJ1_bCvvm_I/"
+			},
+			"liked": 0,
+			"likes": 11,
+			"comments": 1,
+			"streamType": "instagramTags",
+			"isArchived": 0
+		}
+	],
+	"profile": {
+		"id": "17841402208943925",
+		"name": "Marketing Automation Platform",
+		"picture": "https://scontent-iad3-2.xx.fbcdn.net/v/t51.75761-15/496782130_18456189895073632_2697685152156558342_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=7d201b&_nc_ohc=Vt9IUIiaCQ8Q7kNvwEbk7jF&_nc_oc=AdmNL01Q-rEVkIoTU8YUGqYe46M3M9CdU-oAVueQJZakFEDktHYSb_nxT6wWZTimzfI&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AL-3X8kEAAAA&_nc_gid=Im3i-PMy6ge-1NfSiA62fQ&oh=00_AfJBr408XvYTjzNAh2-B7hJyrNdy9MblRwDSj9RZrnjpOg&oe=683CF600"
+	},
+	"title": "Tagged Posts",
+	"status": "success"
+}

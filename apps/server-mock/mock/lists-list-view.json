@@ -1,0 +1,1718 @@
+{
+	"data": [
+		{
+			"id": "152042",
+			"list": "AI chatbot franchises",
+			"created_on": "Tuesday 01/14/2025 01:23 PM",
+			"contacts": "232",
+			"status_confirmed": "199",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "33",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/152042"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "151947",
+			"list": "Email Guide List",
+			"created_on": "Monday 01/13/2025 10:54 AM",
+			"contacts": "1585",
+			"status_confirmed": "1483",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "28",
+			"status_bounced": "74",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/151947"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "150536",
+			"list": "Email Marketing Guide 2025",
+			"created_on": "Thursday 12/19/2024 05:56 AM",
+			"contacts": "20",
+			"landing_pages": {
+				"count": "1",
+				"page": {
+					"id": "51558",
+					"name": "Email Marketing Guide in 2025 - Learn How to Drive Engagement",
+					"preview": "https://pages.vbout.com/51558/email-marketing-in-2025---learn-how-to-drive-engagement-|-vbout"
+				}
+			},
+			"status_confirmed": "19",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "1",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/150536"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "149231",
+			"list": "Instagram Comment to DM Automation - Instagram Funnel",
+			"created_on": "Monday 12/02/2024 04:42 PM",
+			"contacts": "6",
+			"status_confirmed": "6",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/149231"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "148741",
+			"list": "Instagram Comment to DM Automation - Cold Email Workshop",
+			"created_on": "Monday 11/25/2024 03:59 PM",
+			"contacts": "7",
+			"status_confirmed": "7",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/148741"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Social Media and Chatbot automation - Richard"
+		},
+		{
+			"id": "147848",
+			"list": "Personalized List",
+			"created_on": "Wednesday 11/13/2024 03:19 PM",
+			"contacts": "2",
+			"status_confirmed": "2",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/147848"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "146789",
+			"list": "LinkedIn - chatbot",
+			"created_on": "Tuesday 10/29/2024 01:36 PM",
+			"contacts": "8270",
+			"status_confirmed": "6626",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "1364",
+			"status_bounced": "280",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/146789"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "146109",
+			"list": "Medical 2",
+			"created_on": "Monday 10/21/2024 12:29 PM",
+			"contacts": "2662",
+			"status_confirmed": "2467",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "179",
+			"status_bounced": "16",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/146109"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "145326",
+			"list": "Calendar Booking - Richard",
+			"created_on": "Wednesday 10/09/2024 11:20 AM",
+			"contacts": "-",
+			"status_confirmed": "-",
+			"status_unconfirmed": "-",
+			"status_unsubscribed": "-",
+			"status_bounced": "-",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/145326"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "144384",
+			"list": "AI Experts Subscription",
+			"created_on": "Wednesday 09/25/2024 11:42 AM",
+			"contacts": "2",
+			"status_confirmed": "2",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/144384"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "144290",
+			"list": "VBOUT Events Attendees ",
+			"created_on": "Tuesday 09/24/2024 11:44 AM",
+			"contacts": "613",
+			"status_confirmed": "549",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "43",
+			"status_bounced": "21",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/144290"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "143987",
+			"list": "Website Visitors",
+			"created_on": "Friday 09/20/2024 10:25 AM",
+			"contacts": "125",
+			"status_confirmed": "107",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "14",
+			"status_bounced": "4",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/143987"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "143938",
+			"list": "Ecommerce",
+			"created_on": "Thursday 09/19/2024 12:11 PM",
+			"contacts": "614",
+			"status_confirmed": "545",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "69",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/143938"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "143834",
+			"list": "Cold Events Attendees",
+			"created_on": "Wednesday 09/18/2024 12:20 PM",
+			"contacts": "8683",
+			"status_confirmed": "7515",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "934",
+			"status_bounced": "234",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/143834"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "140925",
+			"list": "Coaches",
+			"created_on": "Tuesday 08/13/2024 10:35 AM",
+			"contacts": "6410",
+			"status_confirmed": "4905",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "1407",
+			"status_bounced": "98",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/140925"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "140700",
+			"list": "Rb2b Leads - RS Webhook",
+			"created_on": "Friday 08/09/2024 01:55 PM",
+			"contacts": "21",
+			"status_confirmed": "19",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "2",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/140700"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "140572",
+			"list": "Exclude from RS Outbound",
+			"created_on": "Thursday 08/08/2024 11:25 AM",
+			"contacts": "27518",
+			"status_confirmed": "16985",
+			"status_unconfirmed": "3",
+			"status_unsubscribed": "9085",
+			"status_bounced": "1445",
+			"status_complaint": 142,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/140572"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "139487",
+			"list": "Test 123",
+			"created_on": "Wednesday 07/24/2024 06:14 PM",
+			"contacts": "3",
+			"status_confirmed": "3",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/139487"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "139337",
+			"list": "Real estate",
+			"created_on": "Tuesday 07/23/2024 07:08 AM",
+			"contacts": "6034",
+			"status_confirmed": "5433",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "563",
+			"status_bounced": "38",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/139337"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "138841",
+			"list": "Banking",
+			"created_on": "Monday 07/15/2024 03:02 PM",
+			"contacts": "6063",
+			"status_confirmed": "5725",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "305",
+			"status_bounced": "33",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/138841"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "138590",
+			"list": "Retail 2",
+			"created_on": "Wednesday 07/10/2024 12:10 PM",
+			"contacts": "3985",
+			"status_confirmed": "3750",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "185",
+			"status_bounced": "50",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/138590"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "138559",
+			"list": "Landing Page 144 1",
+			"created_on": "Wednesday 07/10/2024 03:50 AM",
+			"contacts": "2",
+			"status_confirmed": "2",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/138559"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "138395",
+			"list": "Agencies",
+			"created_on": "Monday 07/08/2024 09:51 AM",
+			"contacts": "16862",
+			"status_confirmed": "13959",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "2620",
+			"status_bounced": "283",
+			"status_complaint": 1,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/138395"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "137703",
+			"list": "Medical",
+			"created_on": "Wednesday 06/26/2024 12:29 PM",
+			"contacts": "3908",
+			"status_confirmed": "3715",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "186",
+			"status_bounced": "7",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/137703"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "135999",
+			"list": "Industrial Engineering",
+			"created_on": "Wednesday 06/05/2024 07:49 AM",
+			"contacts": "7122",
+			"status_confirmed": "6628",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "471",
+			"status_bounced": "23",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/135999"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "135331",
+			"list": "Mahmoud's Test List",
+			"created_on": "Wednesday 05/29/2024 04:16 AM",
+			"contacts": "-",
+			"status_confirmed": "-",
+			"status_unconfirmed": "-",
+			"status_unsubscribed": "-",
+			"status_bounced": "-",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/135331"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "133333",
+			"list": "Influencers",
+			"created_on": "Wednesday 05/08/2024 10:54 AM",
+			"contacts": "56",
+			"status_confirmed": "52",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "4",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/133333"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "132153",
+			"list": "sendspark test 3",
+			"created_on": "Monday 04/29/2024 03:32 PM",
+			"contacts": "-",
+			"status_confirmed": "-",
+			"status_unconfirmed": "-",
+			"status_unsubscribed": "-",
+			"status_bounced": "-",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/132153"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "132152",
+			"list": "sendspark test 2",
+			"created_on": "Monday 04/29/2024 03:29 PM",
+			"contacts": "2",
+			"status_confirmed": "1",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "1",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/132152"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "131173",
+			"list": "sendspark test",
+			"created_on": "Thursday 04/25/2024 01:28 PM",
+			"contacts": "2",
+			"status_confirmed": "1",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "1",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/131173"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "130216",
+			"list": "Filters - SR    ",
+			"created_on": "Monday 04/22/2024 10:12 AM",
+			"contacts": "15191",
+			"status_confirmed": "13832",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "1142",
+			"status_bounced": "217",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/130216"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "129450",
+			"list": "LIST SMS-JOHNNY",
+			"created_on": "Monday 04/15/2024 09:17 AM",
+			"contacts": "4",
+			"status_confirmed": "4",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/129450"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "129278",
+			"list": "Duplicates",
+			"created_on": "Thursday 04/11/2024 12:25 PM",
+			"contacts": "9",
+			"status_confirmed": "9",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/129278"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "128617",
+			"list": "Financial Landing Page",
+			"created_on": "Thursday 04/04/2024 08:50 AM",
+			"contacts": "-",
+			"status_confirmed": "-",
+			"status_unconfirmed": "-",
+			"status_unsubscribed": "-",
+			"status_bounced": "-",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/128617"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "128458",
+			"list": "Hubspot 2 - SR  ",
+			"created_on": "Tuesday 04/02/2024 10:38 AM",
+			"contacts": "401",
+			"status_confirmed": "386",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "11",
+			"status_bounced": "4",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/128458"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "127887",
+			"list": "Hubspot - SR  ",
+			"created_on": "Tuesday 03/26/2024 01:44 PM",
+			"contacts": "517",
+			"status_confirmed": "507",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "9",
+			"status_bounced": "1",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/127887"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "127811",
+			"list": "Marketo - SR ",
+			"created_on": "Monday 03/25/2024 04:30 PM",
+			"contacts": "174",
+			"status_confirmed": "172",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "2",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/127811"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "127802",
+			"list": "Mailchimp - SR",
+			"created_on": "Monday 03/25/2024 02:20 PM",
+			"contacts": "166",
+			"status_confirmed": "159",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "4",
+			"status_bounced": "3",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/127802"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "127610",
+			"list": "InfusionSoft - SR",
+			"created_on": "Friday 03/22/2024 02:33 PM",
+			"contacts": "31",
+			"status_confirmed": "31",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/127610"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "127550",
+			"list": "Zoho one - SR",
+			"created_on": "Thursday 03/21/2024 04:50 PM",
+			"contacts": "28",
+			"status_confirmed": "28",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/127550"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "127448",
+			"list": "Adobe Marketing Cloud - SR",
+			"created_on": "Wednesday 03/20/2024 02:41 PM",
+			"contacts": "76",
+			"status_confirmed": "74",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "2",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/127448"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "127447",
+			"list": "Acton - SR",
+			"created_on": "Wednesday 03/20/2024 02:39 PM",
+			"contacts": "59",
+			"status_confirmed": "59",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/127447"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "127340",
+			"list": "Sharpspring - SR",
+			"created_on": "Tuesday 03/19/2024 12:42 PM",
+			"contacts": "190",
+			"status_confirmed": "180",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "7",
+			"status_bounced": "3",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/127340"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "127069",
+			"list": "SR Test List",
+			"created_on": "Thursday 03/14/2024 02:24 PM",
+			"contacts": "2",
+			"status_confirmed": "2",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/127069"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "127066",
+			"list": "Klaviyo - SR",
+			"created_on": "Thursday 03/14/2024 01:18 PM",
+			"contacts": "15",
+			"status_confirmed": "15",
+			"status_unconfirmed": "0",
+			"status_unsubscribed": "0",
+			"status_bounced": "0",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/127066"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"assets": {
+				"2926": "AI Chatbot"
+			},
+			"folder_name": "Outbound Lists RS"
+		},
+		{
+			"id": "126283",
+			"list": "Event 01",
+			"created_on": "Wednesday 03/06/2024 08:10 AM",
+			"contacts": "-",
+			"status_confirmed": "-",
+			"status_unconfirmed": "-",
+			"status_unsubscribed": "-",
+			"status_bounced": "-",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/126283"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "125885",
+			"list": "Restaurant",
+			"created_on": "Friday 03/01/2024 03:08 AM",
+			"contacts": "-",
+			"status_confirmed": "-",
+			"status_unconfirmed": "-",
+			"status_unsubscribed": "-",
+			"status_bounced": "-",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/125885"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "125833",
+			"list": "Restaurant",
+			"created_on": "Thursday 02/29/2024 01:57 PM",
+			"contacts": "-",
+			"status_confirmed": "-",
+			"status_unconfirmed": "-",
+			"status_unsubscribed": "-",
+			"status_bounced": "-",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/125833"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "125820",
+			"list": "Author",
+			"created_on": "Thursday 02/29/2024 12:01 PM",
+			"contacts": "-",
+			"status_confirmed": "-",
+			"status_unconfirmed": "-",
+			"status_unsubscribed": "-",
+			"status_bounced": "-",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/125820"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"id": "124240",
+			"list": "Country, Captcha",
+			"created_on": "Monday 02/12/2024 09:09 AM",
+			"contacts": "-",
+			"status_confirmed": "-",
+			"status_unconfirmed": "-",
+			"status_unsubscribed": "-",
+			"status_bounced": "-",
+			"status_complaint": 0,
+			"actions": {
+				"optinurl": {
+					"href": "https://app.vbout.com/vbt/f/124240"
+				},
+				"divider2": "divider",
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddListToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithList"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		}
+	],
+	"draw": 1,
+	"recordsTotal": 243,
+	"recordsFiltered": 243
+}

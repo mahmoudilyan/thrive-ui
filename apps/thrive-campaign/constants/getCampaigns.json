@@ -1,0 +1,3734 @@
+[
+  {
+    "id": "264823",
+    "type": "regular",
+    "campaign": {
+      "name": "Happy Holidays 2024",
+      "subject": ":christmas_tree: Celebrate the Season with Us and Explore the Highlights ",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "Thumbs/Campaign/264823.png?timthumb=yes&w=200&t=1734016250",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft",
+      "warmup": "Predictive Sending"
+    },
+    "date": "Created on 12/11/2024 05:31 AM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/264823.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/264823/?hash=046901d05a00e58bb2982cd54f1efdf5"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": {
+          "create-snapshot": "yes"
+        }
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "264636",
+    "type": "regular",
+    "campaign": {
+      "name": "test",
+      "subject": "test",
+      "from": "rich@vbout.com",
+      "fromname": "https://www.vbout.com",
+      "replyto": "rich@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_6253255888.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft"
+    },
+    "date": "Created on 12/10/2024 12:54 PM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/264636.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/264636/?hash=f95c81ed364fa1699f05255241faaa06"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": {
+          "create-snapshot": "yes"
+        }
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "262002",
+    "type": "regular",
+    "campaign": {
+      "name": "Comment to DM Automation",
+      "subject": "Turn Instagram Comments into Leads Automatically :people_holding_hands:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_8418822467.png",
+      "details": {
+        "email_opened": {
+          "r": 1870
+        },
+        "link_clicked": {
+          "r": 59
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 12350
+    },
+    "labels": {
+      "sent": "Sent",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/262002.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/262002/?hash=b5733b373f6ce76065c8083bf8532e31"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 11/28/2024 03:07 PM",
+    "endsenddate": "Sending completed on 11/30/2024 07:25 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "256671",
+    "type": "regular",
+    "campaign": {
+      "name": "Yearly Announcement",
+      "subject": "",
+      "from": "rich@vbout.com",
+      "fromname": "https://www.vbout.com",
+      "replyto": "rich@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_2243650221.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["Calendar Booking - Richard"],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft",
+      "warmup": "Predictive Sending"
+    },
+    "date": "Created on 10/30/2024 03:22 PM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/256671.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/256671/?hash=388a265ee1de0b6a6f1dc5c3877c4e15"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": {
+          "create-snapshot": "yes"
+        }
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "248767",
+    "type": "regular",
+    "campaign": {
+      "name": "Email Marketing Templates",
+      "subject": "Access Ready-Made Templates or Create Your Own with Our Builder :email:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_0857323101.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft"
+    },
+    "date": "Created on 09/18/2024 05:45 AM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/248767.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/248767/?hash=56acf33f163d30982342156da2612302"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": []
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "247919",
+    "type": "regular",
+    "campaign": {
+      "name": "Google My Business",
+      "subject": "Expand Your Reach: Manage Google My Business with VBOUT",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_8216434306.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft",
+      "warmup": "Predictive Sending"
+    },
+    "date": "Created on 09/12/2024 03:33 PM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/247919.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/247919/?hash=6a1caffa5f5d88b4e52c02944138e6df"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": {
+          "create-snapshot": "yes"
+        }
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "226014",
+    "type": "regular",
+    "campaign": {
+      "name": "Google My Business",
+      "subject": "Expand Your Reach: Manage Google My Business with VBOUT",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_6542651520.png",
+      "details": {
+        "email_opened": {
+          "r": 1962
+        },
+        "link_clicked": {
+          "r": 46
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 12100
+    },
+    "labels": {
+      "sent": "Sent",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/226014.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/226014/?hash=d7fcb9deba020aaf500cc63c9e44a410"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 08/20/2024 03:33 PM",
+    "endsenddate": "Sending completed on 08/23/2024 10:59 AM",
+    "folder_name": ""
+  },
+  {
+    "id": "216508",
+    "type": "regular",
+    "campaign": {
+      "name": "Maintenance for server size",
+      "subject": "VBOUT Maintenance and Scheduled Downtime - Part 1",
+      "from": "support@vbout.com",
+      "fromname": "VBOUT",
+      "replyto": "support@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_4716830044.png",
+      "details": {
+        "email_opened": {
+          "r": 1698
+        },
+        "link_clicked": {
+          "r": 14
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients", "VBOUT Signups"],
+      "audiences": [],
+      "folders": [],
+      "total": 7064
+    },
+    "labels": {
+      "sent": "Sent"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/216508.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/216508/?hash=244d153a9d9504030b96b553f7655090"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "date": "Sent on 06/12/2024 09:11 AM",
+    "folder_name": ""
+  },
+  {
+    "id": "214972",
+    "type": "regular",
+    "campaign": {
+      "name": "Multi-Step Forms",
+      "subject": ":rocket: Boost Your Conversion Rates with Multi-Step Forms!",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_7320615745.png",
+      "details": {
+        "email_opened": {
+          "r": 1518
+        },
+        "link_clicked": {
+          "r": 58
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 13455
+    },
+    "labels": {
+      "sent": "Sent",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/214972.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/214972/?hash=21a3d59610c258c8bc98a837accaf046"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 06/18/2024 03:02 PM",
+    "endsenddate": "Sending completed on 06/20/2024 04:19 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "214582",
+    "type": "regular",
+    "campaign": {
+      "name": "VBOUT's New Landing Page Builder - 2024",
+      "subject": ":wrench: Upgrade to Our Modern Landing Page Builder!",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_8648571347.png",
+      "details": {
+        "email_opened": {
+          "r": 1646
+        },
+        "link_clicked": {
+          "r": 137
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients", "Testing for Georges"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 13539
+    },
+    "labels": {
+      "sent": "Sent",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/214582.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/214582/?hash=219a63352781dfde6a953c2d7e682f03"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 06/04/2024 12:17 PM",
+    "endsenddate": "Sending completed on 06/06/2024 11:29 AM",
+    "folder_name": ""
+  },
+  {
+    "id": "209622",
+    "type": "regular",
+    "campaign": {
+      "name": "Email Bounce Rates",
+      "subject": "How to Reduce Email Bounce Rates! :e-mail: ",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_3478377361.png",
+      "details": {
+        "email_opened": {
+          "r": 1977
+        },
+        "link_clicked": {
+          "r": 46
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients", "Testing for Georges"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 13898
+    },
+    "labels": {
+      "sent": "Sent",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/209622.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/209622/?hash=ca7d9587dbe2eeb4177e788b5f69cd1f"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 05/28/2024 03:33 PM",
+    "endsenddate": "Sending completed on 05/31/2024 10:45 AM",
+    "folder_name": ""
+  },
+  {
+    "id": "209278",
+    "type": "regular",
+    "campaign": {
+      "name": "Email Bounce Rates",
+      "subject": "How to Reduce Email Bounce Rates! :e-mail: ",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_1156538753.png",
+      "details": {
+        "email_opened": {
+          "r": 4
+        },
+        "link_clicked": {
+          "r": 0
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["Testing for Georges"],
+      "audiences": [],
+      "folders": [],
+      "total": 7
+    },
+    "labels": {
+      "sent": "Sent"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/209278.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/209278/?hash=4cd13ab265ca34a4639e224cf3b545b3"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "date": "Sent on 04/24/2024 08:45 AM",
+    "folder_name": ""
+  },
+  {
+    "id": "209049",
+    "type": "regular",
+    "campaign": {
+      "name": "Facebook API Change",
+      "subject": ":rotating_light: Important Update: Changes to Facebook Group API! ",
+      "from": "support@vbout.com",
+      "fromname": "VBOUT",
+      "replyto": "support@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_2300817726.png",
+      "details": {
+        "email_opened": {
+          "r": 1501
+        },
+        "link_clicked": {
+          "r": 29
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients", "VBOUT Signups"],
+      "audiences": [],
+      "folders": [],
+      "total": 7536
+    },
+    "labels": {
+      "sent": "Sent",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/209049.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/209049/?hash=187e590ba61f4f5cde19c8abc3cfb4ad"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 05/16/2024 04:02 PM",
+    "endsenddate": "Sending completed on 05/17/2024 08:16 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "206910",
+    "type": "regular",
+    "campaign": {
+      "name": "AI Chatbot ",
+      "subject": ":speech_balloon: Introducing Our New AI Chatbot Features and More :bulb:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_5134252216.png",
+      "details": {
+        "email_opened": {
+          "r": 1466
+        },
+        "link_clicked": {
+          "r": 72
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 12209
+    },
+    "labels": {
+      "sent": "Sent",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/206910.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/206910/?hash=65fdaaa2c75cc28e687ca8a89b335df1"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 08/12/2024 03:32 PM",
+    "endsenddate": "Sending completed on 08/15/2024 09:59 AM",
+    "folder_name": ""
+  },
+  {
+    "id": "203964",
+    "type": "regular",
+    "campaign": {
+      "name": "Calendar Integration & Important Changes to Inbox Sync",
+      "subject": ":arrows_counterclockwise: Important: New Booking Calendar Integration & Changes to Inbox Sync ",
+      "from": "support@vbout.com",
+      "fromname": "VBOUT",
+      "replyto": "support@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_0282228518.png",
+      "details": {
+        "email_opened": {
+          "r": 2299
+        },
+        "link_clicked": {
+          "r": 73
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients", "VBOUT Signups"],
+      "audiences": [],
+      "folders": [],
+      "total": 7125
+    },
+    "labels": {
+      "sent": "Sent",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/203964.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/203964/?hash=9897a1f5128065bf2cb381da4ae445e1"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 04/16/2024 01:59 PM",
+    "endsenddate": "Sending completed on 04/20/2024 03:22 AM",
+    "folder_name": ""
+  },
+  {
+    "id": "201765",
+    "type": "regular",
+    "campaign": {
+      "name": "Webinar- March 2024",
+      "subject": ":fire:Hop on the AI Rocket! :rocket:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_7171177006.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients", "VBOUT Signups"],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft",
+      "warmup": "Predictive Sending"
+    },
+    "date": "Created on 03/06/2024 06:32 AM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/201765.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/201765/?hash=d99fa5234a66f7a8e3622234c788f6e4"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": {
+          "create-snapshot": "yes"
+        }
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "191960",
+    "type": "regular",
+    "campaign": {
+      "name": "Google and Yahoo Authentication",
+      "subject": " :loudspeaker: Important Update! Google & Yahoo Authentication Changes: Stay Compliant!",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_5008078144.png",
+      "details": {
+        "email_opened": {
+          "r": 2178
+        },
+        "link_clicked": {
+          "r": 97
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients", "VBOUT Signups"],
+      "audiences": [],
+      "folders": [],
+      "total": 7368
+    },
+    "labels": {
+      "paused": "Paused",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/191960.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/191960/?hash=54d746ea000d06fc91e3b6b1e3d2538d"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "resume": {
+        "text": "Resume",
+        "className": "actionResumeCampaign"
+      },
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 01/19/2024 04:03 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "188850",
+    "type": "regular",
+    "campaign": {
+      "name": "Happy Holidays - 2023",
+      "subject": "Let's Review 2023 :arrows_counterclockwise:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_8018447518.png",
+      "details": {
+        "email_opened": {
+          "r": 3578
+        },
+        "link_clicked": {
+          "r": 114
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients", "Testing for Georges"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 13075
+    },
+    "labels": {
+      "paused": "Paused",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/188850.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/188850/?hash=9751dace1089c07dc2f9358871fd13a2"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "resume": {
+        "text": "Resume",
+        "className": "actionResumeCampaign"
+      },
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 12/21/2023 01:12 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "186192",
+    "type": "regular",
+    "campaign": {
+      "name": "AI History Campaign",
+      "subject": "AI History",
+      "from": "info@historyai.com",
+      "fromname": "History of AI",
+      "replyto": "info@historyai.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_6085257817.png",
+      "details": {
+        "email_opened": {
+          "r": 0
+        },
+        "link_clicked": {
+          "r": 0
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": [],
+      "total": 0
+    },
+    "labels": {
+      "sent": "Sent"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/186192.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/186192/?hash=b114e390669dc919a3839f3a9ec817e7"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "date": "",
+    "folder_name": ""
+  },
+  {
+    "id": "184286",
+    "type": "regular",
+    "campaign": {
+      "name": "Maintenance Window On Tracker",
+      "subject": "Maintenance on Web Analytics Data",
+      "from": "support@vbout.com",
+      "fromname": "VBOUT",
+      "replyto": "support@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_6584778157.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["Demo watched", "VBOUT Signups"],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft"
+    },
+    "date": "Created on 11/27/2023 03:32 PM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/184286.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/184286/?hash=79642b72dcc028f13b537c510c0882e4"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": {
+          "create-snapshot": "yes"
+        }
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "178461",
+    "type": "regular",
+    "campaign": {
+      "name": "Plugins Update",
+      "subject": ":lock: Important Security Updates for Your Account",
+      "from": "support@vbout.com",
+      "fromname": "VBOUT",
+      "replyto": "support@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_5386815534.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft"
+    },
+    "date": "Created on 10/27/2023 10:30 AM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/178461.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/178461/?hash=a5be8e2c3d5f2df240b6a42e5014111c"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": {
+          "create-snapshot": "yes"
+        }
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "178430",
+    "type": "regular",
+    "campaign": {
+      "name": "Important Security Updates",
+      "subject": ":lock: Important Security Updates for Your Account",
+      "from": "support@vbout.com",
+      "fromname": "VBOUT",
+      "replyto": "support@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_8734660022.png",
+      "details": {
+        "email_opened": {
+          "r": 2106
+        },
+        "link_clicked": {
+          "r": 18
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients", "VBOUT Signups"],
+      "audiences": [],
+      "folders": [],
+      "total": 6062
+    },
+    "labels": {
+      "sent": "Sent"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/178430.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/178430/?hash=e356b47ab3735a002957d3696ca6417f"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "date": "Sent on 10/30/2023 03:12 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "173674",
+    "type": "regular",
+    "campaign": {
+      "name": "Payment forms",
+      "subject": ":credit_card: Unleash the Power of Payment Forms in E-commerce!",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_2772757224.png",
+      "details": {
+        "email_opened": {
+          "r": 2944
+        },
+        "link_clicked": {
+          "r": 94
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 11778
+    },
+    "labels": {
+      "paused": "Paused",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/173674.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/173674/?hash=e01bddab89885fd6c4b79fa113ad480c"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "resume": {
+        "text": "Resume",
+        "className": "actionResumeCampaign"
+      },
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 11/01/2023 02:02 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "173299",
+    "type": "regular",
+    "campaign": {
+      "name": "Manage all your social media in one place",
+      "subject": ":rocket: New Features Alert! Posting Made Easy Across All Platforms :star2:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_8338483017.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft",
+      "warmup": "Predictive Sending"
+    },
+    "date": "Created on 09/22/2023 06:17 AM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/173299.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/173299/?hash=3ddaadf519b1af887286667e595651d3"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": {
+          "create-snapshot": "yes"
+        }
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "169018",
+    "type": "regular",
+    "campaign": {
+      "name": "Update to VBOUT's privacy policy",
+      "subject": " :bangbang: Important update to VBOUT's privacy policy :lock:",
+      "from": "georges@vbout.com",
+      "fromname": "VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_0657784556.png",
+      "details": {
+        "email_opened": {
+          "r": 1828
+        },
+        "link_clicked": {
+          "r": 29
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients", "VBOUT Signups"],
+      "audiences": [],
+      "folders": [],
+      "total": 5982
+    },
+    "labels": {
+      "sent": "Sent"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/169018.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/169018/?hash=0ab7ee30b41c4ab8ef1821eea1254054"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "date": "Sent on 08/24/2023 12:22 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "164438",
+    "type": "regular",
+    "campaign": {
+      "name": "AI in Marketing: Pros & Cons",
+      "subject": "AI in Marketing: Unleashing the Pros and Cons :rocket:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_0846561433.png",
+      "details": {
+        "email_opened": {
+          "r": 3045
+        },
+        "link_clicked": {
+          "r": 85
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 11743
+    },
+    "labels": {
+      "paused": "Paused",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/164438.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/164438/?hash=c6d2e137c7aa36c3a5d71bbde1b446e0"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "resume": {
+        "text": "Resume",
+        "className": "actionResumeCampaign"
+      },
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 08/29/2023 01:17 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "161882",
+    "type": "abtesting",
+    "campaign": {
+      "name": "Introducing VBOUT Plugin for ChatGPT",
+      "subject": "Revolutionize Your Marketing with ChatGPT's New VBOUT Plugin! :rocket:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "A/B Campaign (Subject Line)",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_1166742858.png",
+      "details": {
+        "email_opened": {
+          "a": 424,
+          "b": 2869
+        },
+        "link_clicked": {
+          "a": 1,
+          "b": 78
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      },
+      "subjectb": ":tada: Introducing VBOUT Plugin for ChatGPT!"
+    },
+    "target": {
+      "lists": ["AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 11654,
+      "a": 1753,
+      "b": 9901
+    },
+    "labels": {
+      "paused": "Paused",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/161882.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/161882/?hash=2637e4eb878338a5128546e979ca6309"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "resume": {
+        "text": "Resume",
+        "className": "actionResumeCampaign"
+      },
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 07/06/2023 01:32 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "161344",
+    "type": "regular",
+    "campaign": {
+      "name": "Blockchain History Campaign",
+      "subject": "The Fascinating History of Blockchain Technology",
+      "from": "info@yourcompany.com",
+      "fromname": "Your Company",
+      "replyto": "info@yourcompany.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_8065340564.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft"
+    },
+    "date": "Created on 07/03/2023 05:29 AM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/161344.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/161344/?hash=6320300c33371e0a50934ef45fb7ca7f"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": {
+          "create-snapshot": "yes"
+        }
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "161046",
+    "type": "regular",
+    "campaign": {
+      "name": "Marketing Partners",
+      "subject": "The Power of Partnership in Growing SaaS Products",
+      "from": "info@yourcompany.com",
+      "fromname": "Your Company",
+      "replyto": "info@yourcompany.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_8314002810.png",
+      "details": {
+        "email_opened": {
+          "r": 0
+        },
+        "link_clicked": {
+          "r": 0
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": [],
+      "total": 0
+    },
+    "labels": {
+      "sent": "Sent"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/161046.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/161046/?hash=6095d59c038c7705bafd81363bd62b5d"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "date": "",
+    "folder_name": ""
+  },
+  {
+    "id": "161045",
+    "type": "regular",
+    "campaign": {
+      "name": "Marketing Partners",
+      "subject": "The Power of Partnership in Growing SaaS Products",
+      "from": "info@yourcompany.com",
+      "fromname": "Your Company",
+      "replyto": "info@yourcompany.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_6423766103.png",
+      "details": {
+        "email_opened": {
+          "r": 0
+        },
+        "link_clicked": {
+          "r": 0
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": [],
+      "total": 0
+    },
+    "labels": {
+      "sent": "Sent"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/161045.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/161045/?hash=f4f2c4093ab6eb3d4120f1e51c22a279"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "date": "",
+    "folder_name": ""
+  },
+  {
+    "id": "159956",
+    "type": "regular",
+    "campaign": {
+      "name": "AI in Marketing Week 5",
+      "subject": "The Future of AI in Marketing",
+      "from": "info@yourcompany.com",
+      "fromname": "Your Company",
+      "replyto": "info@yourcompany.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_8625508410.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft"
+    },
+    "date": "Created on 06/21/2023 10:03 AM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/159956.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/159956/?hash=f30af90708183bb534c13ca23d93787e"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": {
+          "create-snapshot": "yes"
+        }
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "159954",
+    "type": "regular",
+    "campaign": {
+      "name": "AI in Marketing Week 3",
+      "subject": "AI and Personalized Marketing",
+      "from": "info@yourcompany.com",
+      "fromname": "Your Company",
+      "replyto": "info@yourcompany.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_7316578388.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft"
+    },
+    "date": "Created on 06/21/2023 10:02 AM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/159954.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/159954/?hash=cf0523b136a450e18b1055a77e4568f1"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": {
+          "create-snapshot": "yes"
+        }
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "159952",
+    "type": "regular",
+    "campaign": {
+      "name": "AI in Marketing Week 1",
+      "subject": "Discover the Power of AI in Marketing",
+      "from": "info@yourcompany.com",
+      "fromname": "Your Company",
+      "replyto": "info@yourcompany.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_5567176578.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft"
+    },
+    "date": "Created on 06/21/2023 10:02 AM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/159952.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/159952/?hash=24e673539a5d639596d4489f85a9b8b3"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": {
+          "create-snapshot": "yes"
+        }
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "159953",
+    "type": "regular",
+    "campaign": {
+      "name": "AI in Marketing Week 2",
+      "subject": "AI and Customer Segmentation",
+      "from": "info@yourcompany.com",
+      "fromname": "Your Company",
+      "replyto": "info@yourcompany.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_8615016148.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft"
+    },
+    "date": "Created on 06/21/2023 10:02 AM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/159953.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/159953/?hash=699806b801de70d98d090eb85b378383"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": {
+          "create-snapshot": "yes"
+        }
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "159955",
+    "type": "regular",
+    "campaign": {
+      "name": "AI in Marketing Week 4",
+      "subject": "AI and Predictive Analytics in Marketing",
+      "from": "info@yourcompany.com",
+      "fromname": "Your Company",
+      "replyto": "info@yourcompany.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_4137410684.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft"
+    },
+    "date": "Created on 06/21/2023 10:02 AM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/159955.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/159955/?hash=d1c1c5fb109cc41df6b238e5ebfb0024"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": {
+        "data": {
+          "create-snapshot": "yes"
+        }
+      },
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "157143",
+    "type": "abtesting",
+    "campaign": {
+      "name": "Social Media Content Generation",
+      "subject": ":iphone:Transform Your Social Media Strategy with AI!",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "A/B Campaign (Subject Line)",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_8172006782.png",
+      "details": {
+        "email_opened": {
+          "a": 373,
+          "b": 2614
+        },
+        "link_clicked": {
+          "a": 4,
+          "b": 73
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      },
+      "subjectb": ":dart:Power Up Your Posts: Our AI Social Media Assistant is Here!"
+    },
+    "target": {
+      "lists": ["AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 11699,
+      "a": 1758,
+      "b": 9941
+    },
+    "labels": {
+      "paused": "Paused",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/157143.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/157143/?hash=53485cb41a16a915cea769567330e454"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "resume": {
+        "text": "Resume",
+        "className": "actionResumeCampaign"
+      },
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 06/01/2023 01:32 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "154589",
+    "type": "regular",
+    "campaign": {
+      "name": "AI-Powered Marketing - Blog",
+      "subject": "Unlock the Power of AI in Your Marketing Strategy :rocket:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_4760850342.png",
+      "details": {
+        "email_opened": {
+          "r": 3003
+        },
+        "link_clicked": {
+          "r": 106
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 11753
+    },
+    "labels": {
+      "paused": "Paused",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/154589.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/154589/?hash=3c7349889c0859de7930c43309f3c209"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "resume": {
+        "text": "Resume",
+        "className": "actionResumeCampaign"
+      },
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 05/17/2023 01:17 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "145267",
+    "type": "abtesting",
+    "campaign": {
+      "name": "VBOUT Referral Program",
+      "subject": "Refer Friends :two_men_holding_hands: - Earn a Commission :heavy_dollar_sign:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "A/B Campaign (Subject Line)",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_8414280572.png",
+      "details": {
+        "email_opened": [],
+        "link_clicked": []
+      },
+      "status": {
+        "name": "draft",
+        "scheduled": "never"
+      },
+      "subjectb": "Want to gain up to 30% recurring commission? :repeat:"
+    },
+    "target": {
+      "lists": [],
+      "audiences": [],
+      "folders": []
+    },
+    "labels": {
+      "draft": "Draft",
+      "warmup": "Predictive Sending"
+    },
+    "date": "Created on 03/09/2023 07:23 AM",
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/145267.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/145267/?hash=e9b3f0b320354f8c47fd1d72a1c7c1a7"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "inboxpreview": "",
+      "inboxpreviewa": {
+        "data": {
+          "create-snapshot": "yes",
+          "splitselect": "yes",
+          "split": "a"
+        }
+      },
+      "inboxpreviewb": {
+        "data": {
+          "create-snapshot": "yes",
+          "splitselect": "yes",
+          "split": "b"
+        }
+      },
+      "labela": "Campaign A",
+      "labelb": "Campaign B",
+      "dividera": "divider",
+      "dividerb": "divider",
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditCampaign"
+      },
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "folder_name": ""
+  },
+  {
+    "id": "135167",
+    "type": "regular",
+    "campaign": {
+      "name": "Happy Holidays - 2022",
+      "subject": "Let's review 2022 :arrows_counterclockwise:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_1822875130.png",
+      "details": {
+        "email_opened": {
+          "r": 3569
+        },
+        "link_clicked": {
+          "r": 197
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients", "Testing Emails List"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 12450
+    },
+    "labels": {
+      "sent": "Sent"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/135167.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/135167/?hash=cdc682147257d350ac66b30b4dd0432c"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "date": "Sent on 12/30/2022 12:32 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "123749",
+    "type": "regular",
+    "campaign": {
+      "name": "How to Use Transactional Emails to Boost Engagement",
+      "subject": ":up_right_arrow: Boost engagement with transactional emails :email:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_0681653273.png",
+      "details": {
+        "email_opened": {
+          "r": 2881
+        },
+        "link_clicked": {
+          "r": 101
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 11307
+    },
+    "labels": {
+      "sent": "Sent",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/123749.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/123749/?hash=8e14d203544e94e5566d17da18fec0b8"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 10/19/2022 02:02 PM",
+    "endsenddate": "Sending completed on 10/21/2022 11:33 AM",
+    "folder_name": ""
+  },
+  {
+    "id": "121043",
+    "type": "regular",
+    "campaign": {
+      "name": "How to Build a Lead Scoring Criteria for your Email Marketing Strategy in 2023",
+      "subject": ":pushpin: Build your lead scoring criteria in 8 steps :pushpin:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_8678707768.png",
+      "details": {
+        "email_opened": {
+          "r": 2943
+        },
+        "link_clicked": {
+          "r": 75
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 11357
+    },
+    "labels": {
+      "sent": "Sent",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/121043.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/121043/?hash=5015957b9e73aefa296301fd0f760997"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 09/27/2022 12:32 PM",
+    "endsenddate": "Sending completed on 09/29/2022 10:09 AM",
+    "folder_name": ""
+  },
+  {
+    "id": "119019",
+    "type": "abtesting",
+    "campaign": {
+      "name": "Announcing VBOUT - Sendspark Integration via email",
+      "subject": ":video_camera: VBOUT & Sendspark have teamed up to help you out :video_camera:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "A/B Campaign (Subject Line)",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_0681184610.png",
+      "details": {
+        "email_opened": {
+          "a": 405,
+          "b": 2902
+        },
+        "link_clicked": {
+          "a": 3,
+          "b": 73
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      },
+      "subjectb": ":video_camera: VBOUT - Sendspark integration is a game changer: here's why :video_camera:"
+    },
+    "target": {
+      "lists": ["AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 11368,
+      "a": 1712,
+      "b": 9656
+    },
+    "labels": {
+      "sent": "Sent",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/119019.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/119019/?hash=11c96daebc2a0c585774518fc32b0d02"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 09/20/2022 01:32 PM",
+    "endsenddate": "Sending completed on 09/22/2022 01:10 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "118682",
+    "type": "regular",
+    "campaign": {
+      "name": "June Meetup - Reminder same day",
+      "subject": "Our event will start in 3 hours :clock5:",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_3321538486.png",
+      "details": {
+        "email_opened": {
+          "r": 2921
+        },
+        "link_clicked": {
+          "r": 65
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["Zoom: VBOUT Monthly Marketing Meetup", "AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 11633
+    },
+    "labels": {
+      "sent": "Sent"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/118682.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/118682/?hash=8d54ccaa5dff202153be5421f40ce063"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "date": "Sent on 09/14/2022 02:02 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "118680",
+    "type": "regular",
+    "campaign": {
+      "name": "September Meetup - Reminder one day ahead",
+      "subject": "Join our webinar tomorrow ",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_2068705024.png",
+      "details": {
+        "email_opened": {
+          "r": 3037
+        },
+        "link_clicked": {
+          "r": 59
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["Zoom: VBOUT Monthly Marketing Meetup", "AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 11661
+    },
+    "labels": {
+      "sent": "Sent"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/118680.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/118680/?hash=9a627c3d4a49c88716b3c656d7fcdf9e"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "date": "Sent on 09/13/2022 01:29 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "118671",
+    "type": "regular",
+    "campaign": {
+      "name": "September 2022 Meetup - Invitation",
+      "subject": "[Webinar] How AI improves your marketing",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_2482441466.png",
+      "details": {
+        "email_opened": {
+          "r": 3133
+        },
+        "link_clicked": {
+          "r": 73
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["Zoom: VBOUT Monthly Marketing Meetup", "AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 11708
+    },
+    "labels": {
+      "sent": "Sent"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/118671.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/118671/?hash=5995ea3005fc472fb2b65946e7799db8"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "date": "Sent on 09/07/2022 01:35 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "118557",
+    "type": "abtesting",
+    "campaign": {
+      "name": "Six Common Conversion Obstacles That Are Surprisingly Easy to Solve",
+      "subject": " 5 minute tips to boost your conversions ",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "A/B Campaign (Subject Line)",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_4067712423.png",
+      "details": {
+        "email_opened": {
+          "a": 2411,
+          "b": 591
+        },
+        "link_clicked": {
+          "a": 92,
+          "b": 5
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      },
+      "subjectb": "Overcome your big conversion obstacles using these tips"
+    },
+    "target": {
+      "lists": ["AS Clients"],
+      "audiences": ["All contacts - Excluding inactive"],
+      "folders": [],
+      "total": 11473,
+      "a": 9166,
+      "b": 2307
+    },
+    "labels": {
+      "sent": "Sent",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/118557.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/118557/?hash=982892f4d4b2e18228e8e78c749d8e2e"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 09/06/2022 08:32 PM",
+    "endsenddate": "Sending completed on 09/08/2022 10:07 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "117861",
+    "type": "abtesting",
+    "campaign": {
+      "name": "VBOUT Recognized in GetApp’s Midyear Report for Top Marketing Software",
+      "subject": "You’ve really made our day",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "A/B Campaign (Different Content)",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_3337637028.png",
+      "details": {
+        "email_opened": {
+          "a": 1275,
+          "b": 163
+        },
+        "link_clicked": {
+          "a": 52,
+          "b": 6
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["AS Clients", "VBOUT Signups"],
+      "audiences": [],
+      "folders": [],
+      "total": 4682,
+      "a": 3743,
+      "b": 939
+    },
+    "labels": {
+      "sent": "Sent",
+      "warmup": "Predictive Sending"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": "",
+      "previewa": {
+        "href": "/App/EmailMarketing/Preview/117861.html"
+      },
+      "previewb": {
+        "href": "/App/EmailMarketing/Preview/117862.html"
+      },
+      "publicpreview": "",
+      "publicpreviewa": {
+        "href": "https://app.vbout.com/vbt/preview/117861/?hash=691873de36d55b69143827830aac56d3"
+      },
+      "publicpreviewb": {
+        "href": "https://app.vbout.com/vbt/preview/117862/?hash=7594719f8e1ee93590450126d2ea6006"
+      },
+      "labela": "Campaign A",
+      "labelb": "Campaign B",
+      "dividera": "divider",
+      "dividerb": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "startsenddate": "Start sending on 08/31/2022 01:17 PM",
+    "endsenddate": "Sending completed on 09/01/2022 11:35 AM",
+    "folder_name": ""
+  },
+  {
+    "id": "117788",
+    "type": "regular",
+    "campaign": {
+      "name": "Post meeting - August Partners Meeting Group",
+      "subject": "Your webinar recording and slides... :repeat:",
+      "from": "rich@vbout.com",
+      "fromname": "Richard from VBOUT",
+      "replyto": "rich@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_5133203062.png",
+      "details": {
+        "email_opened": {
+          "r": 981
+        },
+        "link_clicked": {
+          "r": 88
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["VBOUT Partners Meeting - Master"],
+      "audiences": [],
+      "folders": [],
+      "total": 2583
+    },
+    "labels": {
+      "sent": "Sent"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/117788.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/117788/?hash=f8c9f8235f9dd7270d85c439c40bf18b"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "date": "Sent on 08/30/2022 12:02 PM",
+    "folder_name": ""
+  },
+  {
+    "id": "117400",
+    "type": "abtesting",
+    "campaign": {
+      "name": "VBOUT Recognized in GetApp’s Midyear Report for Top Marketing Software",
+      "subject": "You’ve really made our day",
+      "from": "georges@vbout.com",
+      "fromname": "Georges from VBOUT",
+      "replyto": "georges@vbout.com",
+      "type": "A/B Campaign (Different Content)",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_8253830022.png",
+      "details": {
+        "email_opened": {
+          "a": 4,
+          "b": 1
+        },
+        "link_clicked": {
+          "a": 0,
+          "b": 0
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["Testing for Georges"],
+      "audiences": [],
+      "folders": [],
+      "total": 7,
+      "a": 6,
+      "b": 1
+    },
+    "labels": {
+      "sent": "Sent"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": "",
+      "previewa": {
+        "href": "/App/EmailMarketing/Preview/117400.html"
+      },
+      "previewb": {
+        "href": "/App/EmailMarketing/Preview/117401.html"
+      },
+      "publicpreview": "",
+      "publicpreviewa": {
+        "href": "https://app.vbout.com/vbt/preview/117400/?hash=8e825679b2a8957722137abe1528e17f"
+      },
+      "publicpreviewb": {
+        "href": "https://app.vbout.com/vbt/preview/117401/?hash=a88cd5eedade1704e7013a1e891b7233"
+      },
+      "labela": "Campaign A",
+      "labelb": "Campaign B",
+      "dividera": "divider",
+      "dividerb": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "date": "Sent on 08/30/2022 05:20 AM",
+    "folder_name": ""
+  },
+  {
+    "id": "117074",
+    "type": "regular",
+    "campaign": {
+      "name": "August Partners meeting group - Reminder on the meeting day",
+      "subject": ":hourglass_flowing_sand: VBOUT Partners Meeting will start in 3 hours :hourglass_flowing_sand:",
+      "from": "rich@vbout.com",
+      "fromname": "Richard from VBOUT",
+      "replyto": "rich@vbout.com",
+      "type": "Regular",
+      "thumb": "https://assets.vbt.io/public/capture_url/capture_4730706772.png",
+      "details": {
+        "email_opened": {
+          "r": 870
+        },
+        "link_clicked": {
+          "r": 34
+        }
+      },
+      "status": {
+        "name": "sent",
+        "scheduled": "never"
+      }
+    },
+    "target": {
+      "lists": ["VBOUT Partners Meeting - Master"],
+      "audiences": [],
+      "folders": [],
+      "total": 2589
+    },
+    "labels": {
+      "sent": "Sent"
+    },
+    "actions": {
+      "addtotask": {
+        "text": "Add To Task",
+        "className": "actionAddCampaignToTask"
+      },
+      "createnewtask": {
+        "text": "Create New Task",
+        "className": "actionCreateTaskWithCampaign"
+      },
+      "attachtoassetgroup": {
+        "text": "Attach To Campaign Group",
+        "className": "actionAttachToCampaignAssets"
+      },
+      "preview": {
+        "href": "/App/EmailMarketing/Preview/117074.html"
+      },
+      "previewa": "",
+      "previewb": "",
+      "publicpreview": {
+        "href": "https://app.vbout.com/vbt/preview/117074/?hash=be1a7de9e2ee3b300b07fd3610944a59"
+      },
+      "publicpreviewa": "",
+      "publicpreviewb": "",
+      "divider": "divider",
+      "master": {
+        "text": "Analytics",
+        "className": "actionCampaignStats"
+      },
+      "inboxpreview": "",
+      "inboxpreviewa": "",
+      "inboxpreviewb": "",
+      "folder": {
+        "text": "Add To Folder",
+        "className": "actionAddToFolder"
+      }
+    },
+    "date": "Sent on 08/25/2022 09:01 AM",
+    "folder_name": ""
+  }
+]

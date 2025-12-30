@@ -1,0 +1,277 @@
+{
+  "data": [
+    {
+      "id": "100697",
+      "name": "Oct 2025 Podcast - Build a Successful Sales Funnel",
+      "completed": "-",
+      "pending": "-",
+      "created_on": "Monday 09/29/2025 05:23 AM",
+      "status": 1,
+      "actions": {
+        "addtotask": {
+          "text": "",
+          "className": "actionAddJourneyToTask"
+        },
+        "createnewtask": {
+          "text": "Create New Task",
+          "className": "actionCreateTaskWithJourney"
+        },
+        "attachtoassetgroup": {
+          "text": "Attach To Campaign Group",
+          "className": "actionAttachToCampaignAssets"
+        },
+        "folder": {
+          "text": "Add To Folder",
+          "className": "actionAddToFolder"
+        }
+      },
+      "folder_name": ""
+    },
+    {
+      "id": "100671",
+      "name": "Sep 2025 Post Partner Meeting ",
+      "completed": "-",
+      "pending": "-",
+      "created_on": "Friday 09/26/2025 04:13 PM",
+      "status": 0,
+      "actions": {
+        "addtotask": {
+          "text": "",
+          "className": "actionAddJourneyToTask"
+        },
+        "createnewtask": {
+          "text": "Create New Task",
+          "className": "actionCreateTaskWithJourney"
+        },
+        "attachtoassetgroup": {
+          "text": "Attach To Campaign Group",
+          "className": "actionAttachToCampaignAssets"
+        },
+        "folder": {
+          "text": "Add To Folder",
+          "className": "actionAddToFolder"
+        }
+      },
+      "folder_name": ""
+    },
+    {
+      "id": "100430",
+      "name": "Sep 2025 Webinar Recording",
+      "completed": "-",
+      "pending": "-",
+      "created_on": "Friday 09/19/2025 01:29 PM",
+      "status": 0,
+      "actions": {
+        "addtotask": {
+          "text": "",
+          "className": "actionAddJourneyToTask"
+        },
+        "createnewtask": {
+          "text": "Create New Task",
+          "className": "actionCreateTaskWithJourney"
+        },
+        "attachtoassetgroup": {
+          "text": "Attach To Campaign Group",
+          "className": "actionAttachToCampaignAssets"
+        },
+        "folder": {
+          "text": "Add To Folder",
+          "className": "actionAddToFolder"
+        }
+      },
+      "folder_name": ""
+    },
+    {
+      "id": "100401",
+      "name": "Sep 2025 Partners Meeting",
+      "completed": "-",
+      "pending": "-",
+      "created_on": "Thursday 09/18/2025 09:13 AM",
+      "status": 0,
+      "actions": {
+        "addtotask": {
+          "text": "",
+          "className": "actionAddJourneyToTask"
+        },
+        "createnewtask": {
+          "text": "Create New Task",
+          "className": "actionCreateTaskWithJourney"
+        },
+        "attachtoassetgroup": {
+          "text": "Attach To Campaign Group",
+          "className": "actionAttachToCampaignAssets"
+        },
+        "folder": {
+          "text": "Add To Folder",
+          "className": "actionAddToFolder"
+        }
+      },
+      "folder_name": ""
+    },
+    {
+      "id": "100212",
+      "name": "Sep 2025 Webinar - WhatsApp Marketing",
+      "completed": "-",
+      "pending": "-",
+      "created_on": "Friday 09/12/2025 06:41 AM",
+      "status": 0,
+      "actions": {
+        "addtotask": {
+          "text": "",
+          "className": "actionAddJourneyToTask"
+        },
+        "createnewtask": {
+          "text": "Create New Task",
+          "className": "actionCreateTaskWithJourney"
+        },
+        "attachtoassetgroup": {
+          "text": "Attach To Campaign Group",
+          "className": "actionAttachToCampaignAssets"
+        },
+        "folder": {
+          "text": "Add To Folder",
+          "className": "actionAddToFolder"
+        }
+      },
+      "folder_name": ""
+    },
+    {
+      "id": "99505",
+      "name": "August Podcast - Replay ",
+      "completed": "-",
+      "pending": "-",
+      "created_on": "Wednesday 08/20/2025 01:31 PM",
+      "status": 0,
+      "actions": {
+        "addtotask": {
+          "text": "",
+          "className": "actionAddJourneyToTask"
+        },
+        "createnewtask": {
+          "text": "Create New Task",
+          "className": "actionCreateTaskWithJourney"
+        },
+        "attachtoassetgroup": {
+          "text": "Attach To Campaign Group",
+          "className": "actionAttachToCampaignAssets"
+        },
+        "folder": {
+          "text": "Add To Folder",
+          "className": "actionAddToFolder"
+        }
+      },
+      "folder_name": ""
+    },
+    {
+      "id": "99227",
+      "name": "Cold Nurture Campaign",
+      "completed": "-",
+      "pending": "-",
+      "created_on": "Monday 08/11/2025 07:09 AM",
+      "status": 0,
+      "actions": {
+        "addtotask": {
+          "text": "",
+          "className": "actionAddJourneyToTask"
+        },
+        "createnewtask": {
+          "text": "Create New Task",
+          "className": "actionCreateTaskWithJourney"
+        },
+        "attachtoassetgroup": {
+          "text": "Attach To Campaign Group",
+          "className": "actionAttachToCampaignAssets"
+        },
+        "folder": {
+          "text": "Move from Folder",
+          "className": "actionMoveFromFolder"
+        }
+      },
+      "folder_name": "Cold Nurture Sequence"
+    },
+    {
+      "id": "99101",
+      "name": "August 2025 - Invite",
+      "completed": "-",
+      "pending": "-",
+      "created_on": "Wednesday 08/06/2025 07:14 AM",
+      "status": 0,
+      "actions": {
+        "addtotask": {
+          "text": "",
+          "className": "actionAddJourneyToTask"
+        },
+        "createnewtask": {
+          "text": "Create New Task",
+          "className": "actionCreateTaskWithJourney"
+        },
+        "attachtoassetgroup": {
+          "text": "Attach To Campaign Group",
+          "className": "actionAttachToCampaignAssets"
+        },
+        "folder": {
+          "text": "Add To Folder",
+          "className": "actionAddToFolder"
+        }
+      },
+      "folder_name": ""
+    },
+    {
+      "id": "98467",
+      "name": "July Podcast - Replay",
+      "completed": "-",
+      "pending": "-",
+      "created_on": "Wednesday 07/16/2025 12:11 PM",
+      "status": 0,
+      "actions": {
+        "addtotask": {
+          "text": "",
+          "className": "actionAddJourneyToTask"
+        },
+        "createnewtask": {
+          "text": "Create New Task",
+          "className": "actionCreateTaskWithJourney"
+        },
+        "attachtoassetgroup": {
+          "text": "Attach To Campaign Group",
+          "className": "actionAttachToCampaignAssets"
+        },
+        "folder": {
+          "text": "Add To Folder",
+          "className": "actionAddToFolder"
+        }
+      },
+      "folder_name": ""
+    },
+    {
+      "id": "98038",
+      "name": "July 2025 Podcast",
+      "completed": "-",
+      "pending": "-",
+      "created_on": "Thursday 07/03/2025 06:30 AM",
+      "status": 0,
+      "actions": {
+        "addtotask": {
+          "text": "",
+          "className": "actionAddJourneyToTask"
+        },
+        "createnewtask": {
+          "text": "Create New Task",
+          "className": "actionCreateTaskWithJourney"
+        },
+        "attachtoassetgroup": {
+          "text": "Attach To Campaign Group",
+          "className": "actionAttachToCampaignAssets"
+        },
+        "folder": {
+          "text": "Add To Folder",
+          "className": "actionAddToFolder"
+        }
+      },
+      "folder_name": ""
+    }
+  ],
+  "draw": 1,
+  "recordsTotal": 403,
+  "recordsFiltered": 403
+}

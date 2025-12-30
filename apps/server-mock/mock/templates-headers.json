@@ -1,0 +1,60 @@
+{
+	"headers": {
+		"id": "",
+		"template": {
+			"title": "Template",
+			"sort": true
+		},
+		"created_on": {
+			"title": "Created",
+			"sort": true,
+			"defaultsort": true
+		},
+		"created_by": {
+			"title": "Created By",
+			"sort": true
+		},
+		"actions": "Actions"
+	},
+	"actions": {
+		"master": {
+			"text": "Preview"
+		},
+		"list": {
+			"preview": {
+				"text": "Preview"
+			},
+			"publicpreview": {
+				"text": "Public Preview"
+			},
+			"divider1": "divider",
+			"edit": {
+				"text": "Edit"
+			},
+			"copy": {
+				"text": "Copy"
+			},
+			"divider2": "divider",
+			"folder": {
+				"text": "Add To Folder"
+			},
+			"folder-divider": "divider",
+			"attachtoassetgroup": {
+				"text": "Attach To Campaign Group"
+			},
+			"addtotask": {
+				"text": "Add To Task"
+			},
+			"createnewtask": {
+				"text": "Create New Task"
+			},
+			"copytoaccount": {
+				"text": "Copy To Account"
+			},
+			"divider3": "divider",
+			"delete": {
+				"text": "Delete"
+			}
+		}
+	}
+}

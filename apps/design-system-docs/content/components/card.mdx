@@ -1,0 +1,306 @@
+---
+title: Card
+description: A flexible container component for grouping related content and actions
+category: Components
+status: stable
+keywords:
+  - card
+  - container
+  - panel
+  - layout
+  - composition
+lastUpdated: 2025-01-27
+---
+
+import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter, Button, Avatar, AvatarFallback, IconButton, Badge } from '@thrive/ui';
+import { MdMoreVert } from 'react-icons/md';
+
+<ComponentPageHeader
+	title="Card"
+	description="A flexible container component for grouping related content and actions"
+	status="stable"
+	category="Components"
+/>
+
+## Overview
+
+A flexible container component for grouping related content and actions. Built with semantic HTML and consistent spacing, perfect for creating organized layouts.
+
+<InfoCallout type="info" title="When to Use">
+Use cards to group related information and actions. Cards work well for dashboards, product listings, user profiles, and any content that needs visual separation.
+</InfoCallout>
+
+## Basic Usage
+
+<CodeExample
+	title="Simple Card"
+	description="Basic card with title and content"
+	code={`<Card>
+  <CardHeader>
+    <CardTitle>Card Title</CardTitle>
+    <CardDescription>Card description goes here</CardDescription>
+  </CardHeader>
+  <CardContent>
+    <p>Card content with additional information.</p>
+  </CardContent>
+</Card>`}
+	preview={
+		<Card>
+			<CardHeader>
+				<CardTitle>Card Title</CardTitle>
+				<CardDescription>Card description goes here</CardDescription>
+			</CardHeader>
+			<CardContent>
+				<p>Card content with additional information.</p>
+			</CardContent>
+		</Card>
+	}
+/>
+
+## With Footer
+
+<CodeExample
+	title="Card with Actions"
+	description="Card with footer containing action buttons"
+	code={`<Card>
+  <CardHeader>
+    <CardTitle>Project Title</CardTitle>
+    <CardDescription>Last updated 2 hours ago</CardDescription>
+  </CardHeader>
+  <CardContent>
+    <p>Project details and description go here.</p>
+  </CardContent>
+  <CardFooter>
+    <Button variant="primary">View Details</Button>
+    <Button variant="secondary">Edit</Button>
+  </CardFooter>
+</Card>`}
+	preview={
+		<Card>
+			<CardHeader>
+				<CardTitle>Project Title</CardTitle>
+				<CardDescription>Last updated 2 hours ago</CardDescription>
+			</CardHeader>
+			<CardContent>
+				<p>Project details and description go here.</p>
+			</CardContent>
+			<CardFooter>
+				<Button variant="primary">View Details</Button>
+				<Button variant="secondary">Edit</Button>
+			</CardFooter>
+		</Card>
+	}
+/>
+
+## With Badge
+
+<CodeExample
+	title="Card with Status Badge"
+	description="Card showing status with a badge"
+	code={`<Card>
+  <CardHeader>
+    <div className="flex items-start justify-between">
+      <div>
+        <CardTitle>Campaign Name</CardTitle>
+        <CardDescription>Started 3 days ago</CardDescription>
+      </div>
+      <Badge variant="success">Active</Badge>
+    </div>
+  </CardHeader>
+  <CardContent>
+    <p>Campaign details and metrics.</p>
+  </CardContent>
+</Card>`}
+	preview={
+		<Card>
+			<CardHeader>
+				<div className="flex items-start justify-between">
+					<div>
+						<CardTitle>Campaign Name</CardTitle>
+						<CardDescription>Started 3 days ago</CardDescription>
+					</div>
+					<Badge variant="success">Active</Badge>
+				</div>
+			</CardHeader>
+			<CardContent>
+				<p>Campaign details and metrics.</p>
+			</CardContent>
+		</Card>
+	}
+/>
+
+## With Avatar
+
+<CodeExample
+	title="User Profile Card"
+	description="Card with avatar and user information"
+	code={`<Card>
+  <CardHeader>
+    <div className="flex items-center gap-3">
+      <Avatar size="md">
+        <AvatarFallback size="md">JD</AvatarFallback>
+      </Avatar>
+      <div>
+        <CardTitle>John Doe</CardTitle>
+        <CardDescription>Software Engineer</CardDescription>
+      </div>
+    </div>
+  </CardHeader>
+  <CardContent>
+    <p>Bio and additional information about the user.</p>
+  </CardContent>
+  <CardFooter>
+    <Button variant="primary">View Profile</Button>
+  </CardFooter>
+</Card>`}
+	preview={
+		<Card>
+			<CardHeader>
+				<div className="flex items-center gap-3">
+					<Avatar size="md">
+						<AvatarFallback size="md">JD</AvatarFallback>
+					</Avatar>
+					<div>
+						<CardTitle>John Doe</CardTitle>
+						<CardDescription>Software Engineer</CardDescription>
+					</div>
+				</div>
+			</CardHeader>
+			<CardContent>
+				<p>Bio and additional information about the user.</p>
+			</CardContent>
+			<CardFooter>
+				<Button variant="primary">View Profile</Button>
+			</CardFooter>
+		</Card>
+	}
+/>
+
+## With Action Menu
+
+<CodeExample
+	title="Card with Menu"
+	description="Card with action menu in the header"
+	code={`<Card>
+  <CardHeader>
+    <div className="flex items-start justify-between">
+      <div>
+        <CardTitle>Task Title</CardTitle>
+        <CardDescription>Due tomorrow at 5:00 PM</CardDescription>
+      </div>
+      <IconButton variant="ghost" size="sm" icon={<MdMoreVert />} aria-label="More options" />
+    </div>
+  </CardHeader>
+  <CardContent>
+    <p>Task description and details.</p>
+  </CardContent>
+</Card>`}
+	preview={
+		<Card>
+			<CardHeader>
+				<div className="flex items-start justify-between">
+					<div>
+						<CardTitle>Task Title</CardTitle>
+						<CardDescription>Due tomorrow at 5:00 PM</CardDescription>
+					</div>
+					<IconButton variant="ghost" size="sm" icon={<MdMoreVert />} aria-label="More options" />
+				</div>
+			</CardHeader>
+			<CardContent>
+				<p>Task description and details.</p>
+			</CardContent>
+		</Card>
+	}
+/>
+
+## Composition Patterns
+
+<InfoCallout type="info" title="Flexible Composition">
+Cards are built using composition. You can use any combination of CardHeader, CardContent, and CardFooter, or even skip some parts entirely.
+</InfoCallout>
+
+### Content Only
+
+<CodeExample
+	title="Content Only Card"
+	description="Simple card with just content"
+	code={`<Card>
+  <CardContent>
+    <p>This card only has content, no header or footer.</p>
+  </CardContent>
+</Card>`}
+	preview={
+		<Card>
+			<CardContent>
+				<p>This card only has content, no header or footer.</p>
+			</CardContent>
+		</Card>
+	}
+/>
+
+### Header Only
+
+<CodeExample
+	title="Header Only Card"
+	description="Minimal card with just a header"
+	code={`<Card>
+  <CardHeader>
+    <CardTitle>Quick Info</CardTitle>
+    <CardDescription>Brief description</CardDescription>
+  </CardHeader>
+</Card>`}
+	preview={
+		<Card>
+			<CardHeader>
+				<CardTitle>Quick Info</CardTitle>
+				<CardDescription>Brief description</CardDescription>
+			</CardHeader>
+		</Card>
+	}
+/>
+
+## Best Practices
+
+<GuidelinesGrid>
+	<Guideline type="do" title="Group related content">
+		Use cards to group related information and actions together. Each card should represent a single concept or entity.
+	</Guideline>
+	
+	<Guideline type="do" title="Use semantic structure">
+		Follow the CardHeader → CardContent → CardFooter pattern for consistency and accessibility.
+	</Guideline>
+	
+	<Guideline type="do" title="Keep footer actions minimal">
+		Limit footer actions to 1-3 buttons. Too many actions can overwhelm users.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't nest cards deeply">
+		Avoid nesting cards within cards. This creates visual confusion and breaks the hierarchy.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't overload with content">
+		Keep card content focused and scannable. If you need more space, consider splitting into multiple cards.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't skip the header">
+		Most cards should have a header with at least a title. Content-only cards should be used sparingly.
+	</Guideline>
+</GuidelinesGrid>
+
+## Props
+
+<Props componentName="Card" />
+
+## Accessibility
+
+<InfoCallout type="info" title="Semantic HTML">
+Cards use semantic HTML structure to ensure proper document outline and screen reader support.
+</InfoCallout>
+
+- Use semantic HTML structure (article, header, section, footer)
+- Provide meaningful titles in CardTitle for context
+- Ensure sufficient color contrast for all text
+- Make interactive elements keyboard accessible
+- Use ARIA labels for icon buttons in card headers
+- Consider using `role="region"` with `aria-label` for important cards
+

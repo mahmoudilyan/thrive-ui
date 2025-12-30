@@ -1,0 +1,367 @@
+{
+	"data": [
+		{
+			"type": {
+				"reference": "destination",
+				"label": "Destination URL",
+				"sub_label": "/blog/5-marketo-alternatives-you-should-consider-in-2024/",
+				"icon": "images/goal-types/destination_url.svg"
+			},
+			"value": "(N/A)",
+			"id": "4161",
+			"goal_name": "Reached the Marketo Alternatives Blog",
+			"domain": {
+				"name": "https://www.vbout.com",
+				"verified": 1
+			},
+			"achieved": "32",
+			"status": 1,
+			"actions": {
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddGoalToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithGoal"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"type": {
+				"reference": "destination",
+				"label": "Destination URL",
+				"sub_label": "/blog/humor-social-media-transforming-marketing-funny-cartoons-viral-campaigns/",
+				"icon": "images/goal-types/destination_url.svg"
+			},
+			"value": "(N/A)",
+			"id": "4160",
+			"goal_name": "Reached the Social Media Humor blog",
+			"domain": {
+				"name": "https://www.vbout.com",
+				"verified": 1
+			},
+			"achieved": "314",
+			"status": 1,
+			"actions": {
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddGoalToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithGoal"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"type": {
+				"reference": "funnel",
+				"label": "Funnel Tracking",
+				"sub_label": "2 (pages)",
+				"icon": "images/goal-types/funnel.svg"
+			},
+			"value": "(N/A)",
+			"id": "3613",
+			"goal_name": "VBOUT Agency Ad Campaign - Demo Booking Funnel",
+			"domain": {
+				"name": "https://lp.vbt.site",
+				"verified": 1
+			},
+			"achieved": "0",
+			"status": 1,
+			"actions": {
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddGoalToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithGoal"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"type": {
+				"reference": "event_link",
+				"label": "Event Triggered",
+				"sub_label": "Link(s) Clicked",
+				"icon": "images/goal-types/event_triggered.svg"
+			},
+			"value": "(N/A)",
+			"id": "1528",
+			"goal_name": "Earned the academy certificate",
+			"domain": {
+				"name": "https://academy.vbout.com",
+				"verified": 1
+			},
+			"achieved": "6",
+			"status": 1,
+			"actions": {
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddGoalToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithGoal"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"type": {
+				"reference": "funnel",
+				"label": "Funnel Tracking",
+				"sub_label": "4 (pages)",
+				"icon": "images/goal-types/funnel.svg"
+			},
+			"value": "$3,000.00",
+			"id": "1517",
+			"goal_name": "VBOUT Academy Signup Funnel",
+			"domain": {
+				"name": "https://academy.vbout.com",
+				"verified": 1
+			},
+			"achieved": "782",
+			"status": 1,
+			"actions": {
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddGoalToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithGoal"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"type": {
+				"reference": "funnel",
+				"label": "Funnel Tracking",
+				"sub_label": "5 (pages)",
+				"icon": "images/goal-types/funnel.svg"
+			},
+			"value": "(N/A)",
+			"id": "1374",
+			"goal_name": "Product demo signup funnel - Self converters",
+			"domain": {
+				"name": "https://www.vbout.com",
+				"verified": 0
+			},
+			"achieved": "158",
+			"status": 1,
+			"actions": {
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddGoalToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithGoal"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"type": {
+				"reference": "destination",
+				"label": "Destination URL",
+				"sub_label": "vbout.com/cart/completed?=",
+				"icon": "images/goal-types/destination_url.svg"
+			},
+			"value": "$100.00",
+			"id": "1316",
+			"goal_name": "Purchase Completed",
+			"domain": {
+				"name": "https://www.vbout.com",
+				"verified": 1
+			},
+			"achieved": "0",
+			"status": 1,
+			"actions": {
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddGoalToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithGoal"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"type": {
+				"reference": "destination",
+				"label": "Destination URL",
+				"sub_label": "/agency/",
+				"icon": "images/goal-types/destination_url.svg"
+			},
+			"value": "(N/A)",
+			"id": "906",
+			"goal_name": "Visited agency page",
+			"domain": {
+				"name": "https://www.vbout.com",
+				"verified": 1
+			},
+			"achieved": "5887",
+			"status": 1,
+			"actions": {
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddGoalToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithGoal"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"type": {
+				"reference": "destination",
+				"label": "Destination URL",
+				"sub_label": "/7257/success",
+				"icon": "images/goal-types/destination_url.svg"
+			},
+			"value": "(N/A)",
+			"id": "885",
+			"goal_name": "Request a demo",
+			"domain": {
+				"name": "http://lp.vbout.com",
+				"verified": 1
+			},
+			"achieved": "2501",
+			"status": 1,
+			"actions": {
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddGoalToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithGoal"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		},
+		{
+			"type": {
+				"reference": "destination",
+				"label": "Destination URL",
+				"sub_label": "vbout.com/landingpage",
+				"icon": "images/goal-types/destination_url.svg"
+			},
+			"value": "(N/A)",
+			"id": "745",
+			"goal_name": "Webinar Landing Page Registration",
+			"domain": {
+				"name": "https://www.vbout.com",
+				"verified": 1
+			},
+			"achieved": "2",
+			"status": 0,
+			"actions": {
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddGoalToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithGoal"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		}
+	],
+	"draw": 1,
+	"recordsTotal": 22,
+	"recordsFiltered": 22
+}

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "design-system": {
+      "url": "http://localhost:3001/mcp",
+      "headers": {
+        "Authorization": "Bearer YOUR_TEAM_API_KEY_HERE"
+      }
+    }
+  }
+}
+

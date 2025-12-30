@@ -1,0 +1,422 @@
+[
+	{
+		"id": "27624",
+		"name": "Meetings from cold events"
+	},
+	{
+		"id": "27623",
+		"name": "Meetings from website visitors"
+	},
+	{
+		"id": "27619",
+		"name": "Meetings from V2 medical"
+	},
+	{
+		"id": "27617",
+		"name": "Meetings from V2 real estate"
+	},
+	{
+		"id": "27616",
+		"name": "Meetings from V3"
+	},
+	{
+		"id": "27615",
+		"name": "Meetings from V1"
+	},
+	{
+		"id": "27565",
+		"name": "Test attended"
+	},
+	{
+		"id": "27564",
+		"name": "Test attended"
+	},
+	{
+		"id": "27518",
+		"name": "Webinar Attendees: Non-customers"
+	},
+	{
+		"id": "23330",
+		"name": "Pricing"
+	},
+	{
+		"id": "22835",
+		"name": "TST"
+	},
+	{
+		"id": "22438",
+		"name": "test"
+	},
+	{
+		"id": "19286",
+		"name": "G2 referrals"
+	},
+	{
+		"id": "17768",
+		"name": "HOME UTM1"
+	},
+	{
+		"id": "17767",
+		"name": "HOME UTM1"
+	},
+	{
+		"id": "16380",
+		"name": "Webinar"
+	},
+	{
+		"id": "15510",
+		"name": "All Subscribers - Excluding Paid Customers"
+	},
+	{
+		"id": "11560",
+		"name": "All contacts - Excluding inactive"
+	},
+	{
+		"id": "11296",
+		"name": "Subscribers and trial customers"
+	},
+	{
+		"id": "10604",
+		"name": "test"
+	},
+	{
+		"id": "9850",
+		"name": "Unengaged contacts"
+	},
+	{
+		"id": "9849",
+		"name": "Unengaged contacts"
+	},
+	{
+		"id": "9847",
+		"name": "test"
+	},
+	{
+		"id": "9532",
+		"name": "test"
+	},
+	{
+		"id": "9531",
+		"name": "test"
+	},
+	{
+		"id": "9009",
+		"name": "Sourceforge UTM Leads"
+	},
+	{
+		"id": "9008",
+		"name": "LinkedIn UTM Leads"
+	},
+	{
+		"id": "9007",
+		"name": "Capterra UTM"
+	},
+	{
+		"id": "8881",
+		"name": "Capterra Leads"
+	},
+	{
+		"id": "8858",
+		"name": "SourceForge Leads"
+	},
+	{
+		"id": "8857",
+		"name": "LinkedIn Leads"
+	},
+	{
+		"id": "8850",
+		"name": "Capterra Leads"
+	},
+	{
+		"id": "8580",
+		"name": "everyone"
+	},
+	{
+		"id": "6639",
+		"name": "New clients"
+	},
+	{
+		"id": "5809",
+		"name": "G2 Contacts"
+	},
+	{
+		"id": "5412",
+		"name": "test"
+	},
+	{
+		"id": "4724",
+		"name": "Competitor chart excluding Unsubscribes + Bounces"
+	},
+	{
+		"id": "4712",
+		"name": "Instagram Leads"
+	},
+	{
+		"id": "4557",
+		"name": "Facebook Leads"
+	},
+	{
+		"id": "4556",
+		"name": "LinkedIn Leads"
+	},
+	{
+		"id": "4555",
+		"name": "Google & YouTube Leads"
+	},
+	{
+		"id": "4353",
+		"name": "Check Default"
+	},
+	{
+		"id": "3850",
+		"name": "TEST ALL - DO NOT DELETE!!!!"
+	},
+	{
+		"id": "3699",
+		"name": "Charbel's list"
+	},
+	{
+		"id": "3513",
+		"name": "Competitor Chart - Excluding February and Calendly booking"
+	},
+	{
+		"id": "3484",
+		"name": "All Paid Customers"
+	},
+	{
+		"id": "3483",
+		"name": "Sub-account Paid Customers"
+	},
+	{
+		"id": "3383",
+		"name": "CMO - Emails not opened"
+	},
+	{
+		"id": "3352",
+		"name": "Paid Customers (Other)"
+	},
+	{
+		"id": "3351",
+		"name": "Paid Customers (Transport/Logistics)"
+	},
+	{
+		"id": "3350",
+		"name": "Paid Customers (Travel/Hospitality)"
+	},
+	{
+		"id": "3349",
+		"name": "Paid Customers (Training/Education)"
+	},
+	{
+		"id": "3348",
+		"name": "Paid Customers (Technology providers)"
+	},
+	{
+		"id": "3347",
+		"name": "Paid Customers (Real estate)"
+	},
+	{
+		"id": "3346",
+		"name": "Paid Customers (Marketing/Publishing)"
+	},
+	{
+		"id": "3345",
+		"name": "Paid Customers (Marketing consultant)"
+	},
+	{
+		"id": "3344",
+		"name": "Paid Customers (Marketing agency)"
+	},
+	{
+		"id": "3343",
+		"name": "Paid Customers (IT services)"
+	},
+	{
+		"id": "3342",
+		"name": "Paid Customers (Health/Fitness)"
+	},
+	{
+		"id": "3341",
+		"name": "Paid Customers (Financial services)"
+	},
+	{
+		"id": "3340",
+		"name": "Paid Customers (Ecommerce)"
+	},
+	{
+		"id": "3339",
+		"name": "Paid Customers (Construction)"
+	},
+	{
+		"id": "3338",
+		"name": "Paid Customers (Charity/Non profit organiziations)"
+	},
+	{
+		"id": "3337",
+		"name": "Paid Customers (Build/Interiors)"
+	},
+	{
+		"id": "3299",
+		"name": "Canada"
+	},
+	{
+		"id": "2806",
+		"name": "JOhnny Test"
+	},
+	{
+		"id": "2782",
+		"name": "Core Paid Customers"
+	},
+	{
+		"id": "2759",
+		"name": "Johny OPT"
+	},
+	{
+		"id": "2745",
+		"name": "Blog excluding VBOUT - comparison chart signups and demo requests"
+	},
+	{
+		"id": "2717",
+		"name": "Agencies that filled out demo form - Maya Rich"
+	},
+	{
+		"id": "2433",
+		"name": "Paid Browse Abandoners "
+	},
+	{
+		"id": "2432",
+		"name": "First Time Browse Abandoners "
+	},
+	{
+		"id": "1757",
+		"name": "Newsletter - Excluding VBOUT Customers"
+	},
+	{
+		"id": "1575",
+		"name": "Subscribers - Excluding Browser Push list"
+	},
+	{
+		"id": "1549",
+		"name": "Newsletter - Not on webinar list"
+	},
+	{
+		"id": "1479",
+		"name": "www"
+	},
+	{
+		"id": "1386",
+		"name": "TEST"
+	},
+	{
+		"id": "1377",
+		"name": "Social Media Webinar Engagement"
+	},
+	{
+		"id": "1042",
+		"name": "UNSUB"
+	},
+	{
+		"id": "1033",
+		"name": "European Subscribers"
+	},
+	{
+		"id": "850",
+		"name": "Free users "
+	},
+	{
+		"id": "848",
+		"name": "Non-users in \"All webinars\" list"
+	},
+	{
+		"id": "847",
+		"name": "Non-Users"
+	},
+	{
+		"id": "846",
+		"name": "VBOUT non-clients or partners"
+	},
+	{
+		"id": "769",
+		"name": "Inside Sales | Rick Leads"
+	},
+	{
+		"id": "742",
+		"name": "visited the wedding page"
+	},
+	{
+		"id": "693",
+		"name": "Inside Sales | Angel Leads"
+	},
+	{
+		"id": "692",
+		"name": "Inside Sales | Rachel Leads"
+	},
+	{
+		"id": "554",
+		"name": "Inside Sales | Not Interested"
+	},
+	{
+		"id": "553",
+		"name": "Inside Sales | Closed Business"
+	},
+	{
+		"id": "552",
+		"name": "Inside Sales | Demo"
+	},
+	{
+		"id": "551",
+		"name": "Inside Sales | No-Show"
+	},
+	{
+		"id": "550",
+		"name": "Inside Sales | Joana Leads"
+	},
+	{
+		"id": "549",
+		"name": "Inside Sales | Kimberly Leads"
+	},
+	{
+		"id": "548",
+		"name": "Inside Sales | Maria Leads"
+	},
+	{
+		"id": "547",
+		"name": "Inside Sales | Jover Leads"
+	},
+	{
+		"id": "392",
+		"name": "Request a demo"
+	},
+	{
+		"id": "195",
+		"name": "sales list"
+	},
+	{
+		"id": "110",
+		"name": "Stress list 5000"
+	},
+	{
+		"id": "109",
+		"name": "who didn't open the email"
+	},
+	{
+		"id": "99",
+		"name": "visited site and spent 1 minute"
+	},
+	{
+		"id": "95",
+		"name": "Webinar Attendees "
+	},
+	{
+		"id": "89",
+		"name": "Webinar Attendees (CTR) "
+	},
+	{
+		"id": "85",
+		"name": "EMAIL BUILDER"
+	},
+	{
+		"id": "84",
+		"name": "EMAIL BUILDER -US FILTER COUNTRIES"
+	}
+]

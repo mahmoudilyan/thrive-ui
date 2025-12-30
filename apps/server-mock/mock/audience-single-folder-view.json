@@ -1,0 +1,37 @@
+{
+	"data": [
+		{
+			"id": "6639",
+			"name": "New clients",
+			"isLocked": "0",
+			"contacts": "-",
+			"created_on": "Wednesday 07/14/2021 06:08 AM",
+			"last_updated": "Sunday 06/22/2025 07:45 PM",
+			"folder_name": "",
+			"actions": {
+				"folder": {
+					"text": "Move From Folder",
+					"className": "actionMoveFromFolder"
+				}
+			}
+		},
+		{
+			"id": "5809",
+			"name": "G2 Contacts",
+			"isLocked": "0",
+			"contacts": "-",
+			"created_on": "Friday 03/12/2021 05:08 AM",
+			"last_updated": "Saturday 05/17/2025 07:30 AM",
+			"folder_name": "",
+			"actions": {
+				"folder": {
+					"text": "Move From Folder",
+					"className": "actionMoveFromFolder"
+				}
+			}
+		}
+	],
+	"draw": 1,
+	"recordsTotal": "2",
+	"recordsFiltered": "2"
+}

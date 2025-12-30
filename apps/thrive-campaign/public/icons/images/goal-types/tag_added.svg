@@ -1,0 +1,8 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" enable-background="new 0 0 128 128">
+
+ <g>
+  <title>Layer 1</title>
+  <path transform="rotate(-90 63.4823 66.3477)" id="svg_2" stroke-width="7" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#8493a8" fill="none" d="m102.64768,65.24528l-40.2463,40.11617c-3.12567,3.11556 -8.18393,3.11147 -11.30454,-0.00915l-26.78909,-26.78909c-3.12892,-3.12891 -3.12349,-8.20356 0.0121,-11.32578l40.0773,-39.90636c1.4993,-1.4929 3.52895,-2.33107 5.64476,-2.33107l26.95809,0c4.41828,0 8,3.58172 8,8l0,26.57928c0,2.12622 -0.84641,4.16498 -2.35232,5.666z"/>
+  <circle id="svg_1" stroke-width="7" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke="#00AEEF" r="8" fill="none" cy="45" cx="43"/>
+ </g>
+</svg>

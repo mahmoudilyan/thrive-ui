@@ -1,0 +1,84 @@
+{
+	"data": [
+		{
+			"id": "2926",
+			"name": "AI Chatbot",
+			"description": "",
+			"created_by": "Richard  Fallah",
+			"assets": {
+				"count": 4,
+				"labels": ["1 Automation", "2 Automated Messages", "1 List"]
+			},
+			"created_on": "07/15/2024 03:22 PM"
+		},
+		{
+			"id": "168",
+			"name": "VBOUT features landing pages",
+			"description": "",
+			"created_by": "Richard  Fallah",
+			"assets": {
+				"count": 7,
+				"labels": ["4 Landing Pages", "1 Email Campaign", "1 Email Template", "1 Automation"]
+			},
+			"created_on": "10/08/2020 01:06 PM"
+		},
+		{
+			"id": "150",
+			"name": "Calendly Booking",
+			"description": "",
+			"created_by": "Richard  Fallah",
+			"assets": {
+				"count": 2,
+				"labels": ["2 Landing Pages"]
+			},
+			"created_on": "09/09/2020 02:23 PM"
+		},
+		{
+			"id": "52",
+			"name": "Webinar Funnel - Public",
+			"description": "All the pages and emails and workflows to execute a webinar flow then book a consultation with a calendar.",
+			"created_by": "Richard  Fallah",
+			"assets": {
+				"count": 9,
+				"labels": ["3 Landing Pages", "4 Automated Messages", "1 List", "1 Automation"]
+			},
+			"created_on": "04/30/2020 06:19 AM"
+		},
+		{
+			"id": "50",
+			"name": "Paid Ad Funnel - PUBLIC",
+			"description": "All the assets your need to create a paid ad funnel",
+			"created_by": "Richard  Fallah",
+			"assets": {
+				"count": 11,
+				"labels": ["3 Landing Pages", "1 Automation", "5 Automated Messages", "2 Lists"]
+			},
+			"created_on": "04/27/2020 10:20 AM"
+		},
+		{
+			"id": "35",
+			"name": "Paid Ad Funnel",
+			"description": "All the assets you need to create a paid ad funnel",
+			"created_by": "Richard  Fallah",
+			"assets": {
+				"count": 17,
+				"labels": ["2 Landing Pages", "1 Automation", "14 Automated Messages"]
+			},
+			"created_on": "04/24/2020 04:06 AM"
+		},
+		{
+			"id": "25",
+			"name": "Webinar Funnel",
+			"description": "All the pages and emails and workflows to execute a webinar flow then book a consultation with a calendar.",
+			"created_by": "Richard  Fallah",
+			"assets": {
+				"count": 10,
+				"labels": ["3 Landing Pages", "5 Automated Messages", "1 List", "1 Email Campaign"]
+			},
+			"created_on": "04/20/2020 11:08 AM"
+		}
+	],
+	"draw": 1,
+	"recordsTotal": 7,
+	"recordsFiltered": 7
+}

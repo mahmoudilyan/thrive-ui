@@ -1,0 +1,52 @@
+{
+  "headers": {
+    "id": "",
+    "name": {
+      "title": "Name",
+      "sort": true
+    },
+    "completed": "Completed",
+    "pending": "Pending",
+    "created_on": {
+      "title": "Created",
+      "sort": true
+    },
+    "status": {
+      "title": "Status",
+      "toggle": true,
+      "className": "actionUpdateAutomationStatus"
+    },
+    "actions": "Actions"
+  },
+  "actions": {
+    "master": {
+      "text": "Analytics",
+      "className": "actionAutomationStats"
+    },
+    "list": {
+      "edit": {
+        "text": "Edit",
+        "className": "actionEditAutomation"
+      },
+      "duplicate": {
+        "text": "Duplicate",
+        "className": "actionCopyAutomation"
+      },
+      "divider1": "divider",
+      "folder": "",
+      "folder-divider": "divider",
+      "attachtoassetgroup": "",
+      "addtotask": "",
+      "createnewtask": "",
+      "copytoaccount": {
+        "text": "Copy To Account",
+        "className": "actionCopyAutomationToAccount"
+      },
+      "divider2": "divider",
+      "delete": {
+        "text": "Delete",
+        "className": "actionDeleteAutomation"
+      }
+    }
+  }
+}

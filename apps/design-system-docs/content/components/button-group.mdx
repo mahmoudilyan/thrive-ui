@@ -1,0 +1,265 @@
+---
+title: Button Group
+description: A container component for grouping related buttons together with attached or detached styles
+category: Components
+status: stable
+keywords:
+  - button group
+  - button
+  - group
+  - toolbar
+  - actions
+  - segmented control
+lastUpdated: 2025-01-27
+---
+
+<ComponentPageHeader
+	title="Button Group"
+	description="A container component for grouping related buttons together with attached or detached styles"
+	status="stable"
+	category="Components"
+/>
+
+## Overview
+
+A container component for grouping related buttons together. Supports both attached and detached styles, with horizontal and vertical orientations.
+
+<InfoCallout type="info" title="When to Use">
+Use button groups to organize related actions or options. Attached groups work well for toggles and segmented controls, while detached groups are ideal for action clusters.
+</InfoCallout>
+
+## Basic Usage
+
+<CodeExample
+	title="Attached Group"
+	description="Buttons visually connected with shared borders"
+	code={`<ButtonGroup>
+  <Button variant="secondary">Left</Button>
+  <Button variant="secondary">Center</Button>
+  <Button variant="secondary">Right</Button>
+</ButtonGroup>`}
+	preview={
+		<ButtonGroup>
+			<Button variant="secondary">Left</Button>
+			<Button variant="secondary">Center</Button>
+			<Button variant="secondary">Right</Button>
+		</ButtonGroup>
+	}
+/>
+
+## Attached Mode
+
+<CodeExample
+	title="Text Formatting Toolbar"
+	description="Icon buttons grouped for rich text editing"
+	code={`<ButtonGroup attached>
+  <IconButton variant="secondary" icon={<MdFormatBold />} aria-label="Bold" />
+  <IconButton variant="secondary" icon={<MdFormatItalic />} aria-label="Italic" />
+  <IconButton variant="secondary" icon={<MdFormatUnderlined />} aria-label="Underline" />
+</ButtonGroup>`}
+	preview={
+		<ButtonGroup attached>
+			<IconButton variant="secondary" icon={<MdFormatBold />} aria-label="Bold" />
+			<IconButton variant="secondary" icon={<MdFormatItalic />} aria-label="Italic" />
+			<IconButton variant="secondary" icon={<MdFormatUnderlined />} aria-label="Underline" />
+		</ButtonGroup>
+	}
+/>
+
+<CodeExample
+	title="View Options"
+	description="Toggle between different view modes"
+	code={`<ButtonGroup attached>
+  <IconButton variant="secondary" icon={<MdViewList />} aria-label="List view" />
+  <IconButton variant="secondary" icon={<MdViewModule />} aria-label="Grid view" />
+  <IconButton variant="secondary" icon={<MdViewStream />} aria-label="Stream view" />
+</ButtonGroup>`}
+	preview={
+		<ButtonGroup attached>
+			<IconButton variant="secondary" icon={<MdViewList />} aria-label="List view" />
+			<IconButton variant="secondary" icon={<MdViewModule />} aria-label="Grid view" />
+			<IconButton variant="secondary" icon={<MdViewStream />} aria-label="Stream view" />
+		</ButtonGroup>
+	}
+/>
+
+## Detached Mode
+
+<CodeExample
+	title="Form Actions"
+	description="Separated buttons for distinct actions"
+	code={`<ButtonGroup attached={false}>
+  <Button variant="primary">Save</Button>
+  <Button variant="secondary">Cancel</Button>
+</ButtonGroup>`}
+	preview={
+		<ButtonGroup attached={false}>
+			<Button variant="primary">Save</Button>
+			<Button variant="secondary">Cancel</Button>
+		</ButtonGroup>
+	}
+/>
+
+<CodeExample
+	title="Dialog Actions"
+	description="Multiple action buttons with clear separation"
+	code={`<ButtonGroup attached={false}>
+  <Button variant="destructive">Delete</Button>
+  <Button variant="secondary">Cancel</Button>
+  <Button variant="primary">Confirm</Button>
+</ButtonGroup>`}
+	preview={
+		<ButtonGroup attached={false}>
+			<Button variant="destructive">Delete</Button>
+			<Button variant="secondary">Cancel</Button>
+			<Button variant="primary">Confirm</Button>
+		</ButtonGroup>
+	}
+/>
+
+## Vertical Orientation
+
+<CodeExample
+	title="Vertical Attached"
+	description="Stack buttons vertically"
+	code={`<ButtonGroup orientation="vertical" attached>
+  <Button variant="secondary">Top</Button>
+  <Button variant="secondary">Middle</Button>
+  <Button variant="secondary">Bottom</Button>
+</ButtonGroup>`}
+	preview={
+		<ButtonGroup orientation="vertical" attached>
+			<Button variant="secondary">Top</Button>
+			<Button variant="secondary">Middle</Button>
+			<Button variant="secondary">Bottom</Button>
+		</ButtonGroup>
+	}
+/>
+
+<CodeExample
+	title="Vertical Detached"
+	description="Vertical stack with spacing"
+	code={`<ButtonGroup orientation="vertical" attached={false}>
+  <Button variant="primary">Primary Action</Button>
+  <Button variant="secondary">Secondary Action</Button>
+  <Button variant="ghost">Tertiary Action</Button>
+</ButtonGroup>`}
+	preview={
+		<ButtonGroup orientation="vertical" attached={false}>
+			<Button variant="primary">Primary Action</Button>
+			<Button variant="secondary">Secondary Action</Button>
+			<Button variant="ghost">Tertiary Action</Button>
+		</ButtonGroup>
+	}
+/>
+
+## Sizes
+
+<CodeExample
+	title="Small Size"
+	description="Compact button group for tight spaces"
+	code={`<ButtonGroup size="sm">
+  <Button variant="secondary">Small</Button>
+  <Button variant="secondary">Size</Button>
+  <Button variant="secondary">Group</Button>
+</ButtonGroup>`}
+	preview={
+		<ButtonGroup size="sm">
+			<Button variant="secondary">Small</Button>
+			<Button variant="secondary">Size</Button>
+			<Button variant="secondary">Group</Button>
+		</ButtonGroup>
+	}
+/>
+
+<CodeExample
+	title="Large Size"
+	description="Larger buttons for prominent actions"
+	code={`<ButtonGroup size="lg">
+  <Button variant="secondary">Large</Button>
+  <Button variant="secondary">Size</Button>
+  <Button variant="secondary">Group</Button>
+</ButtonGroup>`}
+	preview={
+		<ButtonGroup size="lg">
+			<Button variant="secondary">Large</Button>
+			<Button variant="secondary">Size</Button>
+			<Button variant="secondary">Group</Button>
+		</ButtonGroup>
+	}
+/>
+
+## With Toggle State
+
+<CodeExample
+	title="Single Select Toggle"
+	description="Only one option can be active at a time"
+	code={`const [activeAlign, setActiveAlign] = React.useState('left');
+
+<ButtonGroup attached>
+  <IconButton
+    variant={activeAlign === 'left' ? 'primary' : 'secondary'}
+    icon={<MdFormatAlignLeft />}
+    onClick={() => setActiveAlign('left')}
+    aria-label="Align left"
+  />
+  <IconButton
+    variant={activeAlign === 'center' ? 'primary' : 'secondary'}
+    icon={<MdFormatAlignCenter />}
+    onClick={() => setActiveAlign('center')}
+    aria-label="Align center"
+  />
+  <IconButton
+    variant={activeAlign === 'right' ? 'primary' : 'secondary'}
+    icon={<MdFormatAlignRight />}
+    onClick={() => setActiveAlign('right')}
+    aria-label="Align right"
+  />
+</ButtonGroup>`}
+/>
+
+## Best Practices
+
+<GuidelinesGrid>
+	<Guideline type="do" title="Group related actions">
+		Only group buttons that are related in function or context. Each group should represent a logical set of actions.
+	</Guideline>
+	
+	<Guideline type="do" title="Limit group size">
+		Keep button groups to 2-5 buttons. Larger groups become difficult to scan and use.
+	</Guideline>
+	
+	<Guideline type="do" title="Use consistent variants">
+		Within attached groups, use the same button variant for visual consistency (usually 'secondary').
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't mix button types">
+		Don't mix regular buttons and icon buttons in the same attached group. This creates visual inconsistency.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't use for unrelated actions">
+		Don't group buttons that serve completely different purposes just to save space.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't overuse attached mode">
+		Attached button groups work best for toggles and segmented controls. Use detached mode for standard action buttons.
+	</Guideline>
+</GuidelinesGrid>
+
+## Props
+
+<Props componentName="ButtonGroup" />
+
+## Accessibility
+
+<InfoCallout type="info" title="Keyboard Navigation">
+Button groups support standard keyboard navigation. Use Tab to move between buttons and Enter or Space to activate.
+</InfoCallout>
+
+- Use `role="group"` for button groups to indicate related controls
+- Provide clear labels for icon buttons using `aria-label`
+- For toggle groups, use `aria-pressed` to indicate active state
+- Ensure keyboard navigation works properly (Tab between buttons)
+- Consider using `aria-label` on the group itself to describe its purpose
+- Maintain sufficient touch target sizes (minimum 44x44px) on mobile
+

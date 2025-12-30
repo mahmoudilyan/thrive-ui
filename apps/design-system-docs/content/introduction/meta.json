@@ -1,0 +1,6 @@
+{
+  "title": "Introduction",
+  "description": "Getting started with Thrive Design System",
+  "defaultOpen": true,
+  "pages": ["get-started", "mcp-server"]
+}

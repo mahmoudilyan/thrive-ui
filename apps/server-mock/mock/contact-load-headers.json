@@ -1,0 +1,85 @@
+{
+	"headers": {
+		"email": {
+			"title": "Email",
+			"sort": true
+		},
+		"phone": {
+			"title": "Phone Number",
+			"sort": true
+		},
+		"field719": {
+			"title": "<div title=\"First Name\">First Name</div>",
+			"sort": true,
+			"type": "text"
+		},
+		"field720": {
+			"title": "<div title=\"Last Name\">Last Name</div>",
+			"sort": true,
+			"type": "text"
+		},
+		"field164335": {
+			"title": "<div title=\"Address 1\">Address 1</div>",
+			"sort": true,
+			"type": "text"
+		},
+		"list_name": {
+			"title": "Lists",
+			"sort": false
+		},
+		"data_assignedto": {
+			"title": "<div title=\"Assigned To\">Assigned To</div>",
+			"sort": false
+		},
+		"registrationdate": {
+			"title": "Signup",
+			"sort": true,
+			"defaultsort": true
+		},
+		"status": {
+			"title": "Status",
+			"sort": true
+		},
+		"field6734": {
+			"title": "Something new to test here",
+			"sort": true,
+			"defaultsort": true
+		},
+		"actions": "Actions"
+	},
+	"actions": {
+		"master": {
+			"text": "Edit",
+			"className": "actionEditContact"
+		},
+		"list": {
+			"edit": {
+				"text": "Edit Contact",
+				"className": "actionEditContact"
+			},
+			"move": {
+				"text": "Move To List",
+				"className": "actionMoveContact"
+			},
+			"copy": {
+				"text": "Add To List",
+				"className": "actionCopyContact"
+			},
+			"divider1": "divider",
+			"assign": {
+				"text": "Assign To",
+				"className": "actionAssignLead"
+			},
+			"validation": {
+				"text": "Email Validation",
+				"className": "actionEmailValidation"
+			},
+			"divider2": "divider",
+			"delete": {
+				"text": "Delete",
+				"className": "actionDeleteContactDialog"
+			}
+		}
+	},
+	"status": "success"
+}

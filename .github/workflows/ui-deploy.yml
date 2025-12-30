@@ -1,0 +1,56 @@
+name: UI Package Deployment
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'packages/ui/**'
+      - '!packages/ui/README.md'  # Exclude non-code changes
+  pull_request:
+    paths:
+      - 'packages/ui/**'
+
+jobs:
+  detect-ui-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      ui-changed: ${{ steps.changes.outputs.ui }}
+    steps:
+      - uses: actions/checkout@v3
+      - uses: dorny/paths-filter@v2
+        id: changes
+        with:
+          filters: |
+            ui:
+              - 'packages/ui/src/**'
+              - 'packages/ui/package.json'
+              - 'packages/ui/tsconfig.json'
+
+  deploy-ui:
+    needs: detect-ui-changes
+    if: needs.detect-ui-changes.outputs.ui-changed == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Install dependencies
+        run: npm ci
+        
+      - name: Build UI package
+        run: |
+          cd packages/ui
+          npm run build
+          
+      - name: Create package
+        run: |
+          cd packages/ui
+          npm pack
+          
+      - name: Deploy/Release
+        run: |
+          echo "Deploying UI package..."
+          # Your deployment logic here

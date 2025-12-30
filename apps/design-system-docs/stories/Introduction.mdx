@@ -1,0 +1,81 @@
+import { Meta } from '@storybook/addon-docs/blocks';
+
+<Meta title="1. Introduction" />
+
+# Welcome to Thrive Design System
+
+<div style={{ display: 'flex', alignItems: 'center', gap: '1rem', marginBottom: '2rem' }}>
+  <img src="/thrive-icon.svg" alt="Thrive Logo" width="48" height="48" />
+  <h2 style={{ margin: 0 }}>Building Consistent, Accessible User Experiences</h2>
+</div>
+
+The Thrive Design System is a comprehensive collection of reusable components, design tokens, and guidelines that help teams build consistent, accessible, and delightful user experiences.
+
+## What's Included
+
+- **🎨 Design Tokens**: Colors, typography, spacing, and other foundational design decisions
+- **🧩 Components**: A library of accessible, customizable React components
+- **📱 Responsive Design**: Mobile-first approach with flexible breakpoints
+- **🌙 Dark Mode**: Built-in support for light and dark themes
+- **♿ Accessibility**: WCAG 2.1 AA compliant components with thorough testing
+- **🎯 Figma Integration**: Seamless design-to-development workflow
+
+## Getting Started
+
+### Installation
+
+```bash
+npm install @thrive/ui
+# or
+pnpm add @thrive/ui
+# or
+yarn add @thrive/ui
+```
+
+### Basic Usage
+
+```tsx
+import { Button, Input, Card } from '@thrive/ui';
+
+function MyApp() {
+  return (
+    <Card>
+      <Input placeholder="Enter your name" />
+      <Button variant="primary">Submit</Button>
+    </Card>
+  );
+}
+```
+
+## Features
+
+### Accessibility First
+All components are built with accessibility in mind, featuring:
+- Proper ARIA attributes
+- Keyboard navigation support
+- Screen reader compatibility
+- High contrast color schemes
+
+### Design Tokens
+Consistent design decisions encoded as tokens:
+- Colors with semantic naming
+- Typography scales
+- Spacing system
+- Border radius and shadows
+
+### Dark Mode Support
+Toggle between light and dark themes seamlessly:
+- System preference detection
+- Manual theme switching
+- Consistent color schemes across themes
+
+## Resources
+
+- [Component Library](/docs/components-button--docs)
+- [Design Tokens](/docs/foundation-colors--docs)
+- [Accessibility Guidelines](/docs/accessibility-overview--docs)
+- [Figma Design System](https://figma.com/thrive-design-system)
+
+---
+
+Ready to explore? Check out our components in the sidebar or dive into the design tokens to understand our foundational principles.

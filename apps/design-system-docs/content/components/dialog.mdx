@@ -1,0 +1,254 @@
+---
+title: Dialog
+description: A modal dialog component for displaying content that requires user attention or action
+category: Components
+status: stable
+keywords:
+  - dialog
+  - modal
+  - popup
+  - overlay
+  - alert
+  - confirmation
+lastUpdated: 2025-01-27
+---
+
+
+<ComponentPageHeader
+	title="Dialog"
+	description="A modal dialog component for displaying content that requires user attention or action"
+	status="stable"
+	category="Components"
+/>
+
+## Overview
+
+A comprehensive dialog system built on Radix UI primitives. Displays content in a modal overlay that requires user interaction before continuing.
+
+<InfoCallout type="info" title="When to Use">
+Use dialogs for critical information, confirmations, or forms that require immediate attention. They should interrupt the user's workflow intentionally.
+</InfoCallout>
+
+## Basic Usage
+
+<CodeExample
+	title="Simple Dialog"
+	description="Basic dialog with trigger button"
+	code={`<Dialog>
+  <DialogTrigger asChild>
+    <Button>Open Dialog</Button>
+  </DialogTrigger>
+  <DialogContent>
+    <DialogHeader>
+      <DialogTitle>Dialog Title</DialogTitle>
+      <DialogDescription>
+        This is a description of what the dialog is about.
+      </DialogDescription>
+    </DialogHeader>
+    <div className="py-4">
+      Dialog content goes here.
+    </div>
+    <DialogFooter>
+      <Button variant="secondary">Cancel</Button>
+      <Button variant="primary">Confirm</Button>
+    </DialogFooter>
+  </DialogContent>
+</Dialog>`}
+/>
+
+## Confirmation Dialog
+
+<CodeExample
+	title="Delete Confirmation"
+	description="Dialog for destructive actions"
+	code={`<Dialog>
+  <DialogTrigger asChild>
+    <Button variant="destructive">Delete Item</Button>
+  </DialogTrigger>
+  <DialogContent>
+    <DialogHeader>
+      <DialogTitle>Are you sure?</DialogTitle>
+      <DialogDescription>
+        This action cannot be undone. This will permanently delete the item.
+      </DialogDescription>
+    </DialogHeader>
+    <DialogFooter>
+      <Button variant="secondary">Cancel</Button>
+      <Button variant="destructive">Delete</Button>
+    </DialogFooter>
+  </DialogContent>
+</Dialog>`}
+  preview={
+    <Dialog>
+      <DialogTrigger asChild>
+        <Button variant="destructive">Delete Item</Button>
+      </DialogTrigger>
+      <DialogContent>
+        <DialogHeader>
+          <DialogTitle>Are you sure?</DialogTitle>
+          <DialogDescription>
+            This action cannot be undone. This will permanently delete the item.
+          </DialogDescription>
+        </DialogHeader>
+      </DialogContent>
+    </Dialog>
+  }
+/>
+
+## Form Dialog
+
+<CodeExample
+	title="Form in Dialog"
+	description="Dialog containing a form"
+	code={`<Dialog>
+  <DialogTrigger asChild>
+    <Button variant="primary">Add User</Button>
+  </DialogTrigger>
+  <DialogContent>
+    <DialogHeader>
+      <DialogTitle>Add New User</DialogTitle>
+      <DialogDescription>
+        Enter the user's information below.
+      </DialogDescription>
+    </DialogHeader>
+    <form className="space-y-4 py-4">
+      <div>
+        <label htmlFor="name" className="text-sm font-medium">Name</label>
+        <Input id="name" placeholder="Enter name" />
+      </div>
+      <div>
+        <label htmlFor="email" className="text-sm font-medium">Email</label>
+        <Input id="email" type="email" placeholder="Enter email" />
+      </div>
+    </form>
+    <DialogFooter>
+      <Button variant="secondary">Cancel</Button>
+      <Button variant="primary" type="submit">Add User</Button>
+    </DialogFooter>
+  </DialogContent>
+</Dialog>`}
+/>
+
+## Alert Dialog
+
+<CodeExample
+	title="Information Alert"
+	description="Non-dismissible alert requiring action"
+	code={`<Dialog>
+  <DialogTrigger asChild>
+    <Button variant="secondary">Show Alert</Button>
+  </DialogTrigger>
+  <DialogContent>
+    <DialogHeader>
+      <DialogTitle>Important Information</DialogTitle>
+      <DialogDescription>
+        Please read this important information before continuing.
+      </DialogDescription>
+    </DialogHeader>
+    <div className="py-4">
+      <p className="text-sm text-ink-light">
+        Your session will expire in 5 minutes. Please save your work.
+      </p>
+    </div>
+    <DialogFooter>
+      <Button variant="primary">I Understand</Button>
+    </DialogFooter>
+  </DialogContent>
+</Dialog>`}
+/>
+
+## Controlled Dialog
+
+<CodeExample
+	title="Programmatic Control"
+	description="Control dialog state programmatically"
+	code={`const [open, setOpen] = React.useState(false);
+
+<Dialog open={open} onOpenChange={setOpen}>
+  <DialogTrigger asChild>
+    <Button>Open</Button>
+  </DialogTrigger>
+  <DialogContent>
+    <DialogHeader>
+      <DialogTitle>Controlled Dialog</DialogTitle>
+      <DialogDescription>
+        This dialog's state is controlled by React state.
+      </DialogDescription>
+    </DialogHeader>
+    <DialogFooter>
+      <Button onClick={() => setOpen(false)}>Close</Button>
+    </DialogFooter>
+  </DialogContent>
+</Dialog>`}
+/>
+
+## Dialog Sizes
+
+<InfoCallout type="info" title="Default Size">
+Dialogs have a default max-width. For forms or content requiring more space, use the appropriate size classes.
+</InfoCallout>
+
+<CodeExample
+	title="Large Dialog"
+	description="Wider dialog for complex content"
+	code={`<DialogContent className="max-w-3xl">
+  <DialogHeader>
+    <DialogTitle>Large Dialog</DialogTitle>
+  </DialogHeader>
+  <div className="py-4">
+    More space for complex forms or content.
+  </div>
+  <DialogFooter>
+    <Button variant="secondary">Cancel</Button>
+    <Button variant="primary">Save</Button>
+  </DialogFooter>
+</DialogContent>`}
+/>
+
+## Best Practices
+
+<GuidelinesGrid>
+	<Guideline type="do" title="Use for critical actions">
+		Dialogs should interrupt the user's flow for important decisions or information that requires immediate attention.
+	</Guideline>
+	
+	<Guideline type="do" title="Provide clear actions">
+		Dialog buttons should use action-oriented labels like "Delete", "Save", or "Cancel" rather than "Yes" or "No".
+	</Guideline>
+	
+	<Guideline type="do" title="Keep content focused">
+		Dialog content should be concise and focused on a single task or decision.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't nest dialogs">
+		Avoid opening a dialog from within another dialog. This creates a confusing user experience.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't use for non-critical content">
+		Don't use dialogs for content that doesn't require immediate action. Consider using a page or sidebar instead.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't make them dismissible">
+		For critical confirmations, don't allow clicking outside to close. Users should explicitly choose an action.
+	</Guideline>
+</GuidelinesGrid>
+
+## Props
+
+<Props componentName="Dialog" />
+
+## Accessibility
+
+<InfoCallout type="warning" title="Focus Management">
+Dialogs automatically trap focus and return it to the trigger element when closed. Ensure all interactive elements are keyboard accessible.
+</InfoCallout>
+
+- Focus is automatically trapped within the dialog
+- Pressing Escape closes the dialog (unless disabled)
+- Focus returns to the trigger element on close
+- Use proper heading hierarchy (DialogTitle as h2)
+- Provide descriptive DialogDescription for context
+- Ensure keyboard navigation works for all controls
+- Don't rely solely on color to convey critical information
+- Test with screen readers to ensure proper announcement
+

@@ -1,0 +1,86 @@
+{
+	"headers": {
+		"id": "",
+		"campaign": {
+			"title": "Campaign",
+			"sort": true
+		},
+		"subject": "Subject",
+		"details": "Details",
+		"actions": "Actions"
+	},
+	"actions": {
+		"master": {
+			"text": "Edit",
+			"className": "actionEditCampaign"
+		},
+		"list": {
+			"preview": {
+				"text": "Preview"
+			},
+			"publicpreview": {
+				"text": "Public Preview"
+			},
+			"inboxpreview": {
+				"text": "Inbox Preview",
+				"className": "actionCampaignInboxPreview"
+			},
+			"divider": "",
+			"labela": "",
+			"previewa": {
+				"text": "Preview"
+			},
+			"publicpreviewa": {
+				"text": "Public Preview"
+			},
+			"inboxpreviewa": {
+				"text": "Inbox Preview",
+				"className": "actionCampaignInboxPreview"
+			},
+			"dividera": "",
+			"labelb": "",
+			"previewb": {
+				"text": "Preview"
+			},
+			"publicpreviewb": {
+				"text": "Public Preview"
+			},
+			"inboxpreviewb": {
+				"text": "Inbox Preview",
+				"className": "actionCampaignInboxPreview"
+			},
+			"dividerb": "",
+			"approve": "",
+			"disapprove": "",
+			"divider-approve": "",
+			"resume": "",
+			"pause": "",
+			"rename": {
+				"text": "Rename",
+				"className": "actionRenameCampaign"
+			},
+			"divider-rename": "",
+			"edit": "",
+			"copy": {
+				"text": "Copy",
+				"className": "actionCopyCampaign"
+			},
+			"copydivider1": "divider",
+			"copytoaccount": {
+				"text": "Copy To Account",
+				"className": "actionCopyCampaignToAccount"
+			},
+			"copydivider2": "divider",
+			"folder": "",
+			"folder-divider": "divider",
+			"attachtoassetgroup": "",
+			"addtotask": "",
+			"createnewtask": "",
+			"divider2": "divider",
+			"delete": {
+				"text": "Delete",
+				"className": "actionDeleteCampaign"
+			}
+		}
+	}
+}

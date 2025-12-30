@@ -1,0 +1,157 @@
+{
+	"data": [
+		{
+			"id": "22835",
+			"name": "TST",
+			"isLocked": "0",
+			"contacts": 3651,
+			"created_on": "Monday 03/25/2024 05:32 AM",
+			"last_updated": "Thursday 01/02/2025 06:45 PM",
+			"folder_name": "",
+			"actions": {
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			}
+		},
+		{
+			"id": "22438",
+			"name": "test",
+			"isLocked": "0",
+			"contacts": 0,
+			"created_on": "Tuesday 02/27/2024 10:08 AM",
+			"last_updated": "Friday 01/31/2025 06:45 AM",
+			"folder_name": "",
+			"actions": {
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			}
+		},
+		{
+			"id": "19286",
+			"name": "G2 referrals",
+			"isLocked": "0",
+			"contacts": 1,
+			"created_on": "Thursday 08/17/2023 12:36 PM",
+			"last_updated": "Wednesday 01/15/2025 06:00 PM",
+			"folder_name": "",
+			"actions": {
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			}
+		},
+		{
+			"id": "17768",
+			"name": "HOME UTM1",
+			"isLocked": "0",
+			"contacts": 0,
+			"created_on": "Friday 05/05/2023 05:38 AM",
+			"last_updated": "Sunday 01/05/2025 06:00 PM",
+			"folder_name": "",
+			"actions": {
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			}
+		},
+		{
+			"id": "17767",
+			"name": "HOME UTM1",
+			"isLocked": "0",
+			"contacts": 0,
+			"created_on": "Friday 05/05/2023 05:38 AM",
+			"last_updated": "Sunday 01/05/2025 06:45 AM",
+			"folder_name": "",
+			"actions": {
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			}
+		},
+		{
+			"id": "16380",
+			"name": "Webinar",
+			"isLocked": "0",
+			"contacts": 295,
+			"created_on": "Tuesday 02/28/2023 09:25 AM",
+			"last_updated": "Friday 01/31/2025 06:30 PM",
+			"folder_name": "",
+			"actions": {
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			}
+		},
+		{
+			"id": "15510",
+			"name": "All Subscribers - Excluding Paid Customers",
+			"isLocked": "0",
+			"contacts": 24699,
+			"created_on": "Thursday 01/12/2023 09:31 AM",
+			"last_updated": "Tuesday 01/14/2025 06:59 AM",
+			"folder_name": "",
+			"actions": {
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			}
+		},
+		{
+			"id": "11560",
+			"name": "All contacts - Excluding inactive",
+			"isLocked": "0",
+			"contacts": 23680,
+			"created_on": "Monday 05/09/2022 09:24 AM",
+			"last_updated": "Friday 02/07/2025 02:51 AM",
+			"folder_name": "",
+			"actions": {
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			}
+		},
+		{
+			"id": "11296",
+			"name": "Subscribers and trial customers",
+			"isLocked": "0",
+			"contacts": 23442,
+			"created_on": "Monday 04/18/2022 02:57 PM",
+			"last_updated": "Wednesday 02/05/2025 06:00 PM",
+			"folder_name": "",
+			"actions": {
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			}
+		},
+		{
+			"id": "10604",
+			"name": "test",
+			"isLocked": "0",
+			"contacts": 346,
+			"created_on": "Friday 03/04/2022 04:00 AM",
+			"last_updated": "Wednesday 12/25/2024 06:30 PM",
+			"folder_name": "Georges lists",
+			"actions": {
+				"folder": {
+					"text": "Move from Folder",
+					"className": "actionMoveFromFolder"
+				}
+			}
+		}
+	],
+	"draw": 1,
+	"recordsTotal": "105",
+	"recordsFiltered": "105"
+}

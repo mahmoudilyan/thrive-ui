@@ -1,0 +1,16 @@
+{
+  "title": "Components",
+  "defaultOpen": true,
+  "pages": [
+    "avatar",
+    "badge",
+    "button",
+    "button-group",
+    "card",
+    "data-table",
+    "icon-button",
+    "page-section",
+    "--- Overlays ---",
+    "overlays"
+  ]
+}

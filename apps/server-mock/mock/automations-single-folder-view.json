@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": "99227",
+      "name": "Cold Nurture Campaign",
+      "completed": "12873",
+      "pending": "30771",
+      "created_on": "Monday 08/11/2025 07:09 AM",
+      "status": 1,
+      "actions": {
+        "addtotask": {
+          "text": "",
+          "className": "actionAddJourneyToTask"
+        },
+        "createnewtask": {
+          "text": "Create New Task",
+          "className": "actionCreateTaskWithJourney"
+        },
+        "attachtoassetgroup": {
+          "text": "Attach To Campaign Group",
+          "className": "actionAttachToCampaignAssets"
+        },
+        "folder": {
+          "text": "Move from Folder",
+          "className": "actionMoveFromFolder"
+        }
+      },
+      "folder_name": "Cold Nurture Sequence"
+    }
+  ],
+  "draw": 1,
+  "recordsTotal": "1",
+  "recordsFiltered": "1"
+}

@@ -1,0 +1,241 @@
+{
+	"defaultFields": [
+		{
+			"id": 1,
+			"name": "Personal Data",
+			"fields": [
+				{
+					"field_id": 719,
+					"field_name": "First Name",
+					"field_visibility": 1,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164333,
+					"field_name": "Full Name",
+					"field_visibility": 1,
+					"field_secret": ""
+				},
+				{
+					"field_id": 176,
+					"field_name": "Email Address",
+					"field_visibility": 1,
+					"field_secret": "email"
+				},
+				{
+					"field_id": 720,
+					"field_name": "Last Name",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 6734,
+					"field_name": "Phone Number",
+					"field_visibility": 1,
+					"field_secret": "phone"
+				},
+				{
+					"field_id": 164334,
+					"field_name": "Work Phone",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164335,
+					"field_name": "Address 1",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164336,
+					"field_name": "Address 2",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164337,
+					"field_name": "Country",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164338,
+					"field_name": "State",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164339,
+					"field_name": "City",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 244471,
+					"field_name": "Zip Code",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164340,
+					"field_name": "Title",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164341,
+					"field_name": "Website",
+					"field_visibility": 1,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164342,
+					"field_name": "Date of birth",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164343,
+					"field_name": "Gender",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164344,
+					"field_name": "Comments",
+					"field_visibility": 0,
+					"field_secret": ""
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Social Data",
+			"fields": [
+				{
+					"field_id": 164345,
+					"field_name": "LinkedIn",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164346,
+					"field_name": "Twitter",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164347,
+					"field_name": "Facebook",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164348,
+					"field_name": "Instagram",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164349,
+					"field_name": "Pinterest",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164350,
+					"field_name": "Youtube",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164351,
+					"field_name": "Google My Business",
+					"field_visibility": 0,
+					"field_secret": ""
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Company Data",
+			"fields": [
+				{
+					"field_id": 164352,
+					"field_name": "Company Name",
+					"field_visibility": 1,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164353,
+					"field_name": "Company Address",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164354,
+					"field_name": "Company Phone",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164355,
+					"field_name": "Company Website",
+					"field_visibility": 1,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164356,
+					"field_name": "Year Founded",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164357,
+					"field_name": "Number Of Employees",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164358,
+					"field_name": "Annual Revenue",
+					"field_visibility": 0,
+					"field_secret": ""
+				},
+				{
+					"field_id": 164359,
+					"field_name": "Industry",
+					"field_visibility": 0,
+					"field_secret": ""
+				}
+			]
+		}
+	],
+	"dataFields": [
+		{
+			"id": "contactid",
+			"name": "Contact ID",
+			"visibility": 0
+		},
+		{
+			"id": "leadscore",
+			"name": "Lead Score",
+			"visibility": 1
+		},
+		{
+			"id": "leadstatus",
+			"name": "Lead Status",
+			"visibility": 1
+		},
+		{
+			"id": "assignedto",
+			"name": "Assigned To",
+			"visibility": 0
+		},
+		{
+			"id": "tags",
+			"name": "Tags",
+			"visibility": 0
+		}
+	]
+}

@@ -1,0 +1,866 @@
+{
+  "tabid": "playlist",
+  "isGroup": false,
+  "id": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+  "type": "youtube",
+  "stream": [
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1J-GC_tC8yP8OagA8Ef2-ze",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Spanish Guitar",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/-GrTjoqsEe0/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1J-GC_tC8yP8OagA8Ef2-ze"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "02/14/2025 09:32 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1J-GC_tC8yP8OagA8Ef2-ze\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 1
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1LSHNBlYkNpF_-5OCUJslO8",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "scam baiting",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/fekeWa-xn04/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1LSHNBlYkNpF_-5OCUJslO8"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "12/10/2024 11:47 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1LSHNBlYkNpF_-5OCUJslO8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 1
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1LYi9hF9Cx0bH_xJvbpNrRF",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Trading",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/4Pc_von1wS4/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1LYi9hF9Cx0bH_xJvbpNrRF"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "09/18/2024 11:39 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1LYi9hF9Cx0bH_xJvbpNrRF\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 3
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1J5Mgfs0y9bge5IAhYI2vV6",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Security tools",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/3ogyS4KOlXc/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1J5Mgfs0y9bge5IAhYI2vV6"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "08/25/2024 01:38 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1J5Mgfs0y9bge5IAhYI2vV6\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 7
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1J8lH5BRAnUhhkGgXeevot7",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Chess",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/LzmSy2N5GaQ/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1J8lH5BRAnUhhkGgXeevot7"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "02/09/2024 10:22 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1J8lH5BRAnUhhkGgXeevot7\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 6
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1IzXu7OS_-CDZ-C9aipn3md",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Business",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/A6veeCbKIzw/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1IzXu7OS_-CDZ-C9aipn3md"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "01/25/2024 09:10 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1IzXu7OS_-CDZ-C9aipn3md\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 1
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1JE39YJREORDrUMbNulounm",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Poem by a Stranger",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/GKbSzQMP8kE/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1JE39YJREORDrUMbNulounm"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span>Poems written with the ink of emotions and internal conflict. </span>",
+              "media": "",
+              "timestamp": "11/12/2023 06:34 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1JE39YJREORDrUMbNulounm\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 2
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1KfIQhxokp9xm05ZAWUo7ar",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Life with AI: Unlocking your third brain",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/-gBizqw3zaw/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1KfIQhxokp9xm05ZAWUo7ar"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span>In these short episode series, we'll unravel the profound ways AI is reshaping our lives. Dive in with me as we uncover tools and insights that empower you to elevate your health, intellect, and help you work with maximum efficiency.\n\n- [00:13](https://youtu.be/30qQFpHmUt0?t=13s) 🧠 This video series explores the impact of AI on various aspects of our lives, focusing on its potential to empower us in health, intellect, and efficiency.\n\n- [01:10](https://youtu.be/30qQFpHmUt0?t=70s) 📱 The concept of the \"third brain\" refers to AI tools readily available on devices like phones and desktops, providing access to vast knowledge and expertise, allowing users to outsource thinking and free up mental resources.\n\n- [03:14](https://youtu.be/30qQFpHmUt0?t=194s) 🧪 The speaker has experience in marketing technology and has worked with predictive modeling, sentiment analysis, and other AI technologies, offering insights from a founder's perspective.\n\n- [05:40](https://youtu.be/30qQFpHmUt0?t=340s) 🤖 A brief history of AI development, from its inception with Alan Turing to its evolution through the decades, including advancements in image detection, autonomous machines, and everyday AI applications.\n\n- [10:41](https://youtu.be/30qQFpHmUt0?t=641s) 🌟 The emergence of generative AI technology like GPT (Generative Pre-trained Transformer) has made AI more versatile and accessible for developers and users, leading to its integration into various applications.\n\n- [11:45](https://youtu.be/30qQFpHmUt0?t=705s) 💼 AI is considered one of the most important technological advancements, with profound implications for productivity and job markets, creating both challenges and opportunities.\n\n- [12:11](https://youtu.be/30qQFpHmUt0?t=731s) ⏳ AI's primary benefit lies in saving time, whether through efficient searches, analysis of large data sets, or other applications, emphasizing the importance of this non-renewable resource. </span>",
+              "media": "",
+              "timestamp": "10/18/2023 03:38 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1KfIQhxokp9xm05ZAWUo7ar\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 32
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1Kwgebvp59KKoPClGSoNfOx",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Arabic",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/rYAQVYETWOU/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1Kwgebvp59KKoPClGSoNfOx"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "06/26/2023 11:38 AM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1Kwgebvp59KKoPClGSoNfOx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 5
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1KyoSu5P6e6IFhOElODhwnl",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Piano lessons",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/4SXQ_wlbWog/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1KyoSu5P6e6IFhOElODhwnl"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "06/12/2023 12:16 AM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1KyoSu5P6e6IFhOElODhwnl\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 1
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1L2VA8s4M_LKbX-_VQyh8rK",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "AI",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/FSWruZNeeKM/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1L2VA8s4M_LKbX-_VQyh8rK"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "05/12/2023 11:32 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1L2VA8s4M_LKbX-_VQyh8rK\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 3
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1IrhU_gfSA0pSeQz9uiXZJk",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Swimming and water",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/lI28JkBGfQo/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1IrhU_gfSA0pSeQz9uiXZJk"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "08/14/2022 09:24 AM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1IrhU_gfSA0pSeQz9uiXZJk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 2
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1LIb4OPPJTQKx2s1xXU9nvY",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Mechanic stuff",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/b2Mtt2k982w/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1LIb4OPPJTQKx2s1xXU9nvY"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "08/08/2022 09:53 AM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1LIb4OPPJTQKx2s1xXU9nvY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 2
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1Ji2JH6Tyy1uCndGqrc0y4f",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Human behavior and evolution",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/zhoXXpRhpgI/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1Ji2JH6Tyy1uCndGqrc0y4f"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "05/14/2022 11:24 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1Ji2JH6Tyy1uCndGqrc0y4f\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 12
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1Jd4RCTpINdSHCywx9GUlwQ",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Poetry",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/s_EIz-XnAVs/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1Jd4RCTpINdSHCywx9GUlwQ"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "05/09/2022 10:47 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1Jd4RCTpINdSHCywx9GUlwQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 4
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1JbHzv25L6d5vJi93Pmjrm7",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "2022",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/Gw21GMo0R9E/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1JbHzv25L6d5vJi93Pmjrm7"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "03/18/2022 02:18 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1JbHzv25L6d5vJi93Pmjrm7\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 14
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1KXaL3Wj4jMLCOddQXlJu_d",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Parenting",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/YQXSAVUNngg/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1KXaL3Wj4jMLCOddQXlJu_d"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "01/03/2022 10:36 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1KXaL3Wj4jMLCOddQXlJu_d\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 5
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1J_ZgRVSaBNT6ydkJ7hBg7W",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Sales and marketing",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/img/no_thumbnail.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1J_ZgRVSaBNT6ydkJ7hBg7W"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "12/29/2021 10:21 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1J_ZgRVSaBNT6ydkJ7hBg7W\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 0
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1LUQyLflVhYL_E8Wh7Bz9oo",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Dog training",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/nIGqPhSumsc/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1LUQyLflVhYL_E8Wh7Bz9oo"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "08/21/2021 09:48 AM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1LUQyLflVhYL_E8Wh7Bz9oo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 1
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1J1W4_vrvunZjwhc3iT81yh",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Exercise",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/7J3RaEYTPvM/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1J1W4_vrvunZjwhc3iT81yh"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "06/16/2021 11:36 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1J1W4_vrvunZjwhc3iT81yh\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 6
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1K9Om1pKCNWm2yVI_3YRXGe",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "2021",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/ns9gW6CKsJs/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1K9Om1pKCNWm2yVI_3YRXGe"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "04/30/2021 03:07 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1K9Om1pKCNWm2yVI_3YRXGe\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 6
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1Jh7DSXD0RGBZme0GOUKIZm",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Belly dance",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/CqkorHJIDcA/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1Jh7DSXD0RGBZme0GOUKIZm"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "03/09/2021 09:29 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1Jh7DSXD0RGBZme0GOUKIZm\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 3
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1I69HV3QSr2aNYp-7fNSyZE",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "2020 music",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/2zToEPpFEN8/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1I69HV3QSr2aNYp-7fNSyZE"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "05/25/2020 12:30 AM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1I69HV3QSr2aNYp-7fNSyZE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 5
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1JQqNqigMpcokIHm7GHcLV1",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "2019 mix",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/Pkh8UtuejGw/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1JQqNqigMpcokIHm7GHcLV1"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "05/04/2019 11:41 PM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1JQqNqigMpcokIHm7GHcLV1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 6
+      },
+      {
+          "uid": "",
+          "id": "PLNRR1S9rmw1IvUQ9vV0KN2g7tCKqDzJ4O",
+          "header": {
+              "imageAlt": "-",
+              "userid": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+              "account_name": "Learn music",
+              "screen_name": "",
+              "picture": "https://i.ytimg.com/vi/jSOU-J9KHbg/default.jpg",
+              "action": "",
+              "url": "https://www.youtube.com/playlist?list=PLNRR1S9rmw1IvUQ9vV0KN2g7tCKqDzJ4O"
+          },
+          "can": {
+              "remove": 1,
+              "listItems": 1
+          },
+          "body": {
+              "text": "<span> </span>",
+              "media": "",
+              "timestamp": "11/25/2018 12:21 AM",
+              "postLink": "",
+              "embedded": "<iframe width=\"330\" height=\"200\" src=\"https://www.youtube.com/embed/videoseries?list=PLNRR1S9rmw1IvUQ9vV0KN2g7tCKqDzJ4O\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+          },
+          "entities": {
+              "images": [],
+              "videos": []
+          },
+          "streamType": "",
+          "comments": "",
+          "views": "",
+          "likes": "",
+          "type": "youtube",
+          "listItems": 1
+      }
+  ],
+  "after": "CBkQAA",
+  "profile": {
+      "id": "UC0E7uPO0Dmv0_8_6CNi-UBg",
+      "name": "Richard Fallah",
+      "picture": "https://yt3.ggpht.com/ytc/APkrFKZGO-f8vlLGpVSGKQbcy-Dy9vilO2NPm772hlu_HQ=s88-c-k-c0x00ffffff-no-rj"
+  },
+  "title": "Playlists",
+  "status": "success"
+}

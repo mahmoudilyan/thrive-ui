@@ -1,0 +1,88 @@
+{
+	"headers": {
+		"id": "",
+		"list": {
+			"title": "List",
+			"sort": true
+		},
+		"created_on": {
+			"title": "Created",
+			"sort": true,
+			"defaultsort": true
+		},
+		"contacts": "Contacts",
+		"status_confirmed": "Confirmed",
+		"status_unconfirmed": "Unconfirmed",
+		"status_unsubscribed": "Unsubscribed",
+		"status_bounced": "Bounced",
+		"status_complaint": "Complaint",
+		"actions": "Actions"
+	},
+	"actions": {
+		"master": {
+			"text": "Fields & Form",
+			"className": "actionListBuilder"
+		},
+		"list": {
+			"rename": {
+				"text": "Rename",
+				"className": "actionListRename"
+			},
+			"import": {
+				"text": "Mass Import",
+				"className": "actionListImport"
+			},
+			"export": {
+				"text": "Export Contacts",
+				"className": "actionListExport"
+			},
+			"manager": "",
+			"merge": {
+				"text": "Merge List To",
+				"className": "actionMergeList"
+			},
+			"duplicate": {
+				"text": "Copy List",
+				"className": "actionDuplicateList"
+			},
+			"validation": {
+				"text": "Batch Validation",
+				"className": "actionBatchEmailValidation"
+			},
+			"leedivider": "",
+			"leesync": "",
+			"divider0": "divider",
+			"settings": {
+				"text": "Form Settings",
+				"className": "actionListSettings"
+			},
+			"optinurl": {
+				"text": "Form Preview"
+			},
+			"embedcode": {
+				"text": "Form Code",
+				"className": "actionListEmbedCode"
+			},
+			"divider1": "divider",
+			"stats": {
+				"text": "List Analytics",
+				"className": "actionListStats"
+			},
+			"export_history": {
+				"text": "Export History",
+				"className": "actionListExportHistory"
+			},
+			"divider2": "divider",
+			"folder": "",
+			"folder-divider": "divider",
+			"attachtoassetgroup": "",
+			"addtotask": "",
+			"createnewtask": "",
+			"dividerX": "divider",
+			"delete": {
+				"text": "Delete List",
+				"className": "actionDeleteList"
+			}
+		}
+	}
+}

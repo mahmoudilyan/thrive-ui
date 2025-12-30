@@ -1,0 +1,1708 @@
+{
+  "activity": {},
+  "announcedBuild": {
+    "id": "68d5c26bdedfd89c9d2256f7",
+    "number": 19,
+    "status": "PUBLISHED",
+    "autoAcceptChanges": true,
+    "app": {
+      "id": "68d5b2258627ede6122d680b",
+      "turboSnapAvailability": "UNAVAILABLE"
+    },
+    "storybookUrl": "https://68d5b2258627ede6122d680b-jettbnllkb.chromatic.com/"
+  },
+  "build": {
+    "id": "68d5c26bdedfd89c9d2256f7",
+    "number": 19,
+    "status": "ACCEPTED",
+    "autoAcceptChanges": true,
+    "app": {
+      "manageUrl": "https://www.chromatic.com/manage?appId=68d5b2258627ede6122d680b",
+      "setupUrl": "https://www.chromatic.com/setup?appId=68d5b2258627ede6122d680b",
+      "account": {
+        "exceededThreshold": false,
+        "paymentRequired": false,
+        "billingUrl": "https://www.chromatic.com/billing?accountId=68d5b2372cb412864f7141da"
+      },
+      "repository": {
+        "provider": "github"
+      }
+    },
+    "storybookUrl": "https://68d5b2258627ede6122d680b-jettbnllkb.chromatic.com/",
+    "specCount": 69,
+    "componentCount": 11,
+    "testCount": 69,
+    "changeCount": 3,
+    "errorCount": 0,
+    "actualTestCount": 69,
+    "actualCaptureCount": 69,
+    "inheritedCaptureCount": 0,
+    "interactionTestFailuresCount": 0,
+    "webUrl": "https://www.chromatic.com/build?appId=68d5b2258627ede6122d680b&number=19",
+    "browsers": [
+      {
+        "browser": "chrome"
+      }
+    ],
+    "features": {
+      "uiTests": true,
+      "uiReview": true
+    },
+    "turboSnapEnabled": null,
+    "wasLimited": false,
+    "tests": [
+      {
+        "spec": {
+          "name": "Default",
+          "component": {
+            "name": "Components/Avatar",
+            "displayName": "Avatar"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "With Image",
+          "component": {
+            "name": "Components/Avatar",
+            "displayName": "Avatar"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "With Status",
+          "component": {
+            "name": "Components/Avatar",
+            "displayName": "Avatar"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "With Badge",
+          "component": {
+            "name": "Components/Avatar",
+            "displayName": "Avatar"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "With Status And Badge",
+          "component": {
+            "name": "Components/Avatar",
+            "displayName": "Avatar"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "All Sizes",
+          "component": {
+            "name": "Components/Avatar",
+            "displayName": "Avatar"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "All Status Colors",
+          "component": {
+            "name": "Components/Avatar",
+            "displayName": "Avatar"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Badge Overflow",
+          "component": {
+            "name": "Components/Avatar",
+            "displayName": "Avatar"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "With Icon",
+          "component": {
+            "name": "Components/Avatar",
+            "displayName": "Avatar"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Team Avatars",
+          "component": {
+            "name": "Components/Avatar",
+            "displayName": "Avatar"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Avatar Stack",
+          "component": {
+            "name": "Components/Avatar",
+            "displayName": "Avatar"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Default",
+          "component": {
+            "name": "Components/Badge",
+            "displayName": "Badge"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "All Variants",
+          "component": {
+            "name": "Components/Badge",
+            "displayName": "Badge"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "All Sizes",
+          "component": {
+            "name": "Components/Badge",
+            "displayName": "Badge"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "With Icons",
+          "component": {
+            "name": "Components/Badge",
+            "displayName": "Badge"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Status Badges",
+          "component": {
+            "name": "Components/Badge",
+            "displayName": "Badge"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Notification Badges",
+          "component": {
+            "name": "Components/Badge",
+            "displayName": "Badge"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Interactive Badges",
+          "component": {
+            "name": "Components/Badge",
+            "displayName": "Badge"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Primary",
+          "component": {
+            "name": "Components/Button",
+            "displayName": "Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Secondary",
+          "component": {
+            "name": "Components/Button",
+            "displayName": "Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Large",
+          "component": {
+            "name": "Components/Button",
+            "displayName": "Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Small",
+          "component": {
+            "name": "Components/Button",
+            "displayName": "Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Loading",
+          "component": {
+            "name": "Components/Button",
+            "displayName": "Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Loading With Text",
+          "component": {
+            "name": "Components/Button",
+            "displayName": "Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Left Icon",
+          "component": {
+            "name": "Components/Button",
+            "displayName": "Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Right Icon",
+          "component": {
+            "name": "Components/Button",
+            "displayName": "Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Default",
+          "component": {
+            "name": "Components/ButtonGroup",
+            "displayName": "ButtonGroup"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Attached",
+          "component": {
+            "name": "Components/ButtonGroup",
+            "displayName": "ButtonGroup"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Detached",
+          "component": {
+            "name": "Components/ButtonGroup",
+            "displayName": "ButtonGroup"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Vertical",
+          "component": {
+            "name": "Components/ButtonGroup",
+            "displayName": "ButtonGroup"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "All Sizes",
+          "component": {
+            "name": "Components/ButtonGroup",
+            "displayName": "ButtonGroup"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "With Toggle State",
+          "component": {
+            "name": "Components/ButtonGroup",
+            "displayName": "ButtonGroup"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Dark Mode Test",
+          "component": {
+            "name": "Testing/Dark Mode Test",
+            "displayName": "Dark Mode Test"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Color Tokens Demo",
+          "component": {
+            "name": "Testing/Dark Mode Test",
+            "displayName": "Dark Mode Test"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Default",
+          "component": {
+            "name": "Components/DataTable",
+            "displayName": "DataTable"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Simple Table",
+          "component": {
+            "name": "Components/DataTable",
+            "displayName": "DataTable"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "With Search",
+          "component": {
+            "name": "Components/DataTable",
+            "displayName": "DataTable"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "With Selection And Actions",
+          "component": {
+            "name": "Components/DataTable",
+            "displayName": "DataTable"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Projects Table",
+          "component": {
+            "name": "Components/DataTable",
+            "displayName": "DataTable"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Compact Table",
+          "component": {
+            "name": "Components/DataTable",
+            "displayName": "DataTable"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Empty State",
+          "component": {
+            "name": "Components/DataTable",
+            "displayName": "DataTable"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Loading State",
+          "component": {
+            "name": "Components/DataTable",
+            "displayName": "DataTable"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Default",
+          "component": {
+            "name": "Components/Dialog",
+            "displayName": "Dialog"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Delete Folder Confirmation",
+          "component": {
+            "name": "Components/Dialog",
+            "displayName": "Dialog"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Create Folder Form",
+          "component": {
+            "name": "Components/Dialog",
+            "displayName": "Dialog"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Bulk Delete Confirmation",
+          "component": {
+            "name": "Components/Dialog",
+            "displayName": "Dialog"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Add To Folder Dialog",
+          "component": {
+            "name": "Components/Dialog",
+            "displayName": "Dialog"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Default",
+          "component": {
+            "name": "Components/Dropdown Menu",
+            "displayName": "Dropdown Menu"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Campaign Actions",
+          "component": {
+            "name": "Components/Dropdown Menu",
+            "displayName": "Dropdown Menu"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Table Row Actions",
+          "component": {
+            "name": "Components/Dropdown Menu",
+            "displayName": "Dropdown Menu"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "View Options Menu",
+          "component": {
+            "name": "Components/Dropdown Menu",
+            "displayName": "Dropdown Menu"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Sorting Menu",
+          "component": {
+            "name": "Components/Dropdown Menu",
+            "displayName": "Dropdown Menu"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "User Profile Menu",
+          "component": {
+            "name": "Components/Dropdown Menu",
+            "displayName": "Dropdown Menu"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Bulk Actions Menu",
+          "component": {
+            "name": "Components/Dropdown Menu",
+            "displayName": "Dropdown Menu"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Typography Scale",
+          "component": {
+            "name": "Foundation/Typography",
+            "displayName": "Typography"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Text Colors",
+          "component": {
+            "name": "Foundation/Typography",
+            "displayName": "Typography"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Font Weights",
+          "component": {
+            "name": "Foundation/Typography",
+            "displayName": "Typography"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Typography In Context",
+          "component": {
+            "name": "Foundation/Typography",
+            "displayName": "Typography"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Default",
+          "component": {
+            "name": "Components/Icon Button",
+            "displayName": "Icon Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "All Variants",
+          "component": {
+            "name": "Components/Icon Button",
+            "displayName": "Icon Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "All Sizes",
+          "component": {
+            "name": "Components/Icon Button",
+            "displayName": "Icon Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Loading State",
+          "component": {
+            "name": "Components/Icon Button",
+            "displayName": "Icon Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Disabled State",
+          "component": {
+            "name": "Components/Icon Button",
+            "displayName": "Icon Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Common Icons",
+          "component": {
+            "name": "Components/Icon Button",
+            "displayName": "Icon Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Toolbar Actions",
+          "component": {
+            "name": "Components/Icon Button",
+            "displayName": "Icon Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "In Form Context",
+          "component": {
+            "name": "Components/Icon Button",
+            "displayName": "Icon Button"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "Default",
+          "component": {
+            "name": "Layout/Page Section",
+            "displayName": "Page Section"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "With Breadcrumbs",
+          "component": {
+            "name": "Layout/Page Section",
+            "displayName": "Page Section"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      },
+      {
+        "spec": {
+          "name": "With Actions",
+          "component": {
+            "name": "Layout/Page Section",
+            "displayName": "Page Section"
+          }
+        },
+        "parameters": {
+          "viewport": 1200,
+          "viewportIsDefault": true
+        },
+        "mode": {
+          "name": "1200px"
+        }
+      }
+    ],
+    "inProgressCount": 0,
+    "completedAt": 1758839516115
+  },
+  "buildCommand": "pnpm run build-storybook --output-dir=/var/folders/9q/9vfhbw4n5rz27ktlr99wn5lh0000gn/T/chromatic--27086-V0Ih3CwB15E1",
+  "buildLogFile": "/Users/mahmoudilyan/Sites/thrive-campaign/apps/design-system-docs/build-storybook.log",
+  "configuration": {},
+  "environment": {},
+  "exitCode": 0,
+  "exitCodeKey": "OK",
+  "fileInfo": {
+    "lengths": [
+      {
+        "pathname": "assets/Avatar.stories-i3DltjJN.js",
+        "contentLength": 11739,
+        "knownAs": "assets/Avatar.stories-i3DltjJN.js"
+      },
+      {
+        "pathname": "assets/Badge.stories-CS8D0bqA.js",
+        "contentLength": 11637,
+        "knownAs": "assets/Badge.stories-CS8D0bqA.js"
+      },
+      {
+        "pathname": "assets/Button.stories-UikWLopk.js",
+        "contentLength": 3416,
+        "knownAs": "assets/Button.stories-UikWLopk.js"
+      },
+      {
+        "pathname": "assets/ButtonGroup.stories-BWzWxZ9f.js",
+        "contentLength": 20088,
+        "knownAs": "assets/ButtonGroup.stories-BWzWxZ9f.js"
+      },
+      {
+        "pathname": "assets/Card.stories-BODzhtQY.js",
+        "contentLength": 1476,
+        "knownAs": "assets/Card.stories-BODzhtQY.js"
+      },
+      {
+        "pathname": "assets/Color-AVL7NMMY-CbxegiTB.js",
+        "contentLength": 29405,
+        "knownAs": "assets/Color-AVL7NMMY-CbxegiTB.js"
+      },
+      {
+        "pathname": "assets/Components-Reference-DuGWPCTz.js",
+        "contentLength": 7974,
+        "knownAs": "assets/Components-Reference-DuGWPCTz.js"
+      },
+      {
+        "pathname": "assets/DarkMode-Test.stories-2_xuK3F1.js",
+        "contentLength": 9127,
+        "knownAs": "assets/DarkMode-Test.stories-2_xuK3F1.js"
+      },
+      {
+        "pathname": "assets/DataTable.stories-NO2BSN19.js",
+        "contentLength": 14171,
+        "knownAs": "assets/DataTable.stories-NO2BSN19.js"
+      },
+      {
+        "pathname": "assets/Dialog.stories-Dc5mWEBm.js",
+        "contentLength": 18202,
+        "knownAs": "assets/Dialog.stories-Dc5mWEBm.js"
+      },
+      {
+        "pathname": "assets/DocsRenderer-PQXLIZUC-DfSwCoOI.js",
+        "contentLength": 1903,
+        "knownAs": "assets/DocsRenderer-PQXLIZUC-DfSwCoOI.js"
+      },
+      {
+        "pathname": "assets/Dropdown.stories-CFuBsBr-.js",
+        "contentLength": 25338,
+        "knownAs": "assets/Dropdown.stories-CFuBsBr-.js"
+      },
+      {
+        "pathname": "assets/Foundation-Colors-BCJCiHzo.js",
+        "contentLength": 26279,
+        "knownAs": "assets/Foundation-Colors-BCJCiHzo.js"
+      },
+      {
+        "pathname": "assets/Foundation-Typography.stories-DJcPbY9L.js",
+        "contentLength": 24918,
+        "knownAs": "assets/Foundation-Typography.stories-DJcPbY9L.js"
+      },
+      {
+        "pathname": "assets/IconButton.stories-CUoSJeyN.js",
+        "contentLength": 18970,
+        "knownAs": "assets/IconButton.stories-CUoSJeyN.js"
+      },
+      {
+        "pathname": "assets/Introduction-Cw-B1Q4w.js",
+        "contentLength": 4638,
+        "knownAs": "assets/Introduction-Cw-B1Q4w.js"
+      },
+      {
+        "pathname": "assets/PageSection.stories-CZAM0Fci.js",
+        "contentLength": 4253,
+        "knownAs": "assets/PageSection.stories-CZAM0Fci.js"
+      },
+      {
+        "pathname": "assets/axe-BWrF4Z0Q.js",
+        "contentLength": 572596,
+        "knownAs": "assets/axe-BWrF4Z0Q.js"
+      },
+      {
+        "pathname": "assets/blocks-ByM2jX0b.js",
+        "contentLength": 589564,
+        "knownAs": "assets/blocks-ByM2jX0b.js"
+      },
+      {
+        "pathname": "assets/client-DyDUjF7U.js",
+        "contentLength": 173812,
+        "knownAs": "assets/client-DyDUjF7U.js"
+      },
+      {
+        "pathname": "assets/iframe-CqaQnFpu.js",
+        "contentLength": 1314985,
+        "knownAs": "assets/iframe-CqaQnFpu.js"
+      },
+      {
+        "pathname": "assets/index-BlL72RbY.js",
+        "contentLength": 3893,
+        "knownAs": "assets/index-BlL72RbY.js"
+      },
+      {
+        "pathname": "assets/index-Bx3vCbWl.js",
+        "contentLength": 14032,
+        "knownAs": "assets/index-Bx3vCbWl.js"
+      },
+      {
+        "pathname": "assets/index-Dv6E3UDJ.js",
+        "contentLength": 455,
+        "knownAs": "assets/index-Dv6E3UDJ.js"
+      },
+      {
+        "pathname": "assets/index-DxlmvTCr.js",
+        "contentLength": 552113,
+        "knownAs": "assets/index-DxlmvTCr.js"
+      },
+      {
+        "pathname": "assets/jsx-runtime-BrkUzls1.js",
+        "contentLength": 850,
+        "knownAs": "assets/jsx-runtime-BrkUzls1.js"
+      },
+      {
+        "pathname": "assets/matchers-7Z3WT2CE-T3xScrR7.js",
+        "contentLength": 29813,
+        "knownAs": "assets/matchers-7Z3WT2CE-T3xScrR7.js"
+      },
+      {
+        "pathname": "assets/preload-helper-Dp1pzeXC.js",
+        "contentLength": 1266,
+        "knownAs": "assets/preload-helper-Dp1pzeXC.js"
+      },
+      {
+        "pathname": "assets/react-18-CjdnYGVr.js",
+        "contentLength": 836,
+        "knownAs": "assets/react-18-CjdnYGVr.js"
+      },
+      {
+        "pathname": "favicon-wrapper.svg",
+        "contentLength": 5803,
+        "knownAs": "favicon-wrapper.svg"
+      },
+      {
+        "pathname": "favicon.svg",
+        "contentLength": 2163,
+        "knownAs": "favicon.svg"
+      },
+      {
+        "pathname": "globals.js",
+        "contentLength": 1388,
+        "knownAs": "globals.js"
+      },
+      {
+        "pathname": "iframe.html",
+        "contentLength": 18317,
+        "knownAs": "iframe.html"
+      },
+      {
+        "pathname": "index.html",
+        "contentLength": 3614,
+        "knownAs": "index.html"
+      },
+      {
+        "pathname": "index.json",
+        "contentLength": 20220,
+        "knownAs": "index.json"
+      },
+      {
+        "pathname": "nunito-sans-bold-italic.woff2",
+        "contentLength": 49460,
+        "knownAs": "nunito-sans-bold-italic.woff2"
+      },
+      {
+        "pathname": "nunito-sans-bold.woff2",
+        "contentLength": 47144,
+        "knownAs": "nunito-sans-bold.woff2"
+      },
+      {
+        "pathname": "nunito-sans-italic.woff2",
+        "contentLength": 49620,
+        "knownAs": "nunito-sans-italic.woff2"
+      },
+      {
+        "pathname": "nunito-sans-regular.woff2",
+        "contentLength": 47072,
+        "knownAs": "nunito-sans-regular.woff2"
+      },
+      {
+        "pathname": "project.json",
+        "contentLength": 1119,
+        "knownAs": "project.json"
+      },
+      {
+        "pathname": "sb-addons/a11y-2/manager-bundle.js",
+        "contentLength": 74783,
+        "knownAs": "sb-addons/a11y-2/manager-bundle.js"
+      },
+      {
+        "pathname": "sb-addons/docs-1/manager-bundle.js",
+        "contentLength": 25608,
+        "knownAs": "sb-addons/docs-1/manager-bundle.js"
+      },
+      {
+        "pathname": "sb-addons/storybook-4/manager-bundle.js",
+        "contentLength": 3659,
+        "knownAs": "sb-addons/storybook-4/manager-bundle.js"
+      },
+      {
+        "pathname": "sb-addons/storybook-core-server-presets-0/common-manager-bundle.js",
+        "contentLength": 594523,
+        "knownAs": "sb-addons/storybook-core-server-presets-0/common-manager-bundle.js"
+      },
+      {
+        "pathname": "sb-addons/whitespace-html-3/manager-bundle.js",
+        "contentLength": 3895,
+        "knownAs": "sb-addons/whitespace-html-3/manager-bundle.js"
+      },
+      {
+        "pathname": "sb-common-assets/favicon-wrapper.svg",
+        "contentLength": 5803,
+        "knownAs": "sb-common-assets/favicon-wrapper.svg"
+      },
+      {
+        "pathname": "sb-common-assets/favicon.svg",
+        "contentLength": 2163,
+        "knownAs": "sb-common-assets/favicon.svg"
+      },
+      {
+        "pathname": "sb-common-assets/nunito-sans-bold-italic.woff2",
+        "contentLength": 49460,
+        "knownAs": "sb-common-assets/nunito-sans-bold-italic.woff2"
+      },
+      {
+        "pathname": "sb-common-assets/nunito-sans-bold.woff2",
+        "contentLength": 47144,
+        "knownAs": "sb-common-assets/nunito-sans-bold.woff2"
+      },
+      {
+        "pathname": "sb-common-assets/nunito-sans-italic.woff2",
+        "contentLength": 49620,
+        "knownAs": "sb-common-assets/nunito-sans-italic.woff2"
+      },
+      {
+        "pathname": "sb-common-assets/nunito-sans-regular.woff2",
+        "contentLength": 47072,
+        "knownAs": "sb-common-assets/nunito-sans-regular.woff2"
+      },
+      {
+        "pathname": "sb-manager/globals-module-info.js",
+        "contentLength": 17751,
+        "knownAs": "sb-manager/globals-module-info.js"
+      },
+      {
+        "pathname": "sb-manager/globals-runtime.js",
+        "contentLength": 2126889,
+        "knownAs": "sb-manager/globals-runtime.js"
+      },
+      {
+        "pathname": "sb-manager/globals.js",
+        "contentLength": 1564,
+        "knownAs": "sb-manager/globals.js"
+      },
+      {
+        "pathname": "sb-manager/runtime.js",
+        "contentLength": 443128,
+        "knownAs": "sb-manager/runtime.js"
+      },
+      {
+        "pathname": "thrive-icon.svg",
+        "contentLength": 3632,
+        "knownAs": "thrive-icon.svg"
+      },
+      {
+        "pathname": "ui-styles.css",
+        "contentLength": 80425,
+        "knownAs": "ui-styles.css"
+      },
+      {
+        "pathname": "vite-inject-mocker-entry.js",
+        "contentLength": 29184,
+        "knownAs": "vite-inject-mocker-entry.js"
+      }
+    ],
+    "paths": [
+      "assets/Avatar.stories-i3DltjJN.js",
+      "assets/Badge.stories-CS8D0bqA.js",
+      "assets/Button.stories-UikWLopk.js",
+      "assets/ButtonGroup.stories-BWzWxZ9f.js",
+      "assets/Card.stories-BODzhtQY.js",
+      "assets/Color-AVL7NMMY-CbxegiTB.js",
+      "assets/Components-Reference-DuGWPCTz.js",
+      "assets/DarkMode-Test.stories-2_xuK3F1.js",
+      "assets/DataTable.stories-NO2BSN19.js",
+      "assets/Dialog.stories-Dc5mWEBm.js",
+      "assets/DocsRenderer-PQXLIZUC-DfSwCoOI.js",
+      "assets/Dropdown.stories-CFuBsBr-.js",
+      "assets/Foundation-Colors-BCJCiHzo.js",
+      "assets/Foundation-Typography.stories-DJcPbY9L.js",
+      "assets/IconButton.stories-CUoSJeyN.js",
+      "assets/Introduction-Cw-B1Q4w.js",
+      "assets/PageSection.stories-CZAM0Fci.js",
+      "assets/axe-BWrF4Z0Q.js",
+      "assets/blocks-ByM2jX0b.js",
+      "assets/client-DyDUjF7U.js",
+      "assets/iframe-CqaQnFpu.js",
+      "assets/index-BlL72RbY.js",
+      "assets/index-Bx3vCbWl.js",
+      "assets/index-Dv6E3UDJ.js",
+      "assets/index-DxlmvTCr.js",
+      "assets/jsx-runtime-BrkUzls1.js",
+      "assets/matchers-7Z3WT2CE-T3xScrR7.js",
+      "assets/preload-helper-Dp1pzeXC.js",
+      "assets/react-18-CjdnYGVr.js",
+      "favicon-wrapper.svg",
+      "favicon.svg",
+      "globals.js",
+      "iframe.html",
+      "index.html",
+      "index.json",
+      "nunito-sans-bold-italic.woff2",
+      "nunito-sans-bold.woff2",
+      "nunito-sans-italic.woff2",
+      "nunito-sans-regular.woff2",
+      "project.json",
+      "sb-addons/a11y-2/manager-bundle.js",
+      "sb-addons/docs-1/manager-bundle.js",
+      "sb-addons/storybook-4/manager-bundle.js",
+      "sb-addons/storybook-core-server-presets-0/common-manager-bundle.js",
+      "sb-addons/whitespace-html-3/manager-bundle.js",
+      "sb-common-assets/favicon-wrapper.svg",
+      "sb-common-assets/favicon.svg",
+      "sb-common-assets/nunito-sans-bold-italic.woff2",
+      "sb-common-assets/nunito-sans-bold.woff2",
+      "sb-common-assets/nunito-sans-italic.woff2",
+      "sb-common-assets/nunito-sans-regular.woff2",
+      "sb-manager/globals-module-info.js",
+      "sb-manager/globals-runtime.js",
+      "sb-manager/globals.js",
+      "sb-manager/runtime.js",
+      "thrive-icon.svg",
+      "ui-styles.css",
+      "vite-inject-mocker-entry.js"
+    ],
+    "statsPath": "",
+    "total": 7339972,
+    "hashes": {
+      "assets/Avatar.stories-i3DltjJN.js": "5405a677fa6613e2",
+      "assets/Badge.stories-CS8D0bqA.js": "2f0856536b1a547f",
+      "assets/Button.stories-UikWLopk.js": "8ffe532512cc5ea1",
+      "assets/ButtonGroup.stories-BWzWxZ9f.js": "4430529474dff317",
+      "assets/Card.stories-BODzhtQY.js": "cb49e79772dcb4ed",
+      "assets/Color-AVL7NMMY-CbxegiTB.js": "8d38043e9c7c9842",
+      "assets/Components-Reference-DuGWPCTz.js": "854bcd063baef646",
+      "assets/DarkMode-Test.stories-2_xuK3F1.js": "27c0b15d096e57f3",
+      "assets/DataTable.stories-NO2BSN19.js": "4bee116722e401b7",
+      "assets/Dialog.stories-Dc5mWEBm.js": "330be77a9d35a9ea",
+      "assets/DocsRenderer-PQXLIZUC-DfSwCoOI.js": "b7c7bbf70ba7593b",
+      "assets/Dropdown.stories-CFuBsBr-.js": "949da6877b1f9bb2",
+      "assets/Foundation-Colors-BCJCiHzo.js": "16d10e08a1529762",
+      "assets/Foundation-Typography.stories-DJcPbY9L.js": "70f7b6ad9070b706",
+      "assets/IconButton.stories-CUoSJeyN.js": "b90be80fadb20cf1",
+      "assets/Introduction-Cw-B1Q4w.js": "90363564fa006ae2",
+      "assets/PageSection.stories-CZAM0Fci.js": "7d853f27d1ad6c0a",
+      "assets/axe-BWrF4Z0Q.js": "e1d8c2cdd9205be7",
+      "assets/blocks-ByM2jX0b.js": "b9ed17f6517138d0",
+      "assets/client-DyDUjF7U.js": "20a39d6c27cf24f7",
+      "assets/iframe-CqaQnFpu.js": "c714cbcce8aebd9a",
+      "assets/index-BlL72RbY.js": "b92d7fc596595088",
+      "assets/index-Bx3vCbWl.js": "de9913962776efd3",
+      "assets/index-Dv6E3UDJ.js": "a547d011b4fd9bcc",
+      "assets/index-DxlmvTCr.js": "2dfb1b5d7d0b3c00",
+      "assets/jsx-runtime-BrkUzls1.js": "008be3bc5f55ffcd",
+      "assets/matchers-7Z3WT2CE-T3xScrR7.js": "df174b8d4f3db8f3",
+      "assets/preload-helper-Dp1pzeXC.js": "7c6c5b6ac2ce6fff",
+      "assets/react-18-CjdnYGVr.js": "8a7304405ca4c3db",
+      "favicon-wrapper.svg": "ac2f5da4f59a4ab7",
+      "favicon.svg": "d3380c3fb63a8430",
+      "globals.js": "b7ca01b90e5a12b3",
+      "iframe.html": "e040dd9f9ecb0030",
+      "index.html": "1c3e5ab3338e1f6f",
+      "index.json": "c9ec8586e16cf1dd",
+      "nunito-sans-bold-italic.woff2": "d64464b3594b3fb9",
+      "nunito-sans-bold.woff2": "0bd5b61b7fb7f7d5",
+      "nunito-sans-italic.woff2": "b7807d9de055e9a0",
+      "nunito-sans-regular.woff2": "6687b7be04c2debe",
+      "project.json": "b6fb5973015d4021",
+      "sb-addons/a11y-2/manager-bundle.js": "44e93ba8ba59ec3a",
+      "sb-addons/docs-1/manager-bundle.js": "d2024be77eeef270",
+      "sb-addons/storybook-4/manager-bundle.js": "b85a21ba4871be7d",
+      "sb-addons/storybook-core-server-presets-0/common-manager-bundle.js": "a96b07cf75ef0ef0",
+      "sb-addons/whitespace-html-3/manager-bundle.js": "57c2473770afc147",
+      "sb-common-assets/favicon-wrapper.svg": "ac2f5da4f59a4ab7",
+      "sb-common-assets/favicon.svg": "d3380c3fb63a8430",
+      "sb-common-assets/nunito-sans-bold-italic.woff2": "d64464b3594b3fb9",
+      "sb-common-assets/nunito-sans-bold.woff2": "0bd5b61b7fb7f7d5",
+      "sb-common-assets/nunito-sans-italic.woff2": "b7807d9de055e9a0",
+      "sb-common-assets/nunito-sans-regular.woff2": "6687b7be04c2debe",
+      "sb-manager/globals-module-info.js": "b18a86dfca78a76c",
+      "sb-manager/globals-runtime.js": "b1d0c220a5ee1cf1",
+      "sb-manager/globals.js": "65b5882f82eea1c2",
+      "sb-manager/runtime.js": "8d632c50f93f5869",
+      "thrive-icon.svg": "dc7855380119a99f",
+      "ui-styles.css": "da072d9a21632bf6",
+      "vite-inject-mocker-entry.js": "7e4747e5867457c0"
+    }
+  },
+  "flags": {
+    "debug": true,
+    "loglevel": "verbose",
+    "buildScriptName": "build-storybook",
+    "outputDir": [],
+    "storybookBuildDir": [],
+    "externals": [],
+    "onlyStoryFiles": [],
+    "onlyStoryNames": [],
+    "untraced": [],
+    "fileHashing": true,
+    "interactive": true
+  },
+  "git": {
+    "version": "2.37.3",
+    "gitUserEmail": "mahmoudib@live.com",
+    "uncommittedHash": "fatal: could not open '.storybook/globals.js' for reading: No such file or directory\nb121a3a6733e3e880e7b95b41c382834c2945193",
+    "rootPath": "/Users/mahmoudilyan/Sites/thrive-campaign",
+    "commit": "9b9cb42f7f3d5586522f0e80da0b66c86f92e28a",
+    "committedAt": 1758831867000,
+    "committerEmail": "mahmoudib@live.com",
+    "committerName": "Mahmoud Ilyan",
+    "branch": "main",
+    "slug": "mahmoudilyan/thrive-campaign",
+    "fromCI": false,
+    "parentCommits": [
+      "9b9cb42f7f3d5586522f0e80da0b66c86f92e28a"
+    ]
+  },
+  "input": [],
+  "isOnboarding": true,
+  "isPublishOnly": false,
+  "options": {
+    "fromCI": false,
+    "inAction": false,
+    "dryRun": false,
+    "debug": true,
+    "autoAcceptChanges": false,
+    "exitZeroOnChanges": false,
+    "exitOnceUploaded": false,
+    "diagnosticsFile": "chromatic-diagnostics.json",
+    "fileHashing": true,
+    "interactive": false,
+    "isLocalBuild": false,
+    "originalArgv": [
+      "--project-token=chpt_f9052fa98a22096",
+      "--debug",
+      "--loglevel=verbose",
+      "--build-script-name=build-storybook"
+    ],
+    "logFile": "chromatic.log",
+    "forceRebuild": true,
+    "buildScriptName": "build-storybook",
+    "storybookLogFile": "build-storybook.log",
+    "branchName": ""
+  },
+  "packageJson": {
+    "name": "design-system-docs",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "copy-styles": "cp ../../packages/ui/dist/style.css ./public/ui-styles.css",
+      "storybook": "pnpm run copy-styles && storybook dev -p 6006 --no-version-updates --quiet --disable-telemetry",
+      "storybook:fast": "pnpm run copy-styles && storybook dev -p 6006",
+      "storybook:turbo": "pnpm run copy-styles && NODE_ENV=development storybook dev -p 6006",
+      "chromatic": "pnpm run copy-styles && chromatic --project-token=chpt_f9052fa98a22096  --debug --loglevel=verbose --build-script-name=build-storybook",
+      "build-storybook": "pnpm run copy-styles && storybook build --quiet",
+      "build": "pnpm run copy-styles && storybook build --quiet",
+      "dev": "pnpm run storybook:turbo"
+    },
+    "dependencies": {
+      "@storybook/addon-webpack5-compiler-swc": "^4.0.1",
+      "@thrive/ui": "workspace:*",
+      "react": "^19.0.0",
+      "react-dom": "^19.0.0"
+    },
+    "devDependencies": {
+      "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
+      "@storybook/addon-a11y": "^9.1.8",
+      "@storybook/addon-docs": "^9.1.8",
+      "@storybook/react-vite": "^9.1.6",
+      "@tailwindcss/postcss": "4.1.13",
+      "@whitespace/storybook-addon-html": "^8.0.2",
+      "autoprefixer": "^10",
+      "chromatic": "^13.2.0",
+      "storybook": "^9.1.8",
+      "typescript": "^5.7.2"
+    },
+    "type": "commonjs"
+  },
+  "packagePath": "/Users/mahmoudilyan/Sites/thrive-campaign/apps/design-system-docs/package.json",
+  "projectMetadata": {
+    "hasRouter": false,
+    "creationDate": {},
+    "storybookCreationDate": {},
+    "numberOfCommitters": 1,
+    "numberOfAppFiles": 1
+  },
+  "rebuildForBuildId": "68d5c170dddcdbf24dd07185",
+  "runtimeMetadata": {
+    "nodePlatform": "darwin",
+    "nodeVersion": "20.18.1",
+    "packageManager": "pnpm",
+    "packageManagerVersion": "9.15.1"
+  },
+  "sentinelUrls": [
+    "https://chromatic-builds.s3.us-west-2.amazonaws.com/68d5b2258627ede6122d680b-jettbnllkb/.chromatic/files-copied.3123298619.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAJVVEQEOBEEPXSNNQ%2F20250925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250925T223049Z&X-Amz-Expires=1800&X-Amz-Signature=db6b29abd9e8282feb6a8e223078a6a560155e84376dea584119653fb4daedfe&X-Amz-SignedHeaders=host&x-id=GetObject"
+  ],
+  "sessionId": "d80af15e-9870-4f4d-9398-48b80dae851b",
+  "sourceDir": "/var/folders/9q/9vfhbw4n5rz27ktlr99wn5lh0000gn/T/chromatic--27086-V0Ih3CwB15E1",
+  "startedAt": 1758839458390,
+  "storybook": {
+    "version": "9.1.6",
+    "builder": {
+      "name": "@storybook/react-vite",
+      "packageVersion": "9.1.6"
+    },
+    "baseDir": "apps/design-system-docs"
+  },
+  "storybookUrl": "https://68d5b2258627ede6122d680b-jettbnllkb.chromatic.com/",
+  "task": "snapshot",
+  "uploadedBytes": 3496326,
+  "uploadedFiles": 30,
+  "userError": false
+}

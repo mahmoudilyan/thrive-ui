@@ -1,0 +1,276 @@
+---
+title: Icon Button
+description: A button component designed specifically for displaying icons
+category: Components
+status: stable
+keywords:
+  - icon button
+  - button
+  - icon
+  - toolbar
+  - action
+  - compact
+lastUpdated: 2025-01-27
+---
+
+<ComponentPageHeader
+	title="Icon Button"
+	description="A button component designed specifically for displaying icons"
+	status="stable"
+	category="Components"
+/>
+
+## Overview
+
+A button component designed specifically for displaying icons. Perfect for toolbars, action menus, and compact interfaces where space is at a premium.
+
+<InfoCallout type="info" title="When to Use">
+Use icon buttons when space is limited or when the icon clearly represents the action. Always provide an aria-label for accessibility.
+</InfoCallout>
+
+## Basic Usage
+
+<CodeExample
+	title="Simple Icon Button"
+	description="Basic icon button with primary variant"
+	code={`<IconButton 
+  variant="primary" 
+  icon={<MdAdd />} 
+  aria-label="Add item" 
+/>`}
+	preview={
+		<IconButton variant="primary" icon={<MdAdd />} aria-label="Add item" />
+	}
+/>
+
+## Variants
+
+<CodeExample
+	title="All Variants"
+	description="Different visual styles for different contexts"
+	code={`<div className="flex items-center gap-3">
+  <IconButton variant="primary" icon={<MdAdd />} aria-label="Add" />
+  <IconButton variant="secondary" icon={<MdEdit />} aria-label="Edit" />
+  <IconButton variant="ghost" icon={<MdShare />} aria-label="Share" />
+  <IconButton variant="destructive" icon={<MdDelete />} aria-label="Delete" />
+  <IconButton variant="link" icon={<MdShare />} aria-label="Share" />
+</div>`}
+	preview={
+		<div className="flex items-center gap-3">
+			<IconButton variant="primary" icon={<MdAdd />} aria-label="Add" />
+			<IconButton variant="secondary" icon={<MdEdit />} aria-label="Edit" />
+			<IconButton variant="ghost" icon={<MdShare />} aria-label="Share" />
+			<IconButton variant="destructive" icon={<MdDelete />} aria-label="Delete" />
+			<IconButton variant="link" icon={<MdShare />} aria-label="Share" />
+		</div>
+	}
+/>
+
+## Sizes
+
+<CodeExample
+	title="Icon Button Sizes"
+	description="Four size options from xs to lg"
+	code={`<div className="flex items-end gap-4">
+  <IconButton size="xs" variant="secondary" icon={<MdAdd />} aria-label="Add" />
+  <IconButton size="sm" variant="secondary" icon={<MdAdd />} aria-label="Add" />
+  <IconButton size="md" variant="secondary" icon={<MdAdd />} aria-label="Add" />
+  <IconButton size="lg" variant="secondary" icon={<MdAdd />} aria-label="Add" />
+</div>`}
+	preview={
+		<div className="flex items-end gap-4">
+			<IconButton size="xs" variant="secondary" icon={<MdAdd />} aria-label="Add" />
+			<IconButton size="sm" variant="secondary" icon={<MdAdd />} aria-label="Add" />
+			<IconButton size="md" variant="secondary" icon={<MdAdd />} aria-label="Add" />
+			<IconButton size="lg" variant="secondary" icon={<MdAdd />} aria-label="Add" />
+		</div>
+	}
+/>
+
+## Loading State
+
+<CodeExample
+	title="Loading Icon Buttons"
+	description="Show progress with loading state"
+	code={`<div className="flex items-center gap-3">
+  <IconButton variant="primary" icon={<MdRefresh />} loading aria-label="Refreshing" />
+  <IconButton variant="secondary" icon={<MdRefresh />} loading aria-label="Loading" />
+  <IconButton variant="ghost" icon={<MdRefresh />} loading aria-label="Processing" />
+</div>`}
+	preview={
+		<div className="flex items-center gap-3">
+			<IconButton variant="primary" icon={<MdRefresh />} loading aria-label="Refreshing" />
+			<IconButton variant="secondary" icon={<MdRefresh />} loading aria-label="Loading" />
+			<IconButton variant="ghost" icon={<MdRefresh />} loading aria-label="Processing" />
+		</div>
+	}
+/>
+
+## Disabled State
+
+<CodeExample
+	title="Disabled Icon Buttons"
+	description="Disabled state across variants"
+	code={`<div className="flex items-center gap-3">
+  <IconButton variant="primary" icon={<MdAdd />} disabled aria-label="Add (disabled)" />
+  <IconButton variant="secondary" icon={<MdEdit />} disabled aria-label="Edit (disabled)" />
+  <IconButton variant="ghost" icon={<MdShare />} disabled aria-label="Share (disabled)" />
+  <IconButton variant="destructive" icon={<MdDelete />} disabled aria-label="Delete (disabled)" />
+</div>`}
+	preview={
+		<div className="flex items-center gap-3">
+			<IconButton variant="primary" icon={<MdAdd />} disabled aria-label="Add (disabled)" />
+			<IconButton variant="secondary" icon={<MdEdit />} disabled aria-label="Edit (disabled)" />
+			<IconButton variant="ghost" icon={<MdShare />} disabled aria-label="Share (disabled)" />
+			<IconButton variant="destructive" icon={<MdDelete />} disabled aria-label="Delete (disabled)" />
+		</div>
+	}
+/>
+
+## Toolbar Example
+
+<CodeExample
+	title="Navigation Bar"
+	description="Icon buttons in a navigation context"
+	code={`<div className="flex items-center justify-between p-3 border rounded-lg bg-panel">
+  <div className="flex items-center gap-1">
+    <IconButton variant="ghost" size="sm" icon={<MdMenu />} aria-label="Menu" />
+    <IconButton variant="ghost" size="sm" icon={<MdArrowBack />} aria-label="Back" />
+  </div>
+  <div className="flex items-center gap-1">
+    <IconButton variant="ghost" size="sm" icon={<MdSearch />} aria-label="Search" />
+    <IconButton variant="ghost" size="sm" icon={<MdSettings />} aria-label="Settings" />
+    <IconButton variant="ghost" size="sm" icon={<MdMoreVert />} aria-label="More options" />
+  </div>
+</div>`}
+	preview={
+		<div className="flex items-center justify-between p-3 border rounded-lg bg-panel">
+			<div className="flex items-center gap-1">
+				<IconButton variant="ghost" size="sm" icon={<MdMenu />} aria-label="Menu" />
+				<IconButton variant="ghost" size="sm" icon={<MdArrowBack />} aria-label="Back" />
+			</div>
+			<div className="flex items-center gap-1">
+				<IconButton variant="ghost" size="sm" icon={<MdSearch />} aria-label="Search" />
+				<IconButton variant="ghost" size="sm" icon={<MdSettings />} aria-label="Settings" />
+				<IconButton variant="ghost" size="sm" icon={<MdMoreVert />} aria-label="More options" />
+			</div>
+		</div>
+	}
+/>
+
+## Card Actions
+
+<CodeExample
+	title="Card with Icon Actions"
+	description="Icon buttons in a card header"
+	code={`<div className="border rounded-lg p-4 bg-panel">
+  <div className="flex items-start justify-between mb-3">
+    <div>
+      <h5 className="font-medium">Project Title</h5>
+      <p className="text-sm text-ink-light">Last updated 2 hours ago</p>
+    </div>
+    <div className="flex items-center gap-1">
+      <IconButton variant="ghost" size="xs" icon={<MdFavorite />} aria-label="Add to favorites" />
+      <IconButton variant="ghost" size="xs" icon={<MdShare />} aria-label="Share" />
+      <IconButton variant="ghost" size="xs" icon={<MdMoreVert />} aria-label="More options" />
+    </div>
+  </div>
+  <div className="flex items-center gap-2">
+    <IconButton variant="secondary" size="sm" icon={<MdEdit />} aria-label="Edit project" />
+    <IconButton variant="destructive" size="sm" icon={<MdDelete />} aria-label="Delete project" />
+  </div>
+</div>`}
+	preview={
+		<div className="border rounded-lg p-4 bg-panel">
+			<div className="flex items-start justify-between mb-3">
+				<div>
+					<h5 className="font-medium">Project Title</h5>
+					<p className="text-sm text-ink-light">Last updated 2 hours ago</p>
+				</div>
+				<div className="flex items-center gap-1">
+					<IconButton variant="ghost" size="xs" icon={<MdFavorite />} aria-label="Add to favorites" />
+					<IconButton variant="ghost" size="xs" icon={<MdShare />} aria-label="Share" />
+					<IconButton variant="ghost" size="xs" icon={<MdMoreVert />} aria-label="More options" />
+				</div>
+			</div>
+			<div className="flex items-center gap-2">
+				<IconButton variant="secondary" size="sm" icon={<MdEdit />} aria-label="Edit project" />
+				<IconButton variant="destructive" size="sm" icon={<MdDelete />} aria-label="Delete project" />
+			</div>
+		</div>
+	}
+/>
+
+## Form Context
+
+<CodeExample
+	title="Search Input with Actions"
+	description="Icon buttons within form inputs"
+	code={`<div className="flex items-center gap-2 p-3 border rounded-lg">
+  <input
+    type="text"
+    placeholder="Search..."
+    className="flex-1 outline-none bg-transparent"
+  />
+  <IconButton variant="ghost" size="sm" icon={<MdSearch />} aria-label="Search" />
+  <IconButton variant="ghost" size="sm" icon={<MdClose />} aria-label="Clear" />
+</div>`}
+	preview={
+		<div className="flex items-center gap-2 p-3 border rounded-lg">
+			<input
+				type="text"
+				placeholder="Search..."
+				className="flex-1 outline-none bg-transparent"
+			/>
+			<IconButton variant="ghost" size="sm" icon={<MdSearch />} aria-label="Search" />
+			<IconButton variant="ghost" size="sm" icon={<MdClose />} aria-label="Clear" />
+		</div>
+	}
+/>
+
+## Best Practices
+
+<GuidelinesGrid>
+	<Guideline type="do" title="Always provide aria-label">
+		Every icon button must have an aria-label or aria-labelledby attribute to describe its purpose for screen readers.
+	</Guideline>
+	
+	<Guideline type="do" title="Use recognizable icons">
+		Choose icons that clearly communicate their action. When in doubt, use text buttons instead.
+	</Guideline>
+	
+	<Guideline type="do" title="Size appropriately">
+		Use smaller sizes (xs, sm) for toolbars and compact interfaces. Use larger sizes (md, lg) for primary actions.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't use ambiguous icons">
+		Avoid icons that users might not understand. If an icon isn't universally recognized, use a text button.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't omit aria-label">
+		Never leave an icon button without an accessible label. Screen reader users need to know what the button does.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't use for primary actions">
+		Primary page actions should use text buttons for clarity. Reserve icon buttons for secondary or tertiary actions.
+	</Guideline>
+</GuidelinesGrid>
+
+## Props
+
+<Props componentName="IconButton" />
+
+## Accessibility
+
+<InfoCallout type="warning" title="Required: ARIA Label">
+Icon buttons MUST include an aria-label or aria-labelledby attribute. This is required for screen reader accessibility.
+</InfoCallout>
+
+- **Always** provide an aria-label describing the button's action
+- Use clear, action-oriented labels ("Add item" not "Plus")
+- Ensure sufficient touch target size (minimum 44x44px on mobile)
+- Provide keyboard focus indicators
+- Consider adding a tooltip for additional context
+- Use appropriate color contrast for the icon
+- Ensure the icon is visible in both light and dark modes
+

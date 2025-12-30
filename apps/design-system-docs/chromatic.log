@@ -1,0 +1,181 @@
+01:30:00.308 Chromatic CLI v13.2.0
+             https://www.chromatic.com/docs/cli 
+ 
+01:30:00.479 Authenticating with Chromatic 
+01:30:00.479     → Connecting to https://index.chromatic.com
+01:30:01.024 Authenticated with Chromatic
+                 → Using project token '****************2096'
+01:30:01.026 Retrieving git information
+01:30:01.027 execGitCommand: git --version
+01:30:01.042 execGitCommand result: 'git version 2.37.3'
+01:30:01.042 execGitCommand: git --no-pager log -n 1 --format="%H ## %ct ## %ae ## %an"
+01:30:01.109 execGitCommand result: '9b9cb42f7f3d5586522f0e80da0b66c86f92e28a ## 1758831867 ## mahmoudib@live.com ## Mahmoud Ilyan'
+01:30:01.110 execGitCommand: git branch --show-current
+01:30:01.121 execGitCommand result: 'main'
+01:30:01.143 execGitCommand: git --no-pager log -n 1 --skip=1 --format="%H"
+01:30:01.153 execGitCommand result: '0fc55f596715e79e657b5f1f4db9d36b3c8ac19f'
+01:30:01.154 git info: {"commit":{"commit":"9b9cb42f7f3d5586522f0e80da0b66c86f92e28a","committedAt":1758831867000,"committerEmail":"mahmoudib@live.com","committerName":"Mahmoud Ilyan"},"branch":"main","fromCI":false}
+01:30:01.154 execGitCommand: git config user.email
+01:30:01.163 execGitCommand result: 'mahmoudib@live.com'
+01:30:01.164 execGitCommand: (git diff --name-only --no-relative --diff-filter=d --cached;git diff --name-only --no-relative --diff-filter=d;git ls-files --others --exclude-standard) | git hash-object --stdin-paths | git hash-object --stdin
+01:30:01.194 execGitCommand result: 'fatal: could not open '.storybook/globals.js' for reading: No such file or directory
+             b121a3a6733e3e880e7b95b41c382834c2945193'
+01:30:01.194 execGitCommand: git rev-parse --show-toplevel
+01:30:01.203 execGitCommand result: '/Users/mahmoudilyan/Sites/thrive-campaign'
+01:30:01.203 execGitCommandOneLine: git log --reverse --format=%cd --date=iso
+01:30:01.214 execGitCommandOneLine: git log --follow --reverse --format=%cd --date=iso -- .storybook
+01:30:01.225 execGitCommandCountLines: git shortlog -sn --all --since="6 months ago"
+01:30:01.237 execGitCommandCountLines: git ls-files -- "*page*.js" "*page*.jsx" "*page*.ts" "*page*.tsx" "*Page*.js" "*Page*.jsx" "*Page*.ts" "*Page*.tsx" "*screen*.js" "*screen*.jsx" "*screen*.ts" "*screen*.tsx" "*Screen*.js" "*Screen*.jsx" "*Screen*.ts" "*Screen*.tsx"
+01:30:01.245 execGitCommand: git config --get remote.origin.url
+01:30:01.255 execGitCommand result: 'git@github.com:mahmoudilyan/thrive-campaign.git'
+01:30:01.737 App firstBuild: %o, lastBuild: %o {"committedAt":1758831867000} {"commit":"9b9cb42f7f3d5586522f0e80da0b66c86f92e28a","committedAt":1758831867000}
+01:30:01.737 execGitCommand: git cat-file -e "9b9cb42f7f3d5586522f0e80da0b66c86f92e28a^{commit}"
+01:30:01.759 execGitCommand result: ''
+01:30:01.760 Adding last branch build commit 9b9cb42f7f3d5586522f0e80da0b66c86f92e28a to commits with builds
+01:30:01.760 step: checking 20 up to 1758831867
+01:30:01.761 step: commitsWithBuilds: 9b9cb42f7f3d5586522f0e80da0b66c86f92e28a
+01:30:01.762 step: commitsWithoutBuilds:
+01:30:01.764 execGitCommand: git rev-list HEAD       --since 1758831867       -n 20 --not 9b9cb42f7f3d5586522f0e80da0b66c86f92e28a
+01:30:01.800 execGitCommand result: ''
+01:30:01.801 step: candidateCommits: , visitedCommitsWithoutBuilds:
+01:30:01.802 step: no candidateCommits; we are done
+01:30:02.323 Final commitsWithBuilds: 9b9cb42f7f3d5586522f0e80da0b66c86f92e28a
+01:30:02.324 execGitCommand: git rev-list 9b9cb42f7f3d5586522f0e80da0b66c86f92e28a --not "9b9cb42f7f3d5586522f0e80da0b66c86f92e28a^@"
+01:30:02.349 execGitCommand result: '9b9cb42f7f3d5586522f0e80da0b66c86f92e28a'
+01:30:02.350 Found parentCommits: 9b9cb42f7f3d5586522f0e80da0b66c86f92e28a
+01:30:02.853 Retrieved git information
+                 → Commit '9b9cb42' on branch 'main'; found 1 parent build
+01:30:02.854 Collecting Storybook metadata
+01:30:02.856 {"storybookV6error":{"code":"MODULE_NOT_FOUND","requireStack":["/Users/mahmoudilyan/Sites/thrive-campaign/node_modules/.pnpm/chromatic@13.2.0/node_modules/chromatic/dist/chunk-TKGT252T.js","/Users/mahmoudilyan/Sites/thrive-campaign/node_modules/.pnpm/chromatic@13.2.0/node_modules/chromatic/dist/bin.js"]}}
+01:30:02.905 {"configDirectory":".storybook","mainConfig":{"code":"import type { StorybookConfig } from '@storybook/react-vite';\n\nconst config: StorybookConfig = {\n\tstories: ['../stories/**/*.mdx', '../stories/**/*.stories.@(js|jsx|mjs|ts|tsx)'],\n\tstaticDirs: ['../public'],\n\taddons: [\n\t\t'@storybook/addon-docs',\n\t\t{\n\t\t\tname: '@storybook/addon-a11y',\n\t\t\toptions: {\n\t\t\t\tmanual: true,\n\t\t\t},\n\t\t},\n\t\t'@whitespace/storybook-addon-html',\n\t],\n\tframework: {\n\t\tname: '@storybook/react-vite',\n\t\toptions: {\n\t\t\tstrictMode: false,\n\t\t},\n\t},\n\ttypescript: {\n\t\tcheck: false,\n\t\treactDocgen: 'react-docgen-typescript',\n\t\treactDocgenTypescriptOptions: {\n\t\t\tshouldExtractLiteralValuesFromEnum: true,\n\t\t\tpropFilter: prop => (prop.parent ? !/node_modules/.test(prop.parent.fileName) : true),\n\t\t},\n\t},\n\tcore: {\n\t\tdisableTelemetry: true,\n\t\tenableCrashReports: false,\n\t\t// REMOVE THIS LINE - it's causing the conflict\n\t\t// builder: '@storybook/builder-vite',\n\t},\n\tasync viteFinal(config) {\n\t\treturn {\n\t\t\t...config,\n\t\t\tdefine: {\n\t\t\t\t...config.define,\n\t\t\t\t'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV || 'development'),\n\t\t\t\tglobal: 'globalThis',\n\t\t\t},\n\t\t\toptimizeDeps: {\n\t\t\t\t...config.optimizeDeps,\n\t\t\t\tinclude: ['react', 'react-dom', 'react-dom/client', '@storybook/addon-docs', '@thrive/ui'],\n\t\t\t},\n\t\t\tbuild: {\n\t\t\t\t...config.build,\n\t\t\t\tsourcemap: false,\n\t\t\t\trollupOptions: {\n\t\t\t\t\t...config.build?.rollupOptions,\n\t\t\t\t\tonwarn(warning, warn) {\n\t\t\t\t\t\tif (warning.code === 'MODULE_LEVEL_DIRECTIVE') {\n\t\t\t\t\t\t\treturn;\n\t\t\t\t\t\t}\n\t\t\t\t\t\twarn(warning);\n\t\t\t\t\t},\n\t\t\t\t},\n\t\t\t},\n\t\t\tserver: {\n\t\t\t\t...config.server,\n\t\t\t\tfs: {\n\t\t\t\t\tallow: ['..', '../..'],\n\t\t\t\t},\n\t\t\t},\n\t\t};\n\t},\n};\n\nexport default config;\n"}}
+01:30:02.920 No viewlayer package listed in dependencies. Checking transitive dependencies.
+01:30:02.925 [{"status":"fulfilled","value":{}},{"status":"fulfilled","value":{"version":"9.1.6"}},{"status":"fulfilled","value":{"builder":{"name":"@storybook/react-vite","packageVersion":"9.1.6"}}}]
+01:30:02.925 Collected Storybook metadata
+                 → ; using the @storybook/react-vite builder (9.1.6); no supported addons found
+01:30:02.926 Initializing build
+01:30:02.926 Got environment:
+             {}
+01:30:03.724 Initialized build
+                 → Build 19 initialized
+01:30:03.735 Building your Storybook
+01:30:03.735     → Running command: pnpm run build-storybook --output-dir=/var/folders/9q/9vfhbw4n5rz27ktlr99wn5lh0000gn/T/chromatic--27086-V0Ih3CwB15E1
+01:30:03.736     → [*                   ]
+01:30:03.738 Running build command: pnpm run build-storybook --output-dir=/var/folders/9q/9vfhbw4n5rz27ktlr99wn5lh0000gn/T/chromatic--27086-V0Ih3CwB15E1
+01:30:03.741 Runtime metadata: {
+               "nodePlatform": "darwin",
+               "nodeVersion": "20.18.1",
+               "packageManager": "pnpm",
+               "packageManagerVersion": "9.15.1"
+             }
+01:30:13.738     → [ *                  ]
+01:30:23.740     → [  *                 ]
+01:30:33.744     → [   *                ]
+01:30:43.746     → [    *               ]
+01:30:48.647 Storybook built in 45 seconds
+                 → View build log at /Users/mahmoudilyan/Sites/thrive-campaign/apps/design-system-docs/build-storybook.log
+01:30:48.647 Prepare your built Storybook
+01:30:48.647     → Validating Storybook files
+01:30:48.651 Prepare your built Storybook
+01:30:48.652     → Calculating file hashes
+01:30:48.658 Calculated file hashes in 6ms
+01:30:48.658 Preparation complete
+                 → Storybook files validated and prepared for upload
+01:30:48.659 Publishing your built Storybook
+01:30:48.659     → Starting publish
+01:30:48.660 Running uploadBuild batch 1 / 1
+01:30:49.137 Uploading assets/Avatar.stories-i3DltjJN.js (11.74 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.139 Uploading assets/Badge.stories-CS8D0bqA.js (11.64 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.139 Uploading assets/Button.stories-UikWLopk.js (3.42 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.139 Uploading assets/ButtonGroup.stories-BWzWxZ9f.js (20.09 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.140 Uploading assets/Card.stories-BODzhtQY.js (1.48 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.140 Uploading assets/Color-AVL7NMMY-CbxegiTB.js (29.41 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.141 Uploading assets/Components-Reference-DuGWPCTz.js (7.97 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.141 Uploading assets/DarkMode-Test.stories-2_xuK3F1.js (9.13 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.141 Uploading assets/DataTable.stories-NO2BSN19.js (14.17 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.141 Uploading assets/Dialog.stories-Dc5mWEBm.js (18.2 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.142 Uploading assets/DocsRenderer-PQXLIZUC-DfSwCoOI.js (1.9 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.142 Uploading assets/Dropdown.stories-CFuBsBr-.js (25.34 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.143 Uploading assets/Foundation-Colors-BCJCiHzo.js (26.28 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.143 Uploading assets/Foundation-Typography.stories-DJcPbY9L.js (24.92 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.143 Uploading assets/IconButton.stories-CUoSJeyN.js (18.97 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.143 Uploading assets/Introduction-Cw-B1Q4w.js (4.64 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.144 Uploading assets/PageSection.stories-CZAM0Fci.js (4.25 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.145 Uploading assets/axe-BWrF4Z0Q.js (572.6 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.145 Uploading assets/blocks-ByM2jX0b.js (589.56 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.146 Uploading assets/client-DyDUjF7U.js (173.81 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.146 Uploading assets/iframe-CqaQnFpu.js (1.31 MB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.146 Uploading assets/index-BlL72RbY.js (3.89 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.146 Uploading assets/index-Bx3vCbWl.js (14.03 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.147 Uploading assets/index-Dv6E3UDJ.js (455 B) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.147 Uploading assets/index-DxlmvTCr.js (552.11 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.148 Uploading assets/jsx-runtime-BrkUzls1.js (850 B) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.148 Uploading assets/react-18-CjdnYGVr.js (836 B) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.148 Uploading iframe.html (18.32 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.149 Uploading index.json (20.22 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.150 Uploading project.json (1.12 kB) to https://chromatic-builds.s3.us-west-2.amazonaws.com/
+01:30:49.185     → [                    ] 0%
+01:30:49.884 Uploaded assets/Badge.stories-CS8D0bqA.js (11.64 kB)
+01:30:49.891 Uploaded assets/Avatar.stories-i3DltjJN.js (11.74 kB)
+01:30:49.897 Uploaded assets/Card.stories-BODzhtQY.js (1.48 kB)
+01:30:49.901 Uploaded assets/Button.stories-UikWLopk.js (3.42 kB)
+01:30:49.909 Uploaded assets/DarkMode-Test.stories-2_xuK3F1.js (9.13 kB)
+01:30:49.973 Uploaded assets/Components-Reference-DuGWPCTz.js (7.97 kB)
+01:30:50.096 Uploaded assets/ButtonGroup.stories-BWzWxZ9f.js (20.09 kB)
+01:30:50.100 Uploaded assets/Dialog.stories-Dc5mWEBm.js (18.2 kB)
+01:30:50.110 Uploaded assets/DataTable.stories-NO2BSN19.js (14.17 kB)
+01:30:50.123 Uploaded assets/Color-AVL7NMMY-CbxegiTB.js (29.41 kB)
+01:30:50.644 Uploaded assets/DocsRenderer-PQXLIZUC-DfSwCoOI.js (1.9 kB)
+01:30:50.688 Uploaded assets/Introduction-Cw-B1Q4w.js (4.64 kB)
+01:30:50.803 Uploaded assets/Foundation-Typography.stories-DJcPbY9L.js (24.92 kB)
+01:30:50.817 Uploaded assets/PageSection.stories-CZAM0Fci.js (4.25 kB)
+01:30:50.823 Uploaded assets/Dropdown.stories-CFuBsBr-.js (25.34 kB)
+01:30:50.829 Uploaded assets/IconButton.stories-CUoSJeyN.js (18.97 kB)
+01:30:50.834 Uploaded assets/Foundation-Colors-BCJCiHzo.js (26.28 kB)
+01:30:51.410 Uploaded assets/index-BlL72RbY.js (3.89 kB)
+01:30:51.497 Uploaded assets/client-DyDUjF7U.js (173.81 kB)
+01:30:51.735 Uploaded assets/index-Dv6E3UDJ.js (455 B)
+01:30:51.746 Uploaded assets/index-Bx3vCbWl.js (14.03 kB)
+01:30:51.749 Uploaded assets/react-18-CjdnYGVr.js (836 B)
+01:30:51.763 Uploaded assets/jsx-runtime-BrkUzls1.js (850 B)
+01:30:51.931 Uploaded assets/blocks-ByM2jX0b.js (589.56 kB)
+01:30:51.971 Uploaded assets/axe-BWrF4Z0Q.js (572.6 kB)
+01:30:52.319 Uploaded iframe.html (18.32 kB)
+01:30:52.401 Uploaded index.json (20.22 kB)
+01:30:52.625 Uploaded project.json (1.12 kB)
+01:30:52.710 Uploaded assets/index-DxlmvTCr.js (552.11 kB)
+01:30:52.845 Uploaded assets/iframe-CqaQnFpu.js (1.31 MB)
+01:30:52.846 Publishing your built Storybook
+01:30:52.846     → Finalizing upload
+01:30:52.847 Waiting for 'files-copied.3123298619.txt' sentinel file to appear at https://chromatic-builds.s3.us-west-2.amazonaws.com/68d5b2258627ede6122d680b-jettbnllkb/.chromatic/files-copied.3123298619.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAJVVEQEOBEEPXSNNQ%2F20250925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250925T223049Z&X-Amz-Expires=1800&X-Amz-Signature=db6b29abd9e8282feb6a8e223078a6a560155e84376dea584119653fb4daedfe&X-Amz-SignedHeaders=host&x-id=GetObject
+01:30:53.527 Sentinel file 'files-copied.3123298619.txt' OK.
+01:30:53.533 Publish complete in 5 seconds
+                 → Uploaded 30 files (3.5 MB), skipped 28 files
+01:30:53.534 Verifying your Storybook
+01:30:53.534     → This may take a few minutes
+01:30:53.534     → [*                   ]
+01:30:58.388 ✔ Storybook published
+             We found 11 components with 69 stories.
+             ℹ View your Storybook at https://68d5b2258627ede6122d680b-jettbnllkb.chromatic.com/
+01:30:58.389 Started build 19
+                 → Continue setup at https://www.chromatic.com/setup?appId=68d5b2258627ede6122d680b
+01:30:58.390 Running 69 tests
+01:30:58.391     → This may take a few minutes
+01:30:58.394 ℹ Speed up Continuous Integration
+             Your project is linked to GitHub so Chromatic will report results there.
+             This means you can add the option `with: exitOnceUploaded: true` to your workflow to skip waiting for build results.
+             Read more here: https://www.chromatic.com/docs/configure/
+01:30:58.927 notify service handshake successful at wss://notify.chromatic.com/build/68d5c26bdedfd89c9d2256f7
+01:31:03.238     → [=                   ] 2/69
+01:31:14.213     → [===                 ] 9/69
+01:31:25.206     → [=========           ] 32/69
+01:31:35.390     → [===============     ] 51/69
+01:31:48.204     → [=================== ] 67/69
+01:31:56.256 notify service: build complete
+01:31:56.401 notify service connection closed with code 1000: Build complete
+01:31:56.784 ✔ Build passed. Welcome to Chromatic!
+             We found 11 components with 69 stories and took 69 snapshots.
+             ℹ Please continue setup at https://www.chromatic.com/setup?appId=68d5b2258627ede6122d680b
+01:31:56.786 Build 19 auto-accepted
+                 → Tested 69 stories across 11 components; captured 69 snapshots in 58 seconds
+01:31:56.787 Tasks completed
+01:31:56.796 ℹ Wrote Chromatic diagnostics report to chromatic-diagnostics.json

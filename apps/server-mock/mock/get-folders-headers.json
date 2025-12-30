@@ -1,0 +1,26 @@
+{
+	"headers": {
+		"name": {
+			"title": "Folder Name",
+			"sort": true
+		},
+		"created_on": {
+			"title": "Created",
+			"sort": true,
+			"defaultsort": true
+		},
+		"actions": "Actions"
+	},
+	"actions": {
+		"master": {
+			"text": "Rename",
+			"className": "actionEditFolder"
+		},
+		"list": {
+			"delete": {
+				"text": "Delete",
+				"className": "actionDeleteFolder"
+			}
+		}
+	}
+}

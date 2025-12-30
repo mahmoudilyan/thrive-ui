@@ -1,0 +1,212 @@
+---
+title: Data Table
+description: A powerful and flexible data table component with sorting, filtering, and pagination
+category: Components
+status: stable
+keywords:
+  - table
+  - data table
+  - grid
+  - list
+  - sorting
+  - pagination
+  - filtering
+lastUpdated: 2025-01-27
+---
+
+<ComponentPageHeader
+	title="Data Table"
+	description="A powerful and flexible data table component with sorting, filtering, and pagination"
+	status="stable"
+	category="Components"
+/>
+
+## Overview
+
+A powerful and flexible data table component built on Tanstack Table V8. Supports sorting, filtering, pagination, row selection, and custom cell rendering.
+
+<InfoCallout type="info" title="When to Use">
+Use Data Table for displaying and managing large datasets. It's ideal for admin interfaces, dashboards, and any application that needs to present tabular data with interactive features.
+</InfoCallout>
+
+## Basic Usage
+
+<CodeExample
+	title="Simple Table"
+	description="Basic table with columns and data"
+	code={`const columns = [
+  { accessorKey: 'name', header: 'Name' },
+  { accessorKey: 'email', header: 'Email' },
+  { accessorKey: 'role', header: 'Role' }
+];
+
+const data = [
+  { id: '1', name: 'John Doe', email: 'john@example.com', role: 'Admin' },
+  { id: '2', name: 'Jane Smith', email: 'jane@example.com', role: 'Editor' }
+];
+
+<DataTable columns={columns} data={data} />`}
+/>
+
+## With Sorting
+
+<CodeExample
+	title="Sortable Columns"
+	description="Enable sorting on specific columns"
+	code={`const columns = [
+  { 
+    accessorKey: 'name', 
+    header: 'Name',
+    enableSorting: true
+  },
+  { 
+    accessorKey: 'email', 
+    header: 'Email',
+    enableSorting: true
+  },
+  { 
+    accessorKey: 'lastLogin', 
+    header: 'Last Login',
+    enableSorting: true
+  }
+];
+
+<DataTable 
+  columns={columns} 
+  data={data}
+  enableSorting
+/>`}
+/>
+
+## With Pagination
+
+<CodeExample
+	title="Paginated Table"
+	description="Handle large datasets with pagination"
+	code={`<DataTable 
+  columns={columns} 
+  data={data}
+  enablePagination
+  pageSize={10}
+/>`}
+/>
+
+## With Row Selection
+
+<CodeExample
+	title="Selectable Rows"
+	description="Enable single or multi-row selection"
+	code={`<DataTable 
+  columns={columns} 
+  data={data}
+  enableRowSelection
+  onRowSelectionChange={(selectedRows) => {
+    console.log('Selected:', selectedRows);
+  }}
+/>`}
+/>
+
+## Custom Cell Rendering
+
+<CodeExample
+	title="Custom Cells"
+	description="Render custom content in cells"
+	code={`const columns = [
+  { accessorKey: 'name', header: 'Name' },
+  { 
+    accessorKey: 'status', 
+    header: 'Status',
+    cell: ({ row }) => (
+      <Badge variant={row.original.status === 'active' ? 'success' : 'normal'}>
+        {row.original.status}
+      </Badge>
+    )
+  },
+  {
+    id: 'actions',
+    header: 'Actions',
+    cell: ({ row }) => (
+      <IconButton 
+        icon={<MdMoreVert />} 
+        aria-label="Actions"
+        onClick={() => handleAction(row.original.id)}
+      />
+    )
+  }
+];
+
+<DataTable columns={columns} data={data} />`}
+/>
+
+## With Loading State
+
+<CodeExample
+	title="Loading Data"
+	description="Show loading state while fetching data"
+	code={`<DataTable 
+  columns={columns} 
+  data={data}
+  isLoading={true}
+  loadingMessage="Loading users..."
+/>`}
+/>
+
+## Empty State
+
+<CodeExample
+	title="No Data"
+	description="Display when no data is available"
+	code={`<DataTable 
+  columns={columns} 
+  data={[]}
+  emptyMessage="No users found"
+/>`}
+/>
+
+## Best Practices
+
+<GuidelinesGrid>
+	<Guideline type="do" title="Use clear column headers">
+		Column headers should be concise and descriptive. Use sentence case rather than all caps.
+	</Guideline>
+	
+	<Guideline type="do" title="Enable sorting for scannable columns">
+		Enable sorting on columns that users might want to organize (names, dates, numbers).
+	</Guideline>
+	
+	<Guideline type="do" title="Paginate large datasets">
+		For datasets with more than 50 rows, enable pagination to improve performance and usability.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't overload with columns">
+		Limit visible columns to 6-8. Hide less important data in expandable rows or detail views.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't use for small lists">
+		For fewer than 5 items, consider using cards or a simple list instead of a table.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't forget loading states">
+		Always provide visual feedback when data is loading or updating.
+	</Guideline>
+</GuidelinesGrid>
+
+## Props
+
+<Props componentName="DataTable" />
+
+## Accessibility
+
+<InfoCallout type="info" title="Keyboard Navigation">
+Data tables support full keyboard navigation. Use Tab to move between interactive elements and arrow keys for cell navigation.
+</InfoCallout>
+
+- Use semantic HTML table elements (`<table>`, `<thead>`, `<tbody>`)
+- Provide proper column headers with `scope="col"`
+- Enable keyboard navigation for interactive elements
+- Use `aria-sort` for sortable columns
+- Provide `aria-label` for action buttons
+- Ensure sufficient color contrast for all table content
+- Support screen readers with proper ARIA attributes
+- Make checkbox selection keyboard accessible
+

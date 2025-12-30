@@ -1,0 +1,229 @@
+{
+	"tabs": [
+		{
+			"id": "facebook:177322135653611:feeds",
+			"name": "News Feed",
+			"visible": 1
+		},
+		{
+			"id": "twilio:24:messages",
+			"name": "Messages",
+			"visible": 1
+		},
+		{
+			"id": "youtube:UCd-_ft8xJxV0tMqmTMxIf9Q:published_comments",
+			"name": "Published Comments",
+			"visible": 1
+		},
+		{
+			"id": "youtube:UCd-_ft8xJxV0tMqmTMxIf9Q:videos",
+			"name": "Videos",
+			"visible": 1
+		},
+		{
+			"id": "tiktok:_000TeW10nKDbAw2Ohfc-UUqpp_3Faztve_R:videos",
+			"name": "My Videos",
+			"visible": 1
+		},
+		{
+			"id": "googlebusiness:111419244482777577227-8979482525986801746:reviews",
+			"name": "Reviews",
+			"visible": 1
+		},
+		{
+			"id": "facebook:177322135653611:reviews",
+			"name": "Reviews",
+			"visible": 1
+		},
+		{
+			"id": "facebook:177322135653611:messages",
+			"name": "Direct Messages",
+			"visible": 0
+		},
+		{
+			"id": "facebook:177322135653611:tags",
+			"name": "Tagged Posts",
+			"visible": 0
+		},
+		{
+			"id": "facebook:177322135653611:darkPosts",
+			"name": "Ads Feed",
+			"visible": 0
+		},
+		{
+			"id": "instagram:17841402208943925:comment",
+			"name": "My Posts",
+			"visible": 0
+		},
+		{
+			"id": "instagram:17841402208943925:messages",
+			"name": "Direct Messages",
+			"visible": 0
+		},
+		{
+			"id": "instagram:17841402208943925:tags",
+			"name": "Tagged Posts",
+			"visible": 0
+		},
+		{
+			"id": "tiktok:_000pOTzU028titd2lFwoXI4m0OReaKY9h0k:videos",
+			"name": "My Videos",
+			"visible": 0
+		},
+		{
+			"id": "youtube:UCd-_ft8xJxV0tMqmTMxIf9Q:moderate_comments",
+			"name": "Moderate Comments",
+			"visible": 0
+		},
+		{
+			"id": "youtube:UCd-_ft8xJxV0tMqmTMxIf9Q:playlist",
+			"name": "Playlists",
+			"visible": 0
+		}
+	],
+	"socialTabs": [
+		{
+			"title": "VBOUT",
+			"social": "facebook",
+			"tabs": [
+				{
+					"id": "facebook:177322135653611:feeds",
+					"name": "News Feed",
+					"visible": 1,
+					"channel": "facebook:177322135653611"
+				},
+				{
+					"id": "facebook:177322135653611:reviews",
+					"name": "Reviews",
+					"visible": 1,
+					"channel": "facebook:177322135653611"
+				},
+				{
+					"id": "facebook:177322135653611:messages",
+					"name": "Direct Messages",
+					"visible": 0,
+					"channel": "facebook:177322135653611"
+				},
+				{
+					"id": "facebook:177322135653611:tags",
+					"name": "Tagged Posts",
+					"visible": 0,
+					"channel": "facebook:177322135653611"
+				},
+				{
+					"id": "facebook:177322135653611:darkPosts",
+					"name": "Ads Feed",
+					"visible": 0,
+					"channel": "facebook:177322135653611"
+				}
+			]
+		},
+		{
+			"title": "VBOUT",
+			"social": "googlebusiness",
+			"tabs": [
+				{
+					"id": "googlebusiness:111419244482777577227-8979482525986801746:reviews",
+					"name": "Reviews",
+					"visible": 1,
+					"channel": "googlebusiness:111419244482777577227-8979482525986801746"
+				}
+			]
+		},
+		{
+			"title": "Marketing Automation Platform",
+			"social": "instagram",
+			"tabs": [
+				{
+					"id": "instagram:17841402208943925:comment",
+					"name": "My Posts",
+					"visible": 0,
+					"channel": "instagram:17841402208943925"
+				},
+				{
+					"id": "instagram:17841402208943925:messages",
+					"name": "Direct Messages",
+					"visible": 0,
+					"channel": "instagram:17841402208943925"
+				},
+				{
+					"id": "instagram:17841402208943925:tags",
+					"name": "Tagged Posts",
+					"visible": 0,
+					"channel": "instagram:17841402208943925"
+				}
+			]
+		},
+		{
+			"title": "richardfallah",
+			"social": "tiktok",
+			"tabs": [
+				{
+					"id": "tiktok:_000TeW10nKDbAw2Ohfc-UUqpp_3Faztve_R:videos",
+					"name": "My Videos",
+					"visible": 1,
+					"channel": "tiktok:_000TeW10nKDbAw2Ohfc-UUqpp_3Faztve_R"
+				}
+			]
+		},
+		{
+			"title": "vboutinc",
+			"social": "tiktok",
+			"tabs": [
+				{
+					"id": "tiktok:_000pOTzU028titd2lFwoXI4m0OReaKY9h0k:videos",
+					"name": "My Videos",
+					"visible": 0,
+					"channel": "tiktok:_000pOTzU028titd2lFwoXI4m0OReaKY9h0k"
+				}
+			]
+		},
+		{
+			"title": "Richard SMS",
+			"social": "twilio",
+			"tabs": [
+				{
+					"id": "twilio:24:messages",
+					"name": "Messages",
+					"visible": 1,
+					"channel": "twilio:24"
+				}
+			]
+		},
+		{
+			"title": "vbout",
+			"social": "youtube",
+			"tabs": [
+				{
+					"id": "youtube:UCd-_ft8xJxV0tMqmTMxIf9Q:published_comments",
+					"name": "Published Comments",
+					"visible": 1,
+					"channel": "youtube:UCd-_ft8xJxV0tMqmTMxIf9Q"
+				},
+				{
+					"id": "youtube:UCd-_ft8xJxV0tMqmTMxIf9Q:videos",
+					"name": "Videos",
+					"visible": 1,
+					"channel": "youtube:UCd-_ft8xJxV0tMqmTMxIf9Q"
+				},
+				{
+					"id": "youtube:UCd-_ft8xJxV0tMqmTMxIf9Q:moderate_comments",
+					"name": "Moderate Comments",
+					"visible": 0,
+					"channel": "youtube:UCd-_ft8xJxV0tMqmTMxIf9Q"
+				},
+				{
+					"id": "youtube:UCd-_ft8xJxV0tMqmTMxIf9Q:playlist",
+					"name": "Playlists",
+					"visible": 0,
+					"channel": "youtube:UCd-_ft8xJxV0tMqmTMxIf9Q"
+				}
+			]
+		}
+	],
+	"isHashtags": 0,
+	"isSearch": 0,
+	"isPlaylistVideo": 0,
+	"playlistTabs": [],
+	"status": "success"
+}

@@ -1,0 +1,3462 @@
+{
+	"data": [
+		{
+			"field719": "Hertravelstory",
+			"data_leadscore": 0,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "I",
+			"color": "#387aac",
+			"picture": null,
+			"id": "107924571",
+			"indexid": "107924571",
+			"registrationdate": "01/01/2025",
+			"email": "info@hertravelstory.be",
+			"phone": "046-817-0091",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["Agency clients", "ALL Customers"]
+			},
+			"actions": {
+				"data": {
+					"listid": "10310"
+				}
+			},
+			"emailvalidation": {
+				"id": "107924571",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "mark",
+			"data_leadscore": 26,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "I",
+			"color": "#387aac",
+			"picture": null,
+			"id": "107925391",
+			"indexid": "107925391",
+			"registrationdate": "01/01/2025",
+			"email": "isheatolo@gmail.com",
+			"phone": "667-235-7838",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": ["Exclude from RS Outbound", "Blog", "ALL Customers", "VBOUT Signups"]
+			},
+			"actions": {
+				"data": {
+					"listid": "140572"
+				}
+			},
+			"emailvalidation": {
+				"id": "107925391",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Micheal",
+			"data_leadscore": 16,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "N",
+			"color": "#20395e",
+			"picture": null,
+			"id": "107909748",
+			"indexid": "107909748",
+			"registrationdate": "12/31/2024",
+			"email": "nursingassignmenthelper.io@gmail.com",
+			"phone": "012-179-01920",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": ["Exclude from RS Outbound", "Blog", "ALL Customers", "VBOUT Signups"]
+			},
+			"actions": {
+				"data": {
+					"listid": "140572"
+				}
+			},
+			"emailvalidation": {
+				"id": "107909748",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Pawan",
+			"data_leadscore": 21,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "P",
+			"color": "#f74c62",
+			"picture": null,
+			"id": "107895622",
+			"indexid": "107895622",
+			"registrationdate": "12/30/2024",
+			"email": "pawan.yadav@dyntech.io",
+			"phone": "935-483-4878",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": ["Exclude from RS Outbound", "Blog", "ALL Customers", "VBOUT Signups"]
+			},
+			"actions": {
+				"data": {
+					"listid": "140572"
+				}
+			},
+			"emailvalidation": {
+				"id": "107895622",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"data_leadscore": 15,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "H",
+			"color": "#d80736",
+			"picture": null,
+			"id": "107894978",
+			"indexid": "107894978",
+			"registrationdate": "12/30/2024",
+			"email": "harsh@webxtalk.in",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["Blog", "Blog Subscription"]
+			},
+			"actions": {
+				"data": {
+					"listid": "13849"
+				}
+			},
+			"emailvalidation": {
+				"id": "107894978",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Leslie",
+			"field164333": "",
+			"field164341": "",
+			"data_leadscore": 32,
+			"data_leadstatus": {
+				"label": "Consideration",
+				"color": "#17960c"
+			},
+			"letters": "L",
+			"color": "#6198de",
+			"picture": null,
+			"id": "72838317",
+			"indexid": "72838317",
+			"registrationdate": "12/29/2024",
+			"email": "leslie@visions-group.net",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 7,
+				"labels": [
+					"Lead gen and marketing automation academy course",
+					"E-commerce List",
+					"Exclude from RS Outbound",
+					"ALL Customers",
+					"VBOUT Partners Meeting - Master",
+					"AS Clients",
+					"Demo watched"
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "28474"
+				}
+			},
+			"emailvalidation": {
+				"id": "72838317",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Waqas",
+			"field164352": "ITECHBYTES",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "I",
+			"color": "#387aac",
+			"picture": null,
+			"id": "107879898",
+			"indexid": "107879898",
+			"registrationdate": "12/28/2024",
+			"email": "i@waqasyousuf.com",
+			"phone": "+92 342 2339212",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["Calendly Bookings - New"]
+			},
+			"actions": {
+				"data": {
+					"listid": "23920"
+				}
+			},
+			"emailvalidation": {
+				"id": "107879898",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Juan",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "107875683",
+			"indexid": "107875683",
+			"registrationdate": "12/27/2024",
+			"email": "juan@ciprcommunications.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["Lead gen and marketing automation academy course", "E-commerce List"]
+			},
+			"actions": {
+				"data": {
+					"listid": "28474"
+				}
+			},
+			"emailvalidation": {
+				"id": "107875683",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Felipe",
+			"data_leadscore": 15,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "I",
+			"color": "#387aac",
+			"picture": null,
+			"id": "107809648",
+			"indexid": "107809648",
+			"registrationdate": "12/27/2024",
+			"email": "its.creating.wealth@gmail.com",
+			"phone": "908-568-8900",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": ["Exclude from RS Outbound", "Blog", "ALL Customers", "VBOUT Signups"]
+			},
+			"actions": {
+				"data": {
+					"listid": "140572"
+				}
+			},
+			"emailvalidation": {
+				"id": "107809648",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Nitin",
+			"data_leadscore": 26,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "N",
+			"color": "#20395e",
+			"picture": null,
+			"id": "107809217",
+			"indexid": "107809217",
+			"registrationdate": "12/27/2024",
+			"email": "nitinpdyna@gmail.com",
+			"phone": "919-619-892484",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": ["Exclude from RS Outbound", "Blog", "VBOUT Signups", "ALL Customers"]
+			},
+			"actions": {
+				"data": {
+					"listid": "140572"
+				}
+			},
+			"emailvalidation": {
+				"id": "107809217",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Kamal",
+			"data_leadscore": 41,
+			"data_leadstatus": {
+				"label": "Consideration",
+				"color": "#17960c"
+			},
+			"letters": "K",
+			"color": "#4433b0",
+			"picture": null,
+			"id": "107746219",
+			"indexid": "107746219",
+			"registrationdate": "12/27/2024",
+			"email": "kmlsubba01@gmail.com",
+			"phone": "096-190-20053",
+			"status": "Active",
+			"list_name": {
+				"count": 5,
+				"labels": [
+					"Vbout Retargetting list",
+					"Exclude from RS Outbound",
+					"Blog",
+					"ALL Customers",
+					"VBOUT Signups"
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "538"
+				}
+			},
+			"emailvalidation": {
+				"id": "107746219",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Albert",
+			"data_leadscore": 21,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "A",
+			"color": "#d1d7de",
+			"picture": null,
+			"id": "107806548",
+			"indexid": "107806548",
+			"registrationdate": "12/27/2024",
+			"email": "aj@ajslawncaredallas.com",
+			"phone": "469-434-5931",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": ["Exclude from RS Outbound", "Blog", "VBOUT Signups", "ALL Customers"]
+			},
+			"actions": {
+				"data": {
+					"listid": "140572"
+				}
+			},
+			"emailvalidation": {
+				"id": "107806548",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Derrick",
+			"data_leadscore": 0,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "D",
+			"color": "#56c3ff",
+			"picture": null,
+			"id": "107806473",
+			"indexid": "107806473",
+			"registrationdate": "12/27/2024",
+			"email": "derrick+leadsecretary@leadfunnel.ca",
+			"phone": "226-456-7895",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["ALL Customers", "Agency clients"]
+			},
+			"actions": {
+				"data": {
+					"listid": "244"
+				}
+			},
+			"emailvalidation": {
+				"id": "107806473",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Aaron",
+			"data_leadscore": 0,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "I",
+			"color": "#387aac",
+			"picture": null,
+			"id": "107805595",
+			"indexid": "107805595",
+			"registrationdate": "12/27/2024",
+			"email": "info@vsf.technology",
+			"phone": "813-545-2643",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["Agency clients", "ALL Customers"]
+			},
+			"actions": {
+				"data": {
+					"listid": "10310"
+				}
+			},
+			"emailvalidation": {
+				"id": "107805595",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Prism3.ai",
+			"data_leadscore": 0,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "H",
+			"color": "#d80736",
+			"picture": null,
+			"id": "107795828",
+			"indexid": "107795828",
+			"registrationdate": "12/26/2024",
+			"email": "hello+26@ahvanguard.com",
+			"phone": "555-555-5555",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["ALL Customers", "Agency clients"]
+			},
+			"actions": {
+				"data": {
+					"listid": "244"
+				}
+			},
+			"emailvalidation": {
+				"id": "107795828",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Aniruddh",
+			"data_leadscore": 0,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "A",
+			"color": "#d1d7de",
+			"picture": null,
+			"id": "107776630",
+			"indexid": "107776630",
+			"registrationdate": "12/25/2024",
+			"email": "aniruddh@digikentro.com",
+			"phone": "918-980-094373",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["ALL Customers", "Agency clients"]
+			},
+			"actions": {
+				"data": {
+					"listid": "244"
+				}
+			},
+			"emailvalidation": {
+				"id": "107776630",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "F",
+			"color": "#d24d57",
+			"picture": null,
+			"id": "45990573",
+			"indexid": "45990573",
+			"registrationdate": "12/25/2024",
+			"email": "fazeela@brightbridge.co",
+			"phone": "--",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": [
+					"Vbout Retargetting list",
+					"Exclude from RS Outbound",
+					"ALL Customers",
+					"Agency clients"
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "538"
+				}
+			},
+			"emailvalidation": {
+				"id": "45990573",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"data_leadscore": 27,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "R",
+			"color": "#f4d35d",
+			"picture": null,
+			"id": "62439855",
+			"indexid": "62439855",
+			"registrationdate": "12/25/2024",
+			"email": "ravyfernandes12@gmail.com",
+			"phone": "",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 4,
+				"labels": ["Suppression List", "Exclude from RS Outbound", "Blog", "Competitor Chart "]
+			},
+			"actions": {
+				"data": {
+					"listid": "6074"
+				}
+			},
+			"emailvalidation": {
+				"id": "62439855",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "MUSTURU",
+			"data_leadscore": 21,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "W",
+			"color": "#bf0404",
+			"picture": null,
+			"id": "99205751",
+			"indexid": "99205751",
+			"registrationdate": "12/25/2024",
+			"email": "www.massmanjunath123@gmail.com",
+			"phone": "097-017-13917",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 5,
+				"labels": [
+					"Suppression List",
+					"Exclude from RS Outbound",
+					"Blog",
+					"ALL Customers",
+					"VBOUT Signups"
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "6074"
+				}
+			},
+			"emailvalidation": {
+				"id": "99205751",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Link",
+			"data_leadscore": 0,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "B",
+			"color": "#0d4d70",
+			"picture": null,
+			"id": "107766520",
+			"indexid": "107766520",
+			"registrationdate": "12/24/2024",
+			"email": "boundlestech@gmail.com",
+			"phone": "033-325-29962",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["ALL Customers", "Agency clients"]
+			},
+			"actions": {
+				"data": {
+					"listid": "244"
+				}
+			},
+			"emailvalidation": {
+				"id": "107766520",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Rasel",
+			"data_leadscore": 14,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "R",
+			"color": "#f4d35d",
+			"picture": null,
+			"id": "96781177",
+			"indexid": "96781177",
+			"registrationdate": "12/24/2024",
+			"email": "rasel@subscriptionpro.co",
+			"phone": "+880 1916-755990",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 7,
+				"labels": [
+					"Vbout Retargetting list",
+					"Exclude from RS Outbound",
+					"Suppression List",
+					"Blog",
+					"ALL Customers",
+					"VBOUT Signups",
+					"Calendly Bookings - New"
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "538"
+				}
+			},
+			"emailvalidation": {
+				"id": "96781177",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Junaid",
+			"data_leadscore": 17,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "107768170",
+			"indexid": "107768170",
+			"registrationdate": "12/24/2024",
+			"email": "junaid@levelupmarketplace.com",
+			"phone": "009-233-31725397",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": ["Exclude from RS Outbound", "Blog", "ALL Customers", "VBOUT Signups"]
+			},
+			"actions": {
+				"data": {
+					"listid": "140572"
+				}
+			},
+			"emailvalidation": {
+				"id": "107768170",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "johnny+AppFreeplan",
+			"data_leadscore": 0,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "107767832",
+			"indexid": "107767832",
+			"registrationdate": "12/24/2024",
+			"email": "johnny+AppFreeplan@vbout.com",
+			"phone": "336-336-336",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["Agency clients"]
+			},
+			"actions": {
+				"data": {
+					"listid": "10310"
+				}
+			},
+			"emailvalidation": {
+				"id": "107767832",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "APPcheck",
+			"data_leadscore": 0,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "107766719",
+			"indexid": "107766719",
+			"registrationdate": "12/24/2024",
+			"email": "johnny+APPcheck@vbout.com",
+			"phone": "225-225-225",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["Agency clients"]
+			},
+			"actions": {
+				"data": {
+					"listid": "10310"
+				}
+			},
+			"emailvalidation": {
+				"id": "107766719",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Jean",
+			"data_leadscore": -3,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "84495752",
+			"indexid": "84495752",
+			"registrationdate": "12/24/2024",
+			"email": "jean.gabriel1997@gmail.com",
+			"phone": "551-197-0201072",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 5,
+				"labels": [
+					"Suppression List",
+					"Exclude from RS Outbound",
+					"Blog",
+					"VBOUT Signups",
+					"ALL Customers"
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "6074"
+				}
+			},
+			"emailvalidation": {
+				"id": "84495752",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Abdul",
+			"data_leadscore": -3,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "H",
+			"color": "#d80736",
+			"picture": null,
+			"id": "83654972",
+			"indexid": "83654972",
+			"registrationdate": "12/24/2024",
+			"email": "hardeypejutoyosi@gmail.com",
+			"phone": "080-269-77918",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 5,
+				"labels": [
+					"Suppression List",
+					"Exclude from RS Outbound",
+					"Blog",
+					"VBOUT Signups",
+					"ALL Customers"
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "6074"
+				}
+			},
+			"emailvalidation": {
+				"id": "83654972",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Ron",
+			"data_leadscore": 67,
+			"data_leadstatus": {
+				"label": "Decision",
+				"color": "#1bcaab"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "90100630",
+			"indexid": "90100630",
+			"registrationdate": "12/23/2024",
+			"email": "jay@daa.email",
+			"phone": "096-190-20053",
+			"status": "Active",
+			"list_name": {
+				"count": 5,
+				"labels": [
+					"Vbout Retargetting list",
+					"Exclude from RS Outbound",
+					"Blog",
+					"VBOUT Signups",
+					"ALL Customers"
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "538"
+				}
+			},
+			"emailvalidation": {
+				"id": "90100630",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Ron",
+			"data_leadscore": -13,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "D",
+			"color": "#56c3ff",
+			"picture": null,
+			"id": "90106377",
+			"indexid": "90106377",
+			"registrationdate": "12/23/2024",
+			"email": "davidlumanz@gmail.com",
+			"phone": "096-190-20053",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 6,
+				"labels": [
+					"Vbout Retargetting list",
+					"Suppression List",
+					"Exclude from RS Outbound",
+					"Blog",
+					"VBOUT Signups",
+					"ALL Customers"
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "538"
+				}
+			},
+			"emailvalidation": {
+				"id": "90106377",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "rona",
+			"data_leadscore": 15,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "R",
+			"color": "#f4d35d",
+			"picture": null,
+			"id": "88587078",
+			"indexid": "88587078",
+			"registrationdate": "12/23/2024",
+			"email": "ronamyang@gmail.com",
+			"phone": "096-190-20053",
+			"status": "Active",
+			"list_name": {
+				"count": 5,
+				"labels": [
+					"Vbout Retargetting list",
+					"Exclude from RS Outbound",
+					"Blog",
+					"VBOUT Signups",
+					"ALL Customers"
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "538"
+				}
+			},
+			"emailvalidation": {
+				"id": "88587078",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Yasas",
+			"data_leadscore": 0,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "I",
+			"color": "#387aac",
+			"picture": null,
+			"id": "107670661",
+			"indexid": "107670661",
+			"registrationdate": "12/23/2024",
+			"email": "info@quantumleadsolutions.ca",
+			"phone": "437-557-8116",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["ALL Customers", "Agency clients"]
+			},
+			"actions": {
+				"data": {
+					"listid": "244"
+				}
+			},
+			"emailvalidation": {
+				"id": "107670661",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Ramesh",
+			"data_leadscore": 0,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "Q",
+			"color": "#7de4b1",
+			"picture": null,
+			"id": "107670655",
+			"indexid": "107670655",
+			"registrationdate": "12/23/2024",
+			"email": "quantumleadsolutions.com@gmai.com",
+			"phone": "437-438-7586",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["ALL Customers", "Agency clients"]
+			},
+			"actions": {
+				"data": {
+					"listid": "244"
+				}
+			},
+			"emailvalidation": {
+				"id": "107670655",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Asanka",
+			"data_leadscore": 0,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "A",
+			"color": "#d1d7de",
+			"picture": null,
+			"id": "107670648",
+			"indexid": "107670648",
+			"registrationdate": "12/23/2024",
+			"email": "asankasenarath2@gmail.com",
+			"phone": "947-773-31660",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["ALL Customers", "Agency clients"]
+			},
+			"actions": {
+				"data": {
+					"listid": "244"
+				}
+			},
+			"emailvalidation": {
+				"id": "107670648",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Rishabh",
+			"data_leadscore": 17,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "107668621",
+			"indexid": "107668621",
+			"registrationdate": "12/23/2024",
+			"email": "jainrishabh9170@gmail.com",
+			"phone": "876-566-1815",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": ["Exclude from RS Outbound", "Blog", "ALL Customers", "VBOUT Signups"]
+			},
+			"actions": {
+				"data": {
+					"listid": "140572"
+				}
+			},
+			"emailvalidation": {
+				"id": "107668621",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Producer",
+			"data_leadscore": 0,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "P",
+			"color": "#f74c62",
+			"picture": null,
+			"id": "107663564",
+			"indexid": "107663564",
+			"registrationdate": "12/23/2024",
+			"email": "pm@craftyshoot.com",
+			"phone": "860-538-2739",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["ALL Customers", "Agency clients"]
+			},
+			"actions": {
+				"data": {
+					"listid": "244"
+				}
+			},
+			"emailvalidation": {
+				"id": "107663564",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "le",
+			"data_leadscore": 21,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "L",
+			"color": "#6198de",
+			"picture": null,
+			"id": "107654343",
+			"indexid": "107654343",
+			"registrationdate": "12/22/2024",
+			"email": "lethuy119a@gmail.com",
+			"phone": "090-171-0238",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": ["Exclude from RS Outbound", "Blog", "VBOUT Signups", "ALL Customers"]
+			},
+			"actions": {
+				"data": {
+					"listid": "140572"
+				}
+			},
+			"emailvalidation": {
+				"id": "107654343",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Rick",
+			"data_leadscore": 405,
+			"data_leadstatus": {
+				"label": "Retention",
+				"color": "#30367e"
+			},
+			"letters": "R",
+			"color": "#f4d35d",
+			"picture": null,
+			"id": "29803408",
+			"indexid": "29803408",
+			"registrationdate": "12/21/2024",
+			"email": "rick@delogik.com",
+			"phone": "",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 6,
+				"labels": [
+					"Suppression List",
+					"Exclude from RS Outbound",
+					"Competitor Chart - Excluding February",
+					"Educational Content",
+					"Blog",
+					"Competitor Chart "
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "6074"
+				}
+			},
+			"emailvalidation": {
+				"id": "29803408",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Matthew James Schaaf...",
+			"data_leadscore": 400,
+			"data_leadstatus": {
+				"label": "Retention",
+				"color": "#30367e"
+			},
+			"letters": "M",
+			"color": "#bc90ff",
+			"picture": null,
+			"id": "29002829",
+			"indexid": "29002829",
+			"registrationdate": "12/21/2024",
+			"email": "matt@renewpowermarketing.com",
+			"phone": "",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 5,
+				"labels": [
+					"Suppression List",
+					"Educational Content",
+					"Blog",
+					"Confirmed calendar invite or via calendly - by RICH",
+					"Demo Request "
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "6074"
+				}
+			},
+			"emailvalidation": {
+				"id": "29002829",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Mike Kozub",
+			"data_leadscore": 405,
+			"data_leadstatus": {
+				"label": "Retention",
+				"color": "#30367e"
+			},
+			"letters": "M",
+			"color": "#bc90ff",
+			"picture": null,
+			"id": "26358631",
+			"indexid": "26358631",
+			"registrationdate": "12/21/2024",
+			"email": "mkozub@kayezen.com",
+			"phone": "",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 6,
+				"labels": [
+					"Suppression List",
+					"Exclude from RS Outbound",
+					"Competitor Chart - Excluding February",
+					"Educational Content",
+					"Blog",
+					"Competitor Chart "
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "6074"
+				}
+			},
+			"emailvalidation": {
+				"id": "26358631",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Joanna",
+			"data_leadscore": 230,
+			"data_leadstatus": {
+				"label": "Retention",
+				"color": "#30367e"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "98809333",
+			"indexid": "98809333",
+			"registrationdate": "12/21/2024",
+			"email": "joanna@bearpawpartners.com",
+			"phone": "314-640-9612",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 6,
+				"labels": [
+					"Suppression List",
+					"Zoom: VBOUT Monthly Marketing Meetup",
+					"Exclude from RS Outbound",
+					"Blog",
+					"Vbout Retargetting list",
+					"VBOUT Signups"
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "6074"
+				}
+			},
+			"emailvalidation": {
+				"id": "98809333",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Maria",
+			"data_leadscore": 51,
+			"data_leadstatus": {
+				"label": "Decision",
+				"color": "#1bcaab"
+			},
+			"letters": "M",
+			"color": "#bc90ff",
+			"picture": null,
+			"id": "98444787",
+			"indexid": "98444787",
+			"registrationdate": "12/21/2024",
+			"email": "maria@getblueair.com",
+			"phone": "090-637-41105",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 5,
+				"labels": [
+					"Suppression List",
+					"Exclude from RS Outbound",
+					"Blog",
+					"ALL Customers",
+					"VBOUT Signups"
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "6074"
+				}
+			},
+			"emailvalidation": {
+				"id": "98444787",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Ryan",
+			"data_leadscore": 400,
+			"data_leadstatus": {
+				"label": "Retention",
+				"color": "#30367e"
+			},
+			"letters": "R",
+			"color": "#f4d35d",
+			"picture": null,
+			"id": "15537314",
+			"indexid": "15537314",
+			"registrationdate": "12/21/2024",
+			"email": "ryan@collaborating.com",
+			"phone": "480-414-7245",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 8,
+				"labels": [
+					"Suppression List",
+					"Exclude from RS Outbound",
+					"ALL Customers",
+					"VBOUT Signups",
+					"Newsletter - Including Agency Customers",
+					"Marketing",
+					"Product Updates",
+					"Blog"
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "6074"
+				}
+			},
+			"emailvalidation": {
+				"id": "15537314",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Melody",
+			"data_leadscore": 365,
+			"data_leadstatus": {
+				"label": "Retention",
+				"color": "#30367e"
+			},
+			"letters": "M",
+			"color": "#bc90ff",
+			"picture": null,
+			"id": "12498778",
+			"indexid": "12498778",
+			"registrationdate": "12/21/2024",
+			"email": "melody@roseconcepts.com",
+			"phone": "503-702-5541",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 10,
+				"labels": [
+					"Suppression List",
+					"Exclude from RS Outbound",
+					"ALL Customers",
+					"VBOUT Signups",
+					"Newsletter - Including Agency Customers",
+					"Marketing",
+					"Product Updates",
+					"Blog",
+					"Confirmed calendar invite or via calendly - by RICH",
+					"Inside Sales Leads "
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "6074"
+				}
+			},
+			"emailvalidation": {
+				"id": "12498778",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Idara",
+			"data_leadscore": 85,
+			"data_leadstatus": {
+				"label": "Decision",
+				"color": "#1bcaab"
+			},
+			"letters": "I",
+			"color": "#387aac",
+			"picture": null,
+			"id": "107621557",
+			"indexid": "107621557",
+			"registrationdate": "12/20/2024",
+			"email": "Info@AntorgeGroup.Com",
+			"phone": "619-886-3423",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 4,
+				"labels": ["Blog", "Exclude from RS Outbound", "ALL Customers", "VBOUT Signups"]
+			},
+			"actions": {
+				"data": {
+					"listid": "13849"
+				}
+			},
+			"emailvalidation": {
+				"id": "107621557",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "John",
+			"data_leadscore": 180,
+			"data_leadstatus": {
+				"label": "Conversion",
+				"color": "#b762bb"
+			},
+			"letters": "C",
+			"color": "#1579b0",
+			"picture": null,
+			"id": "107621555",
+			"indexid": "107621555",
+			"registrationdate": "12/20/2024",
+			"email": "ciechole@gmail.com",
+			"phone": "224-766-2366",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": ["Blog", "Exclude from RS Outbound", "ALL Customers", "VBOUT Signups"]
+			},
+			"actions": {
+				"data": {
+					"listid": "13849"
+				}
+			},
+			"emailvalidation": {
+				"id": "107621555",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Hannah",
+			"data_leadscore": 15,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "H",
+			"color": "#d80736",
+			"picture": null,
+			"id": "107619464",
+			"indexid": "107619464",
+			"registrationdate": "12/20/2024",
+			"email": "hannahg@automatedxp.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["Lead gen and marketing automation academy course", "E-commerce List"]
+			},
+			"actions": {
+				"data": {
+					"listid": "28474"
+				}
+			},
+			"emailvalidation": {
+				"id": "107619464",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Nadezhda",
+			"data_leadscore": 15,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "R",
+			"color": "#f4d35d",
+			"picture": null,
+			"id": "107616094",
+			"indexid": "107616094",
+			"registrationdate": "12/20/2024",
+			"email": "richkillarionova@gmail.com",
+			"phone": "929-225-7321",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": ["Exclude from RS Outbound", "Blog", "ALL Customers", "VBOUT Signups"]
+			},
+			"actions": {
+				"data": {
+					"listid": "140572"
+				}
+			},
+			"emailvalidation": {
+				"id": "107616094",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Info",
+			"data_leadscore": 0,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "S",
+			"color": "#8493a8",
+			"picture": null,
+			"id": "107614392",
+			"indexid": "107614392",
+			"registrationdate": "12/20/2024",
+			"email": "support@tendypos.com",
+			"phone": "437-826-3754",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["ALL Customers", "Agency clients"]
+			},
+			"actions": {
+				"data": {
+					"listid": "244"
+				}
+			},
+			"emailvalidation": {
+				"id": "107614392",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Joseph",
+			"field164352": "iheed",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "107608853",
+			"indexid": "107608853",
+			"registrationdate": "12/20/2024",
+			"email": "josephdoherty@iheed.org",
+			"phone": "+353 83 867 1831",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["Calendly Bookings - New"]
+			},
+			"actions": {
+				"data": {
+					"listid": "23920"
+				}
+			},
+			"emailvalidation": {
+				"id": "107608853",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "PROP",
+			"data_leadscore": 0,
+			"data_leadstatus": {
+				"label": "Poor Data",
+				"color": "#f00000"
+			},
+			"letters": "H",
+			"color": "#d80736",
+			"picture": null,
+			"id": "107600325",
+			"indexid": "107600325",
+			"registrationdate": "12/20/2024",
+			"email": "hello@mailer.propmktg.com",
+			"phone": "923-111-100141",
+			"status": "Active",
+			"list_name": {
+				"count": 2,
+				"labels": ["ALL Customers", "Agency clients"]
+			},
+			"actions": {
+				"data": {
+					"listid": "244"
+				}
+			},
+			"emailvalidation": {
+				"id": "107600325",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "SemicolonITES",
+			"data_leadscore": 15,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "S",
+			"color": "#8493a8",
+			"picture": null,
+			"id": "107608122",
+			"indexid": "107608122",
+			"registrationdate": "12/20/2024",
+			"email": "semicolonites.graphics@gmail.com",
+			"phone": "702-953-4340",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": ["Exclude from RS Outbound", "Blog", "ALL Customers", "VBOUT Signups"]
+			},
+			"actions": {
+				"data": {
+					"listid": "140572"
+				}
+			},
+			"emailvalidation": {
+				"id": "107608122",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Anshuman",
+			"data_leadscore": 15,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "A",
+			"color": "#d1d7de",
+			"picture": null,
+			"id": "107607965",
+			"indexid": "107607965",
+			"registrationdate": "12/19/2024",
+			"email": "anshumansworld@gmail.com",
+			"phone": "901-355-9351",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": ["Exclude from RS Outbound", "Blog", "VBOUT Signups", "ALL Customers"]
+			},
+			"actions": {
+				"data": {
+					"listid": "140572"
+				}
+			},
+			"emailvalidation": {
+				"id": "107607965",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "A",
+			"color": "#d1d7de",
+			"picture": null,
+			"id": "107607950",
+			"indexid": "107607950",
+			"registrationdate": "12/19/2024",
+			"email": "anshuman@exaltation.tech",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["Vbout Retargetting list"]
+			},
+			"actions": {
+				"data": {
+					"listid": "538"
+				}
+			},
+			"emailvalidation": {
+				"id": "107607950",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "D",
+			"color": "#56c3ff",
+			"picture": null,
+			"id": "107607943",
+			"indexid": "107607943",
+			"registrationdate": "12/19/2024",
+			"email": "dev@agegroup.io",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["Vbout Retargetting list"]
+			},
+			"actions": {
+				"data": {
+					"listid": "538"
+				}
+			},
+			"emailvalidation": {
+				"id": "107607943",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Whitney",
+			"data_leadscore": 145,
+			"data_leadstatus": {
+				"label": "Conversion",
+				"color": "#b762bb"
+			},
+			"letters": "W",
+			"color": "#bf0404",
+			"picture": null,
+			"id": "106356892",
+			"indexid": "106356892",
+			"registrationdate": "12/19/2024",
+			"email": "whitney@gofit2fly.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 5,
+				"labels": [
+					"Exclude from RS Outbound",
+					"Blog",
+					"VBOUT Signups",
+					"ALL Customers",
+					"LinkedIn - chatbot"
+				]
+			},
+			"actions": {
+				"data": {
+					"listid": "140572"
+				}
+			},
+			"emailvalidation": {
+				"id": "106356892",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "W",
+			"color": "#bf0404",
+			"picture": null,
+			"id": "107607406",
+			"indexid": "107607406",
+			"registrationdate": "12/19/2024",
+			"email": "whitneyluxford@hotmail.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["Vbout Retargetting list"]
+			},
+			"actions": {
+				"data": {
+					"listid": "538"
+				}
+			},
+			"emailvalidation": {
+				"id": "107607406",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Sharlene",
+			"data_leadscore": 26,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "M",
+			"color": "#bc90ff",
+			"picture": null,
+			"id": "107606069",
+			"indexid": "107606069",
+			"registrationdate": "12/19/2024",
+			"email": "meakinsam51@gmail.com",
+			"phone": "208-315-5074",
+			"status": "Active",
+			"list_name": {
+				"count": 4,
+				"labels": ["Blog", "Exclude from RS Outbound", "ALL Customers", "VBOUT Signups"]
+			},
+			"actions": {
+				"data": {
+					"listid": "13849"
+				}
+			},
+			"emailvalidation": {
+				"id": "107606069",
+				"label": "Not Verified",
+				"background": "#cccccc",
+				"status": "not-verified"
+			}
+		},
+		{
+			"field719": "Jennica",
+			"field164341": "http://www.akashayoga.net",
+			"field164352": "Akasha Yoga",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "107598141",
+			"indexid": "107598141",
+			"registrationdate": "12/19/2024",
+			"email": "jennica@neurogenicyoga.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598141",
+				"label": "Neutral",
+				"background": "#00ffff",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Steve",
+			"field164341": "http://www.nutralifelabs.com",
+			"field164352": "Nutralife Wellness",
+			"field164355": "",
+			"data_leadscore": 25,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "S",
+			"color": "#8493a8",
+			"picture": null,
+			"id": "107598140",
+			"indexid": "107598140",
+			"registrationdate": "12/19/2024",
+			"email": "steve@nutralifewellness.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598140",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Gloria",
+			"field164341": "http://www.creamerphysicaltherapy.com",
+			"field164352": "Creamer Physical The...",
+			"field164355": "",
+			"data_leadscore": 25,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "G",
+			"color": "#a23672",
+			"picture": null,
+			"id": "107598135",
+			"indexid": "107598135",
+			"registrationdate": "12/19/2024",
+			"email": "gloria@creamerpt.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598135",
+				"label": "Unknown",
+				"background": "#0000ff",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Jess",
+			"field164341": "http://www.surfline.com",
+			"field164352": "Surfline\\Wavetrak",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "107598139",
+			"indexid": "107598139",
+			"registrationdate": "12/19/2024",
+			"email": "jcarthey@surfline.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598139",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Liza",
+			"field164341": "http://www.sandiegowellnesssource.com",
+			"field164352": "San Diego Wellness S...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "L",
+			"color": "#6198de",
+			"picture": null,
+			"id": "107598136",
+			"indexid": "107598136",
+			"registrationdate": "12/19/2024",
+			"email": "liza@sdwellnesssource.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598136",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "William",
+			"field164341": "http://www.arcpointlabs.com",
+			"field164352": "ARCpoint Labs of Nor...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "W",
+			"color": "#bf0404",
+			"picture": null,
+			"id": "107598138",
+			"indexid": "107598138",
+			"registrationdate": "12/19/2024",
+			"email": "wsandberg@arcpointlabs.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598138",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Karen",
+			"field164341": "http://www.fireflywellnessdayspa.com",
+			"field164352": "Firefly Wellness",
+			"field164355": "",
+			"data_leadscore": 15,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "K",
+			"color": "#4433b0",
+			"picture": null,
+			"id": "107598137",
+			"indexid": "107598137",
+			"registrationdate": "12/19/2024",
+			"email": "karen@fireflywellnessdayspa.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598137",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Kelly",
+			"field164341": "http://www.gcccd.edu",
+			"field164352": "Grossmont-Cuyamaca C...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "K",
+			"color": "#4433b0",
+			"picture": null,
+			"id": "107598131",
+			"indexid": "107598131",
+			"registrationdate": "12/19/2024",
+			"email": "kelly.clark@gcccd.edu",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598131",
+				"label": "Neutral",
+				"background": "#00ffff",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Elizabeth",
+			"field164341": "http://www.pacificwellness.nl",
+			"field164352": "Pacific Wellness",
+			"field164355": "",
+			"data_leadscore": 25,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "L",
+			"color": "#6198de",
+			"picture": null,
+			"id": "107598133",
+			"indexid": "107598133",
+			"registrationdate": "12/19/2024",
+			"email": "liz@pacificwellnessteam.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598133",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Cory",
+			"field164341": "http://www.emfsol.com",
+			"field164352": "EMF Solutions",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "C",
+			"color": "#1579b0",
+			"picture": null,
+			"id": "107598132",
+			"indexid": "107598132",
+			"registrationdate": "12/19/2024",
+			"email": "cory@premier33.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598132",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Rich",
+			"field164341": "http://www.cccpoway.com",
+			"field164352": "Community Chiropract...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "D",
+			"color": "#56c3ff",
+			"picture": null,
+			"id": "107598134",
+			"indexid": "107598134",
+			"registrationdate": "12/19/2024",
+			"email": "drdoss@cccpoway.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598134",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Karen",
+			"field164341": "http://www.propelpilates.com",
+			"field164352": "Propel Pilates and F...",
+			"field164355": "",
+			"data_leadscore": 15,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "K",
+			"color": "#4433b0",
+			"picture": null,
+			"id": "107598129",
+			"indexid": "107598129",
+			"registrationdate": "12/19/2024",
+			"email": "karen@propelpilates.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598129",
+				"label": "Unknown",
+				"background": "#0000ff",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Gordon",
+			"field164341": "http://www.mobilemusculartherapy.com",
+			"field164352": "Mobile Muscular Ther...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "G",
+			"color": "#a23672",
+			"picture": null,
+			"id": "107598128",
+			"indexid": "107598128",
+			"registrationdate": "12/19/2024",
+			"email": "gordon@mmtherapy.com",
+			"phone": "",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598128",
+				"label": "Undeliverable",
+				"background": "#cc0000",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "January",
+			"field164341": "http://www.sailsandiego.com",
+			"field164352": "Sail San Diego",
+			"field164355": "",
+			"data_leadscore": 15,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "107598127",
+			"indexid": "107598127",
+			"registrationdate": "12/19/2024",
+			"email": "january@sailsandiego.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598127",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Frank",
+			"field164341": "http://www.designermoleculesinc.com",
+			"field164352": "Designer Molecules",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "F",
+			"color": "#d24d57",
+			"picture": null,
+			"id": "107598130",
+			"indexid": "107598130",
+			"registrationdate": "12/19/2024",
+			"email": "fhusson@designermoleculesinc.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598130",
+				"label": "Neutral",
+				"background": "#00ffff",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Savannah",
+			"field164341": "http://www.swccd.edu",
+			"field164352": "Southwestern Communi...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "S",
+			"color": "#8493a8",
+			"picture": null,
+			"id": "107598123",
+			"indexid": "107598123",
+			"registrationdate": "12/19/2024",
+			"email": "sshapley@swccd.edu",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598123",
+				"label": "Unknown",
+				"background": "#0000ff",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Douglas",
+			"field164341": "http://www.millschiropracticoffice.com",
+			"field164352": "Mills Chiropractic O...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "H",
+			"color": "#d80736",
+			"picture": null,
+			"id": "107598126",
+			"indexid": "107598126",
+			"registrationdate": "12/19/2024",
+			"email": "healthcoach@san.rr.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598126",
+				"label": "Unknown",
+				"background": "#0000ff",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Derek",
+			"field164341": "http://www.yourfitnessedge.com",
+			"field164352": "Edge Fitness Persona...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "D",
+			"color": "#56c3ff",
+			"picture": null,
+			"id": "107598124",
+			"indexid": "107598124",
+			"registrationdate": "12/19/2024",
+			"email": "derek@yourfitnessedge.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598124",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Tina",
+			"field164341": "http://www.hapayoga.com",
+			"field164352": "SeaSpine",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "T",
+			"color": "#74acd0",
+			"picture": null,
+			"id": "107598122",
+			"indexid": "107598122",
+			"registrationdate": "12/19/2024",
+			"email": "tina@hapayoga.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598122",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Elizabeth",
+			"field164341": "http://www.embodimentarts.com",
+			"field164352": "Embodiment Arts",
+			"field164355": "",
+			"data_leadscore": 15,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "E",
+			"color": "#c98fe0",
+			"picture": null,
+			"id": "107598125",
+			"indexid": "107598125",
+			"registrationdate": "12/19/2024",
+			"email": "elizabeth@embodimentarts.com",
+			"phone": "",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598125",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Sean",
+			"field164341": "http://www.thefitlabsd.com",
+			"field164352": "The Fit Lab SD",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "S",
+			"color": "#8493a8",
+			"picture": null,
+			"id": "107598119",
+			"indexid": "107598119",
+			"registrationdate": "12/19/2024",
+			"email": "sean@thefitlabsd.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598119",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Josh",
+			"field164341": "http://www.fcfcoaching.com",
+			"field164352": "Full Circle Fitness ...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "107598120",
+			"indexid": "107598120",
+			"registrationdate": "12/19/2024",
+			"email": "josh@fcfcoaching.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598120",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "David",
+			"field164341": "http://www.drchrisgreen.com",
+			"field164352": "The Art of Dentistry...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "D",
+			"color": "#56c3ff",
+			"picture": null,
+			"id": "107598121",
+			"indexid": "107598121",
+			"registrationdate": "12/19/2024",
+			"email": "drlandau@sandiegoartofdentistry.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598121",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Paul",
+			"field164341": "http://www.parisispeedschoolsd.com",
+			"field164352": "Parisi Speed School ...",
+			"field164355": "",
+			"data_leadscore": 25,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "P",
+			"color": "#f74c62",
+			"picture": null,
+			"id": "107598117",
+			"indexid": "107598117",
+			"registrationdate": "12/19/2024",
+			"email": "paul@parisispeedschoolsd.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598117",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Eric",
+			"field164341": "http://www.ejchiropractic.com",
+			"field164352": "EJ Chiropractic",
+			"field164355": "",
+			"data_leadscore": 25,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "D",
+			"color": "#56c3ff",
+			"picture": null,
+			"id": "107598113",
+			"indexid": "107598113",
+			"registrationdate": "12/19/2024",
+			"email": "drgross@ejchiropractic.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598113",
+				"label": "Neutral",
+				"background": "#00ffff",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Ryan",
+			"field164341": "http://www.road2recovery.com",
+			"field164352": "Road 2 Recovery",
+			"field164355": "",
+			"data_leadscore": 15,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "R",
+			"color": "#f4d35d",
+			"picture": null,
+			"id": "107598116",
+			"indexid": "107598116",
+			"registrationdate": "12/19/2024",
+			"email": "rmccarthy@rynopower.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598116",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Ziba",
+			"field164341": "http://www.lavande-spa.com",
+			"field164352": "Lavande Spa",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "Z",
+			"color": "#00aced",
+			"picture": null,
+			"id": "107598114",
+			"indexid": "107598114",
+			"registrationdate": "12/19/2024",
+			"email": "zarianpour@lavande-spa.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598114",
+				"label": "Neutral",
+				"background": "#00ffff",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Leah",
+			"field164341": "http://www.zensanctuary.com",
+			"field164352": "Zen Sanctuary",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "L",
+			"color": "#6198de",
+			"picture": null,
+			"id": "107598115",
+			"indexid": "107598115",
+			"registrationdate": "12/19/2024",
+			"email": "leah@zensanctuary.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598115",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Jennifer",
+			"field164341": "http://www.m2performancenutrition.com",
+			"field164352": "M2 Performance Nutri...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "107598110",
+			"indexid": "107598110",
+			"registrationdate": "12/19/2024",
+			"email": "jenny@m2performancenutrition.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598110",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Peter",
+			"field164341": "http://www.kw.com",
+			"field164352": "Keller Williams",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "P",
+			"color": "#f74c62",
+			"picture": null,
+			"id": "107598108",
+			"indexid": "107598108",
+			"registrationdate": "12/19/2024",
+			"email": "peterdursi@kw.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598108",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Julie",
+			"field164341": "http://www.protocolsportsystems.com",
+			"field164352": "Pro To Col Sport",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "J",
+			"color": "#25c6be",
+			"picture": null,
+			"id": "107598112",
+			"indexid": "107598112",
+			"registrationdate": "12/19/2024",
+			"email": "julie@protocolsportsystems.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598112",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Kevin",
+			"field164341": "http://www.puremotionfitness.com",
+			"field164352": "Pure Motion Fitness",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "M",
+			"color": "#bc90ff",
+			"picture": null,
+			"id": "107598111",
+			"indexid": "107598111",
+			"registrationdate": "12/19/2024",
+			"email": "moses@mosesinhomefitness.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598111",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Rumel",
+			"field164341": "http://www.drrumel.com",
+			"field164352": "Pro Spine & Sport So...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "D",
+			"color": "#56c3ff",
+			"picture": null,
+			"id": "107598109",
+			"indexid": "107598109",
+			"registrationdate": "12/19/2024",
+			"email": "drllantada@sdcenterforhealth.com",
+			"phone": "",
+			"status": "Bounced Email",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598109",
+				"label": "Unknown",
+				"background": "#0000ff",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Milena",
+			"field164341": "http://www.nextwaveins.com",
+			"field164352": "Next Wave Insurance ...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "M",
+			"color": "#bc90ff",
+			"picture": null,
+			"id": "107598105",
+			"indexid": "107598105",
+			"registrationdate": "12/19/2024",
+			"email": "milena@nextwaveins.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598105",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Veronica",
+			"field164341": "http://www.marathon.health",
+			"field164352": "Marathon Health",
+			"field164355": "",
+			"data_leadscore": 15,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "V",
+			"color": "#919147",
+			"picture": null,
+			"id": "107598106",
+			"indexid": "107598106",
+			"registrationdate": "12/19/2024",
+			"email": "veronica.palomino@marathon.health",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598106",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Sophie",
+			"field164341": "http://www.syhc.org",
+			"field164352": "San Diego PACE",
+			"field164355": "",
+			"data_leadscore": 3,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "S",
+			"color": "#8493a8",
+			"picture": null,
+			"id": "107598104",
+			"indexid": "107598104",
+			"registrationdate": "12/19/2024",
+			"email": "sophie.loberg@syhc.org",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598104",
+				"label": "Unknown",
+				"background": "#0000ff",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Shari",
+			"field164341": "http://www.healthytouchmassages.com",
+			"field164352": "Healthy Touch Therap...",
+			"field164355": "",
+			"data_leadscore": 3,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "S",
+			"color": "#8493a8",
+			"picture": null,
+			"id": "107598107",
+			"indexid": "107598107",
+			"registrationdate": "12/19/2024",
+			"email": "shari.grayson@healthytouchmn.com",
+			"phone": "",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598107",
+				"label": "Undeliverable",
+				"background": "#cc0000",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Lori",
+			"field164341": "http://www.fertileturtleacupuncture.com",
+			"field164352": "Fertile Turtle Acupu...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "L",
+			"color": "#6198de",
+			"picture": null,
+			"id": "107598102",
+			"indexid": "107598102",
+			"registrationdate": "12/19/2024",
+			"email": "lwilson@fertileturtleacupuncture.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598102",
+				"label": "Unknown",
+				"background": "#0000ff",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "PJ",
+			"field164341": "http://www.centricbrands.com",
+			"field164352": "The Lemon Collection...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "P",
+			"color": "#f74c62",
+			"picture": null,
+			"id": "107598100",
+			"indexid": "107598100",
+			"registrationdate": "12/19/2024",
+			"email": "pchermak@centricbrands.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598100",
+				"label": "Neutral",
+				"background": "#00ffff",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Samantha",
+			"field164341": "http://www.waxitbabe.ca",
+			"field164352": "Wax It Babe",
+			"field164355": "",
+			"data_leadscore": 3,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "S",
+			"color": "#8493a8",
+			"picture": null,
+			"id": "107598103",
+			"indexid": "107598103",
+			"registrationdate": "12/19/2024",
+			"email": "samantha.smith@waxitbabe.com",
+			"phone": "",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598103",
+				"label": "Undeliverable",
+				"background": "#cc0000",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Lindsay",
+			"field164341": "http://www.nutritioninstincts.com",
+			"field164352": "Nutrition Instincts",
+			"field164355": "",
+			"data_leadscore": 15,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "L",
+			"color": "#6198de",
+			"picture": null,
+			"id": "107598101",
+			"indexid": "107598101",
+			"registrationdate": "12/19/2024",
+			"email": "lindsay@nutritioninstincts.com",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598101",
+				"label": "Valid",
+				"background": "#00f00",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Nina",
+			"field164341": "http://www.bodyfit.co.uk",
+			"field164352": "BodyFit",
+			"field164355": "",
+			"data_leadscore": 25,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "N",
+			"color": "#20395e",
+			"picture": null,
+			"id": "107598098",
+			"indexid": "107598098",
+			"registrationdate": "12/19/2024",
+			"email": "nina@bodyfitsandiego.com",
+			"phone": "",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598098",
+				"label": "Unknown",
+				"background": "#0000ff",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Gerhard",
+			"field164341": "http://www.ucsd.edu",
+			"field164352": "University of Califo...",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "G",
+			"color": "#a23672",
+			"picture": null,
+			"id": "107598095",
+			"indexid": "107598095",
+			"registrationdate": "12/19/2024",
+			"email": "ggessner@ucsd.edu",
+			"phone": "",
+			"status": "Unsubscribed",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598095",
+				"label": "Undeliverable",
+				"background": "#cc0000",
+				"status": "verified"
+			}
+		},
+		{
+			"field719": "Alejandra",
+			"field164341": "http://www.revive.md",
+			"field164352": "Revive Med Spa",
+			"field164355": "",
+			"data_leadscore": 5,
+			"data_leadstatus": {
+				"label": "Awareness",
+				"color": "#e6b58e"
+			},
+			"letters": "A",
+			"color": "#d1d7de",
+			"picture": null,
+			"id": "107598096",
+			"indexid": "107598096",
+			"registrationdate": "12/19/2024",
+			"email": "aparsons@revive.md",
+			"phone": "",
+			"status": "Active",
+			"list_name": {
+				"count": 1,
+				"labels": ["LinkedIn - chatbot"]
+			},
+			"actions": {
+				"data": {
+					"listid": "146789"
+				}
+			},
+			"emailvalidation": {
+				"id": "107598096",
+				"label": "Neutral",
+				"background": "#00ffff",
+				"status": "verified"
+			}
+		}
+	],
+	"contactsActive": "134369",
+	"contactsTotal": "177801",
+	"recordsFiltered": "177801",
+	"recordsTotal": "177801",
+	"status": "success"
+}

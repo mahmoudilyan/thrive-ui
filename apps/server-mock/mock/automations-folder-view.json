@@ -1,0 +1,297 @@
+{
+  "data": [
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "9473",
+      "folderName": "Cold Nurture Sequence",
+      "folderItems": 1,
+      "id": "9473",
+      "name": "Cold Nurture Sequence",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "Automation/Folder/9473"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "Monday 08/11/2025 07:16 AM",
+      "completed": "-",
+      "pending": "-",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "8167",
+      "folderName": "Social Media and Chatbot automation - Richard",
+      "folderItems": 5,
+      "id": "8167",
+      "name": "Social Media and Chatbot automation - Richard",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "Automation/Folder/8167"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "Tuesday 11/26/2024 07:44 PM",
+      "completed": "-",
+      "pending": "-",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "5674",
+      "folderName": "Outbound Lists RS",
+      "folderItems": 19,
+      "id": "5674",
+      "name": "Outbound Lists RS",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "Automation/Folder/5674"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "Thursday 03/14/2024 02:06 PM",
+      "completed": "-",
+      "pending": "-",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2579",
+      "folderName": "Offline Events Campaigns",
+      "folderItems": 3,
+      "id": "2579",
+      "name": "Offline Events Campaigns",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "Automation/Folder/2579"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "Wednesday 12/14/2022 08:01 AM",
+      "completed": "-",
+      "pending": "-",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2578",
+      "folderName": "Lead Gen Campaigns",
+      "folderItems": 2,
+      "id": "2578",
+      "name": "Lead Gen Campaigns",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "Automation/Folder/2578"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "Wednesday 12/14/2022 08:00 AM",
+      "completed": "-",
+      "pending": "-",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2577",
+      "folderName": "Assigning Tags",
+      "folderItems": 1,
+      "id": "2577",
+      "name": "Assigning Tags",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "Automation/Folder/2577"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "Wednesday 12/14/2022 07:45 AM",
+      "completed": "-",
+      "pending": "-",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2576",
+      "folderName": "Web Push Campaigns",
+      "folderItems": 3,
+      "id": "2576",
+      "name": "Web Push Campaigns",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "Automation/Folder/2576"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "Wednesday 12/14/2022 07:45 AM",
+      "completed": "-",
+      "pending": "-",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2575",
+      "folderName": "Team Notifications",
+      "folderItems": 1,
+      "id": "2575",
+      "name": "Team Notifications",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "Automation/Folder/2575"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "Wednesday 12/14/2022 07:43 AM",
+      "completed": "-",
+      "pending": "-",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2574",
+      "folderName": "COVID Campaigns",
+      "folderItems": 1,
+      "id": "2574",
+      "name": "COVID Campaigns",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "Automation/Folder/2574"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "Wednesday 12/14/2022 07:37 AM",
+      "completed": "-",
+      "pending": "-",
+      "status-label": "-"
+    },
+    {
+      "indexid": "icon-folder",
+      "rowtype": "folder",
+      "folderId": "2573",
+      "folderName": "Agency Campaigns",
+      "folderItems": 1,
+      "id": "2573",
+      "name": "Agency Campaigns",
+      "actionslist": {
+        "master": {
+          "text": "View",
+          "goToView": "Automation/Folder/2573"
+        },
+        "list": {
+          "rename": {
+            "text": "Rename Folder",
+            "className": "actionEditFolder"
+          },
+          "delete": {
+            "text": "Delete Folder",
+            "className": "actionDeleteFolder"
+          }
+        }
+      },
+      "created_on": "Wednesday 12/14/2022 07:33 AM",
+      "completed": "-",
+      "pending": "-",
+      "status-label": "-"
+    }
+  ],
+  "draw": 1,
+  "recordsTotal": "268",
+  "recordsFiltered": "268"
+}

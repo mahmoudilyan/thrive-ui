@@ -1,0 +1,35 @@
+{
+	"tabs": [
+		{
+			"id": "messages",
+			"name": "Direct Messages",
+			"visible": 1
+		},
+		{
+			"id": "tags",
+			"name": "Tagged Posts",
+			"visible": 1
+		},
+		{
+			"id": "reviews",
+			"name": "Reviews",
+			"visible": 1
+		},
+		{
+			"id": "darkPosts",
+			"name": "Ads Feed",
+			"visible": 1
+		},
+		{
+			"id": "feeds",
+			"name": "News Feed",
+			"visible": 1
+		}
+	],
+	"socialTabs": null,
+	"isHashtags": 0,
+	"isSearch": 0,
+	"isPlaylistVideo": 0,
+	"playlistTabs": [],
+	"status": "success"
+}

@@ -1,0 +1,43 @@
+{
+	"data": [
+		{
+			"type": {
+				"reference": "destination",
+				"label": "Destination URL",
+				"sub_label": "/blog/5-marketo-alternatives-you-should-consider-in-2024/",
+				"icon": "images/goal-types/destination_url.svg"
+			},
+			"value": "(N/A)",
+			"id": "4161",
+			"goal_name": "Reached the Marketo Alternatives Blog",
+			"domain": {
+				"name": "https://www.vbout.com",
+				"verified": 1
+			},
+			"achieved": "32",
+			"status": 1,
+			"actions": {
+				"addtotask": {
+					"text": "Add To Task",
+					"className": "actionAddGoalToTask"
+				},
+				"createnewtask": {
+					"text": "Create New Task",
+					"className": "actionCreateTaskWithGoal"
+				},
+				"attachtoassetgroup": {
+					"text": "Attach To Campaign Group",
+					"className": "actionAttachToCampaignAssets"
+				},
+				"folder": {
+					"text": "Add To Folder",
+					"className": "actionAddToFolder"
+				}
+			},
+			"folder_name": ""
+		}
+	],
+	"draw": 1,
+	"recordsTotal": "1",
+	"recordsFiltered": "1"
+}

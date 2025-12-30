@@ -1,0 +1,158 @@
+---
+title: Page Section
+description: A layout component for page headers with breadcrumb navigation, titles, and action buttons
+category: Components
+status: stable
+keywords:
+  - page section
+  - layout
+  - header
+  - breadcrumbs
+  - navigation
+  - page header
+lastUpdated: 2025-01-27
+---
+
+<ComponentPageHeader
+	title="Page Section"
+	description="A layout component for page headers with breadcrumb navigation, titles, and action buttons"
+	status="stable"
+	category="Components"
+/>
+
+## Overview
+
+A layout component for page headers with breadcrumb navigation, titles, and action buttons. Provides consistent spacing and layout patterns across applications.
+
+<InfoCallout type="info" title="When to Use">
+Use Page Section at the top of every page to provide context, navigation, and primary actions. It ensures consistent page structure throughout your application.
+</InfoCallout>
+
+## Basic Usage
+
+<CodeExample
+	title="Simple Page Title"
+	description="Basic page with just a title"
+	code={`<PageSection pageTitle="Dashboard" />`}
+	preview={
+		<div className="bg-bg p-4 rounded-lg">
+			<PageSection pageTitle="Dashboard" />
+		</div>
+	}
+/>
+
+## With Breadcrumbs
+
+<CodeExample
+	title="Breadcrumb Navigation"
+	description="Hierarchical navigation showing page context"
+	code={`<PageSection
+  breadcrumbs={[
+    { label: 'Home', href: '/' },
+    { label: 'Projects', href: '/projects' },
+    { label: 'Website Redesign' }
+  ]}
+/>`}
+	preview={
+		<div className="bg-bg p-4 rounded-lg">
+			<PageSection
+				breadcrumbs={[
+					{ label: 'Home', href: '/' },
+					{ label: 'Projects', href: '/projects' },
+					{ label: 'Website Redesign' }
+				]}
+			/>
+		</div>
+	}
+/>
+
+## With Actions
+
+<PageSectionWithActionsExample />
+
+## With Overflow Menu
+
+<PageSectionWithOverflowExample />
+
+## With Sidebar Toggle
+
+<PageSectionWithSidebarToggleExample />
+
+## Create Wizard Variant
+
+<PageSectionWizardExample />
+
+## Full Example
+
+<CodeExample
+	title="Complete Page Header"
+	description="All features combined"
+	code={`<PageSection
+  breadcrumbs={[
+    { label: 'Home', href: '/' },
+    { label: 'Projects', href: '/projects' },
+    { label: 'Website Redesign' }
+  ]}
+  primaryAction={{
+    label: 'Save Changes',
+    onClick: () => {}
+  }}
+  secondaryActions={[
+    { label: 'Preview', href: '/preview', onClick: () => {} },
+    { label: 'Publish', href: '/publish', onClick: () => {} }
+  ]}
+  otherActions={[
+    { label: 'Settings', onClick: () => {} },
+    { label: 'Duplicate', onClick: () => {} },
+    { label: 'Archive', onClick: () => {} }
+  ]}
+  showSidebarToggle
+/>`}
+/>
+
+## Best Practices
+
+<GuidelinesGrid>
+	<Guideline type="do" title="Use on every page">
+		Include Page Section at the top of every page for consistency. It helps users understand where they are.
+	</Guideline>
+	
+	<Guideline type="do" title="Provide breadcrumbs for deep pages">
+		For pages more than 2 levels deep, include breadcrumbs to show the navigation hierarchy.
+	</Guideline>
+	
+	<Guideline type="do" title="Limit primary actions">
+		Use only one primary action per page. This helps users focus on the most important action.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't overload with actions">
+		Keep secondary actions to 2-3 buttons. Move less important actions to the overflow menu.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't use without context">
+		Always provide either a pageTitle or breadcrumbs. Users need to know where they are.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't nest page sections">
+		Only use one Page Section per page, at the top level. Don't nest them within other components.
+	</Guideline>
+</GuidelinesGrid>
+
+## Props
+
+<Props componentName="PageSection" />
+
+## Accessibility
+
+<InfoCallout type="info" title="Breadcrumb Navigation">
+Breadcrumbs use proper ARIA navigation landmarks and list structure for screen reader compatibility.
+</InfoCallout>
+
+- Breadcrumbs use `<nav>` and `<ol>` for proper semantic structure
+- Provide clear, descriptive labels for all actions
+- Ensure keyboard navigation works for all interactive elements
+- Use `aria-label` for the breadcrumb navigation
+- Current page in breadcrumbs should have `aria-current="page"`
+- Sidebar toggle should have appropriate ARIA attributes
+- Ensure sufficient color contrast for all text and icons
+

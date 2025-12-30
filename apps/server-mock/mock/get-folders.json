@@ -1,0 +1,32 @@
+{
+	"data": [
+		{
+			"id": "8167",
+			"name": "Social Media and Chatbot automation - Richard",
+			"created_on": "11/25/2024"
+		},
+		{
+			"id": "7804",
+			"name": "Top 10 Influencers Campaign",
+			"created_on": "09/25/2024"
+		},
+		{
+			"id": "7801",
+			"name": "Webinar Campaign for Leads",
+			"created_on": "09/25/2024"
+		},
+		{
+			"id": "6045",
+			"name": "Outbound Influencers",
+			"created_on": "05/08/2024"
+		},
+		{
+			"id": "5674",
+			"name": "Outbound Lists RS",
+			"created_on": "03/14/2024"
+		}
+	],
+	"draw": 1,
+	"recordsTotal": "37",
+	"recordsFiltered": "37"
+}

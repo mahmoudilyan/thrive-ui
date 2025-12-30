@@ -1,0 +1,38 @@
+@import 'tailwindcss';
+
+@layer base {
+	:root {
+		/* Data Table Spacing Variables */
+		--spacing-page-section-height: 60px;
+		--spacing-data-table-header-actions-height: 80px;
+		--spacing-data-table-footer-height: 60px;
+
+		/* Calculated table height */
+		--data-table-content-height: calc(
+			100vh - var(--spacing-page-section-height) - var(--spacing-data-table-header-actions-height) -
+				var(--spacing-data-table-footer-height)
+		);
+	}
+}
+
+@layer nextjs-dev-override {
+	[data-nextjs-dialog],
+	[data-nextjs-dialog-overlay],
+	[data-nextjs-toast],
+	#__next-build-watcher {
+		all: revert !important;
+		display: block !important;
+		position: fixed !important;
+		font-family: ui-monospace, Menlo, Monaco !important;
+		background: white !important;
+		color: black !important;
+		border: 1px solid #ccc !important;
+		padding: 16px !important;
+		border-radius: 8px !important;
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+		z-index: 2147483647 !important; /* Maximum z-index */
+		font-size: 14px !important;
+		line-height: 1.5 !important;
+		font-weight: normal !important;
+	}
+}

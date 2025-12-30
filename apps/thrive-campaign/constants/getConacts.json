@@ -1,0 +1,329 @@
+[
+  {
+    "field719": "Joy",
+    "data_leadscore": 11,
+    "data_leadstatus": {
+      "label": "Awareness",
+      "color": "#e6b58e"
+    },
+    "letters": "7",
+    "color": "#8493a8",
+    "picture": null,
+    "id": "107545783",
+    "indexid": "107545783",
+    "registrationdate": "12/19/2024",
+    "email": "777joy@gmail.com",
+    "phone": "",
+    "status": "Active",
+    "list_name": {
+      "count": 1,
+      "labels": ["Demo watched"]
+    },
+    "actions": {
+      "data": {
+        "listid": "50019"
+      }
+    },
+    "emailvalidation": {
+      "id": "107545783",
+      "label": "Not Verified",
+      "background": "#cccccc",
+      "status": "not-verified"
+    }
+  },
+  {
+    "field719": "Teamz",
+    "data_leadscore": 0,
+    "data_leadstatus": {
+      "label": "Poor Data",
+      "color": "#f00000"
+    },
+    "letters": "C",
+    "color": "#1579b0",
+    "picture": null,
+    "id": "107534360",
+    "indexid": "107534360",
+    "registrationdate": "12/18/2024",
+    "email": "ceo@the-teamz.com",
+    "phone": "033-325-29962",
+    "status": "Active",
+    "list_name": {
+      "count": 2,
+      "labels": ["ALL Customers", "Agency clients"]
+    },
+    "actions": {
+      "data": {
+        "listid": "244"
+      }
+    },
+    "emailvalidation": {
+      "id": "107534360",
+      "label": "Not Verified",
+      "background": "#cccccc",
+      "status": "not-verified"
+    }
+  },
+  {
+    "field719": "Sean",
+    "data_leadscore": 5,
+    "data_leadstatus": {
+      "label": "Awareness",
+      "color": "#e6b58e"
+    },
+    "letters": "T",
+    "color": "#74acd0",
+    "picture": null,
+    "id": "107543206",
+    "indexid": "107543206",
+    "registrationdate": "12/18/2024",
+    "email": "thisisittwice@gmail.com",
+    "phone": "",
+    "status": "Active",
+    "list_name": {
+      "count": 1,
+      "labels": ["Zoom: VBOUT Monthly Marketing Meetup"]
+    },
+    "actions": {
+      "data": {
+        "listid": "59508"
+      }
+    },
+    "emailvalidation": {
+      "id": "107543206",
+      "label": "Not Verified",
+      "background": "#cccccc",
+      "status": "not-verified"
+    }
+  },
+  {
+    "field719": "Magic Cotton",
+    "data_leadscore": 0,
+    "data_leadstatus": {
+      "label": "Poor Data",
+      "color": "#f00000"
+    },
+    "letters": "M",
+    "color": "#bc90ff",
+    "picture": null,
+    "id": "107538703",
+    "indexid": "107538703",
+    "registrationdate": "12/18/2024",
+    "email": "mgccttn@gmail.com",
+    "phone": "954-394-1409",
+    "status": "Active",
+    "list_name": {
+      "count": 2,
+      "labels": ["Agency clients", "ALL Customers"]
+    },
+    "actions": {
+      "data": {
+        "listid": "10310"
+      }
+    },
+    "emailvalidation": {
+      "id": "107538703",
+      "label": "Not Verified",
+      "background": "#cccccc",
+      "status": "not-verified"
+    }
+  },
+  {
+    "data_leadscore": 15,
+    "data_leadstatus": {
+      "label": "Awareness",
+      "color": "#e6b58e"
+    },
+    "letters": "E",
+    "color": "#c98fe0",
+    "picture": null,
+    "id": "107541348",
+    "indexid": "107541348",
+    "registrationdate": "12/18/2024",
+    "email": "eh2273603@gmail.com",
+    "phone": "",
+    "status": "Active",
+    "list_name": {
+      "count": 2,
+      "labels": ["Blog", "Blog Subscription"]
+    },
+    "actions": {
+      "data": {
+        "listid": "13849"
+      }
+    },
+    "emailvalidation": {
+      "id": "107541348",
+      "label": "Not Verified",
+      "background": "#cccccc",
+      "status": "not-verified"
+    }
+  },
+  {
+    "data_leadscore": 5,
+    "data_leadstatus": {
+      "label": "Awareness",
+      "color": "#e6b58e"
+    },
+    "letters": "A",
+    "color": "#d1d7de",
+    "picture": null,
+    "id": "107536989",
+    "indexid": "107536989",
+    "registrationdate": "12/18/2024",
+    "email": "andreiutenkov@twitch.work",
+    "phone": "809057266597",
+    "status": "Active",
+    "list_name": {
+      "count": 1,
+      "labels": ["Hubspot Alternative"]
+    },
+    "actions": {
+      "data": {
+        "listid": "24626"
+      }
+    },
+    "emailvalidation": {
+      "id": "107536989",
+      "label": "Not Verified",
+      "background": "#cccccc",
+      "status": "not-verified"
+    }
+  },
+  {
+    "field719": "Michael",
+    "data_leadscore": 0,
+    "data_leadstatus": {
+      "label": "Poor Data",
+      "color": "#f00000"
+    },
+    "letters": "M",
+    "color": "#bc90ff",
+    "picture": null,
+    "id": "107537000",
+    "indexid": "107537000",
+    "registrationdate": "12/18/2024",
+    "email": "missionmind@fetchcreates.com",
+    "phone": "901-485-5374",
+    "status": "Active",
+    "list_name": {
+      "count": 2,
+      "labels": ["ALL Customers", "Agency clients"]
+    },
+    "actions": {
+      "data": {
+        "listid": "244"
+      }
+    },
+    "emailvalidation": {
+      "id": "107537000",
+      "label": "Not Verified",
+      "background": "#cccccc",
+      "status": "not-verified"
+    }
+  },
+  {
+    "field719": "Patty",
+    "field164341": "http://www.primemybody.com",
+    "field164352": "PrimeMyBody",
+    "field164355": "",
+    "data_leadscore": 5,
+    "data_leadstatus": {
+      "label": "Awareness",
+      "color": "#e6b58e"
+    },
+    "letters": "P",
+    "color": "#f74c62",
+    "picture": null,
+    "id": "107535511",
+    "indexid": "107535511",
+    "registrationdate": "12/18/2024",
+    "email": "patty@primemybody.com",
+    "phone": "",
+    "status": "Active",
+    "list_name": {
+      "count": 1,
+      "labels": ["LinkedIn - chatbot"]
+    },
+    "actions": {
+      "data": {
+        "listid": "146789"
+      }
+    },
+    "emailvalidation": {
+      "id": "107535511",
+      "label": "Neutral",
+      "background": "#00ffff",
+      "status": "verified"
+    }
+  },
+  {
+    "field719": "Nicholas",
+    "field164341": "http://www.purplecowchiro.com",
+    "field164352": "Nicholas B.Houston D...",
+    "field164355": "",
+    "data_leadscore": 5,
+    "data_leadstatus": {
+      "label": "Awareness",
+      "color": "#e6b58e"
+    },
+    "letters": "D",
+    "color": "#56c3ff",
+    "picture": null,
+    "id": "107535510",
+    "indexid": "107535510",
+    "registrationdate": "12/18/2024",
+    "email": "drhouston@purplecowchiro.com",
+    "phone": "",
+    "status": "Active",
+    "list_name": {
+      "count": 1,
+      "labels": ["LinkedIn - chatbot"]
+    },
+    "actions": {
+      "data": {
+        "listid": "146789"
+      }
+    },
+    "emailvalidation": {
+      "id": "107535510",
+      "label": "Unknown",
+      "background": "#0000ff",
+      "status": "verified"
+    }
+  },
+  {
+    "field719": "Olga",
+    "field164341": "http://www.thisisl.com",
+    "field164352": "This is Bananas even...",
+    "field164355": "",
+    "data_leadscore": 5,
+    "data_leadstatus": {
+      "label": "Awareness",
+      "color": "#e6b58e"
+    },
+    "letters": "O",
+    "color": "#465a77",
+    "picture": null,
+    "id": "107535508",
+    "indexid": "107535508",
+    "registrationdate": "12/18/2024",
+    "email": "olga@thisisl.com",
+    "phone": "",
+    "status": "Unsubscribed",
+    "list_name": {
+      "count": 1,
+      "labels": ["LinkedIn - chatbot"]
+    },
+    "actions": {
+      "data": {
+        "listid": "146789"
+      }
+    },
+    "emailvalidation": {
+      "id": "107535508",
+      "label": "Undeliverable",
+      "background": "#cc0000",
+      "status": "verified"
+    }
+  }
+]

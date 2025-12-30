@@ -1,0 +1,342 @@
+---
+title: MCP Server
+description: Connect and interact with the Thrive Design System using the Model Context Protocol (MCP) Server
+category: Introduction
+status: stable
+keywords:
+  - mcp
+  - model context protocol
+  - server
+  - integration
+  - claude
+  - ai
+  - assistants
+lastUpdated: 2025-01-27
+---
+
+<ComponentPageHeader
+	title="MCP Server"
+	description="Connect and interact with the Thrive Design System using the Model Context Protocol (MCP) Server"
+	status="stable"
+	category="Introduction"
+/>
+
+## Overview
+
+The Thrive Design System includes a **Model Context Protocol (MCP) Server** that enables AI assistants, development tools, and external applications to interact with our design system. This powerful integration layer allows you to search components, fetch documentation, generate code examples, and access design tokens programmatically.
+
+<InfoCallout type="info" title="What is MCP?">
+The Model Context Protocol is an open protocol for connecting AI assistants and applications to external data sources. It allows seamless integration between AI tools and your design system.
+</InfoCallout>
+
+## Features
+
+### 🔍 Component Search
+Search across all components in the design system with semantic understanding. Find what you need based on functionality, not just keyword matching.
+
+### 📚 Documentation Access
+Fetch comprehensive documentation for any component, including props, examples, usage guidelines, and best practices.
+
+### 🎨 Design Token Retrieval
+Access all design tokens including colors, typography scales, spacing values, and semantic tokens.
+
+### 💡 Code Generation
+Generate code examples and integration snippets for components tailored to your specific use case.
+
+### 🔗 Storybook Integration
+Direct links to interactive Storybook examples for visual exploration and testing.
+
+## Setup Instructions
+
+### Prerequisites
+
+- Node.js 18+ installed
+- Access to the Thrive Design System repository
+- Claude Desktop or compatible MCP client
+
+### Installation
+
+The MCP Server is included with the design system. To enable it:
+
+1. **Locate the MCP Server Configuration**
+
+The server configuration can be found in the `.mcp` directory of the design system docs:
+
+```bash
+cd apps/design-system-docs
+```
+
+2. **Configure Claude Desktop**
+
+Edit your Claude Desktop configuration file:
+
+**macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
+
+**Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
+
+Add the following configuration:
+
+```json
+{
+  "mcpServers": {
+    "thrive-design-system": {
+      "command": "node",
+      "args": [
+        ".mcp/server/index.js"
+      ],
+      "cwd": "/path/to/thrive-campaign/apps/design-system-docs"
+    }
+  }
+}
+```
+
+3. **Restart Claude Desktop**
+
+Close and reopen Claude Desktop to load the new MCP server configuration.
+
+### Verification
+
+Once set up, you can verify the MCP server is working by asking Claude:
+
+```
+Search for button components in the Thrive design system
+```
+
+Or:
+
+```
+Show me the documentation for the Avatar component
+```
+
+## Available Tools
+
+### `search_components`
+
+Search for components in the design system.
+
+**Parameters:**
+- `query` (string): Search query describing the component you need
+- `maxResults` (number, optional): Maximum number of results to return (default: 5)
+
+**Example:**
+```
+Search for components related to data tables and sorting
+```
+
+### `get_component_docs`
+
+Fetch complete documentation for a specific component.
+
+**Parameters:**
+- `componentName` (string): Name of the component (e.g., "Button", "Avatar", "Card")
+- `sections` (array, optional): Specific sections to retrieve (e.g., ["props", "examples", "guidelines"])
+
+**Example:**
+```
+Get the documentation for Button component, focusing on props and examples
+```
+
+### `get_design_tokens`
+
+Retrieve design tokens by category.
+
+**Parameters:**
+- `category` (string, optional): Token category ("colors", "typography", "spacing", "shadows", "all")
+- `format` (string, optional): Output format ("css", "json", "typescript")
+
+**Example:**
+```
+Get all color design tokens in CSS format
+```
+
+### `generate_component_example`
+
+Generate a code example for using a component.
+
+**Parameters:**
+- `componentName` (string): Name of the component
+- `useCase` (string): Description of the specific use case
+- `includeImports` (boolean): Whether to include import statements
+
+**Example:**
+```
+Generate an example for the Dialog component showing a confirmation dialog for deleting an item
+```
+
+### `get_storybook_url`
+
+Get the Storybook URL for a component with optional story specification.
+
+**Parameters:**
+- `componentName` (string): Name of the component
+- `storyName` (string, optional): Specific story to link to
+
+**Example:**
+```
+Get the Storybook URL for Button component showing all variants
+```
+
+## Use Cases
+
+### Development Workflow
+
+**Scenario:** You're building a new feature and need to quickly find and integrate a component.
+
+```
+"Search for form input components with validation support"
+```
+
+The MCP server will:
+1. Search the component library
+2. Return relevant components with brief descriptions
+3. Provide documentation and code examples
+4. Link to interactive Storybook examples
+
+### Documentation Lookup
+
+**Scenario:** You need to check the exact props for a component you're using.
+
+```
+"Show me all the props for the Avatar component, especially size and status options"
+```
+
+You'll get:
+- Complete props interface with types
+- Default values
+- Usage examples
+- Accessibility considerations
+
+### Design Token Reference
+
+**Scenario:** You need to use the correct color token in your CSS.
+
+```
+"Get all primary color design tokens in CSS custom property format"
+```
+
+Results include:
+- All primary color variations
+- Semantic color mappings
+- Dark mode tokens
+- Usage examples
+
+### Code Generation
+
+**Scenario:** You need a specific component configuration quickly.
+
+```
+"Generate an example of a DataTable with sorting, filtering, and row selection"
+```
+
+The generated code will:
+- Match your exact requirements
+- Include all necessary imports
+- Follow design system best practices
+- Include accessibility features
+
+## Integration Examples
+
+### With Claude Desktop
+
+The primary use case is with Claude Desktop. Once configured, you can ask natural language questions:
+
+**Examples:**
+
+```
+"What components do I need to build a user settings page with a profile avatar, notification preferences, and save button?"
+```
+
+```
+"Show me examples of the Dialog component being used for destructive confirmations"
+```
+
+```
+"Generate a Card component with header, footer, and action buttons following the design system patterns"
+```
+
+### With Other Tools
+
+The MCP server can be integrated with other tools that support the Model Context Protocol:
+
+- **Cursor IDE**: Add MCP integration to access design system from your editor
+- **Custom Tools**: Build automation scripts that query the design system
+- **CI/CD Pipelines**: Validate components against design system standards
+
+## Best Practices
+
+<GuidelinesGrid>
+	<Guideline type="do" title="Be specific in queries">
+		Include context about your use case to get more relevant results. Instead of "show me buttons," say "show me buttons for a form submission with loading state."
+	</Guideline>
+	
+	<Guideline type="do" title="Use multiple queries when needed">
+		For complex features, break down your request into smaller, focused queries. Start broad, then narrow down.
+	</Guideline>
+	
+	<Guideline type="do" title="Review generated code">
+		Always review and test generated code examples. They're starting points that may need customization for your specific needs.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't assume everything is available">
+		Not all components may be available in the current version. Check component status and availability.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't skip Storybook">
+		Always check the Storybook links to see components in action. Visual exploration catches issues that documentation might miss.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't ignore accessibility">
+		When generating code, ensure accessibility is maintained. The MCP server includes accessibility info, but always verify ARIA attributes and keyboard navigation.
+	</Guideline>
+</GuidelinesGrid>
+
+## Troubleshooting
+
+### Server Not Connecting
+
+**Problem:** Claude Desktop can't connect to the MCP server.
+
+**Solutions:**
+1. Verify the path in `claude_desktop_config.json` is correct
+2. Ensure Node.js is installed and accessible from your PATH
+3. Check that the `.mcp/server/index.js` file exists
+4. Look for error messages in Claude Desktop's console
+
+### No Results Returned
+
+**Problem:** Queries return no results.
+
+**Solutions:**
+1. Try rephrasing your query with more specific terms
+2. Check component availability in the current version
+3. Verify the component name spelling matches exactly
+4. Try broader search terms first, then narrow down
+
+### Outdated Information
+
+**Problem:** Documentation or examples seem outdated.
+
+**Solutions:**
+1. Ensure you're using the latest version of the design system
+2. Rebuild the MCP server if you've updated components
+3. Clear Claude Desktop's cache if issues persist
+
+## API Reference
+
+For programmatic access to the MCP server, see the API documentation in `.mcp/API.md`.
+
+## Support
+
+For issues or questions about the MCP server:
+
+1. Check this documentation
+2. Review the troubleshooting section
+3. Open an issue in the design system repository
+4. Contact the design system team
+
+---
+
+<InfoCallout type="info" title="Ready to Get Started?">
+Once configured, the MCP server provides instant access to your entire design system from Claude or any MCP-compatible tool. Start with simple queries and build up to complex, multi-component features.
+</InfoCallout>
+

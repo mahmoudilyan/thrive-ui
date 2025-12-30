@@ -1,0 +1,244 @@
+{
+	"tabid": "feeds",
+	"isGroup": false,
+	"id": "2951785",
+	"type": "linkedin",
+	"stream": [
+		{
+			"postid": "urn:li:ugcPost:7330960817460252672",
+			"id": "7330960817460252672",
+			"uid": "2951785",
+			"ugcid": "urn:li:ugcPost:7330960817460252672",
+			"header": {
+				"id": 2951785,
+				"userid": 2951785,
+				"account_name": "VBOUT",
+				"picture": "images/v2/empty-company.png",
+				"url": "https://www.linkedin.com/organization/2951785"
+			},
+			"body": {
+				"text": "When your email open rate increases significantly 😄\n<a href=\"https://www.linkedin.com/feed/hashtag/?keywords=emailmarketing&generatedBy=vboutBackend\">#emailmarketing</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=openrate&generatedBy=vboutBackend\">#openrate</a>\n",
+				"media": {
+					"type": "video",
+					"thumb": "https://media.licdn.com/dms/image/v2/D4D05AQF0u2DkDBV03A/videocover-high/B4DZbzOBSHGYBs-/0/1747837327012?e=1748448000&v=beta&t=3To_dmqRvam677KWVa7D4LqzK_pWqMn6RlvLBnlHq-o",
+					"url": "https://dms.licdn.com/playlist/vid/v2/D4D05AQF0u2DkDBV03A/mp4-720p-30fp-crf28/B4DZbzOBSHGYBQ-/0/1747837327408?e=1748448000&v=beta&t=c3l6wghRrRjNI_8T0W8hE1uc75ezwQUyv6LBexYDAyE"
+				},
+				"timestamp": "05/21/2025 10:21 AM",
+				"postLink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7330960817460252672"
+			},
+			"likes": 0,
+			"comments": 0,
+			"can": {
+				"like": 0,
+				"comment": 0
+			},
+			"streamType": "linkedInFeed",
+			"isArchived": 0
+		},
+		{
+			"postid": "urn:li:share:7330551216822734854",
+			"id": "7330551216822734854",
+			"uid": "2951785",
+			"ugcid": "urn:li:share:7330551216822734854",
+			"header": {
+				"id": 2951785,
+				"userid": 2951785,
+				"account_name": "VBOUT",
+				"picture": "images/v2/empty-company.png",
+				"url": "https://www.linkedin.com/organization/2951785"
+			},
+			"body": {
+				"text": "Discover in this article, the future of AI in SaaS!\nhttps://lnkd.in/d3uXEN\\_8\n<a href=\"https://www.linkedin.com/feed/hashtag/?keywords=ai&generatedBy=vboutBackend\">#ai</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=saas&generatedBy=vboutBackend\">#saas</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=aiin2025&generatedBy=vboutBackend\">#aiin2025</a>\n<a href=\"https://www.linkedin.com/in/marketingwithgaurav?generatedBy=vboutBackend\">@Gaurav Sharma</a> <a href=\"https://www.linkedin.com/company/11044253?generatedBy=vboutBackend\">@Attrock - Digital Marketing Agency</a>",
+				"media": {
+					"type": "image",
+					"thumb": "https://media.licdn.com/dms/image/v2/D4D22AQG7AoL2nxgEtw/feedshare-shrink_2048_1536/B4DZbtZS4tG0Aw-/0/1747739603595?e=1750896000&v=beta&t=L3bbaYFd5nt28rFLMlN6nRXFmPxp2iVW-M48XvCzCzU"
+				},
+				"timestamp": "05/20/2025 07:13 AM",
+				"postLink": "https://www.linkedin.com/feed/update/urn:li:share:7330551216822734854"
+			},
+			"likes": 2,
+			"comments": 0,
+			"can": {
+				"like": 0,
+				"comment": 0
+			},
+			"streamType": "linkedInFeed",
+			"isArchived": 0
+		},
+		{
+			"postid": "urn:li:share:7330173215702466560",
+			"id": "7330173215702466560",
+			"uid": "2951785",
+			"ugcid": "urn:li:share:7330173215702466560",
+			"header": {
+				"id": 2951785,
+				"userid": 2951785,
+				"account_name": "VBOUT",
+				"picture": "images/v2/empty-company.png",
+				"url": "https://www.linkedin.com/organization/2951785"
+			},
+			"body": {
+				"text": "A big thank you to <a href=\"https://www.linkedin.com/in/digitalmarketingdan?generatedBy=vboutBackend\">@Dan Sanchez</a> from <a href=\"https://www.linkedin.com/company/576649?generatedBy=vboutBackend\">@Social Media Examiner</a> for joining us as a guest speaker in our latest webinar! \nWe covered real strategies on how to use LinkedIn to generate leads, build smarter funnels, and bring AI into your marketing.\nIf you missed it or want to rewatch, the full recording is available here: https://lnkd.in/dpJSFenJ\n<a href=\"https://www.linkedin.com/feed/hashtag/?keywords=LinkedInMarketing&generatedBy=vboutBackend\">#LinkedInMarketing</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=LeadGeneration&generatedBy=vboutBackend\">#LeadGeneration</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=MarketingWebinar&generatedBy=vboutBackend\">#MarketingWebinar</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=AIMarketing&generatedBy=vboutBackend\">#AIMarketing</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=MarketingAutomation&generatedBy=vboutBackend\">#MarketingAutomation</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=B2BMarketing&generatedBy=vboutBackend\">#B2BMarketing</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=MarketingTips&generatedBy=vboutBackend\">#MarketingTips</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=FunnelStrategy&generatedBy=vboutBackend\">#FunnelStrategy</a>",
+				"media": {
+					"type": "image",
+					"thumb": "https://media.licdn.com/dms/image/v2/D4D22AQFJ9kxyG2gP2A/feedshare-shrink_1280/B4DZboBoOtH8Ao-/0/1747649482047?e=1750896000&v=beta&t=hQ5v6-HVndrefVRAgJZjEC-W742dJF8IsHubvFwzgQY"
+				},
+				"timestamp": "05/19/2025 06:11 AM",
+				"postLink": "https://www.linkedin.com/feed/update/urn:li:share:7330173215702466560"
+			},
+			"likes": 4,
+			"comments": 0,
+			"can": {
+				"like": 0,
+				"comment": 0
+			},
+			"streamType": "linkedInFeed",
+			"isArchived": 0
+		},
+		{
+			"postid": "urn:li:ugcPost:7329204326902525953",
+			"id": "7329204326902525953",
+			"uid": "2951785",
+			"ugcid": "urn:li:ugcPost:7329204326902525953",
+			"header": {
+				"id": 2951785,
+				"userid": 2951785,
+				"account_name": "VBOUT",
+				"picture": "images/v2/empty-company.png",
+				"url": "https://www.linkedin.com/organization/2951785"
+			},
+			"body": {
+				"text": "Be honsest 😃  Which one are you doing right now?\n<a href=\"https://www.linkedin.com/feed/hashtag/?keywords=leadnurturing&generatedBy=vboutBackend\">#leadnurturing</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=marketingautomation&generatedBy=vboutBackend\">#marketingautomation</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=emailmarketing&generatedBy=vboutBackend\">#emailmarketing</a>",
+				"media": "",
+				"timestamp": "05/16/2025 02:01 PM",
+				"postLink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7329204326902525953"
+			},
+			"likes": 1,
+			"comments": 0,
+			"can": {
+				"like": 0,
+				"comment": 0
+			},
+			"streamType": "linkedInFeed",
+			"isArchived": 0
+		},
+		{
+			"postid": "urn:li:ugcPost:7328728726957899776",
+			"id": "7328728726957899776",
+			"uid": "2951785",
+			"ugcid": "urn:li:ugcPost:7328728726957899776",
+			"header": {
+				"id": 2951785,
+				"userid": 2951785,
+				"account_name": "VBOUT",
+				"picture": "images/v2/empty-company.png",
+				"url": "https://www.linkedin.com/organization/2951785"
+			},
+			"body": {
+				"text": "Tired of juggling too many tools to run your clients’ campaigns?\nMost agency platforms overload you with features you don’t use; or worse, force you into pricey plans that don’t scale well.\n\nAt VBOUT, we built a marketing platform that helps agencies:\n\n- Run all campaigns from one place: email, landing pages, social, automation, and AI tools included.\n- Save time with clean workflows, not cluttered dashboards.\n- Keep clients happy without chasing 10 tools and 10 logins.\n\n👉 Want to see how it works for your agency?\nBook a free demo and let’s walk you through it: https://lnkd.in/em\\_9H8qg\n\n<a href=\"https://www.linkedin.com/feed/hashtag/?keywords=MarketingAgency&generatedBy=vboutBackend\">#MarketingAgency</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=MarketingAutomation&generatedBy=vboutBackend\">#MarketingAutomation</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=ClientReporting&generatedBy=vboutBackend\">#ClientReporting</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=EmailMarketing&generatedBy=vboutBackend\">#EmailMarketing</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=SocialMediaAutomation&generatedBy=vboutBackend\">#SocialMediaAutomation</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=AI&generatedBy=vboutBackend\">#AI</a>",
+				"media": "",
+				"timestamp": "05/15/2025 06:31 AM",
+				"postLink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7328728726957899776"
+			},
+			"likes": 1,
+			"comments": 0,
+			"can": {
+				"like": 0,
+				"comment": 0
+			},
+			"streamType": "linkedInFeed",
+			"isArchived": 0
+		},
+		{
+			"postid": "urn:li:ugcPost:7328039780741435392",
+			"id": "7328039780741435392",
+			"uid": "2951785",
+			"ugcid": "urn:li:ugcPost:7328039780741435392",
+			"header": {
+				"id": 2951785,
+				"userid": 2951785,
+				"account_name": "VBOUT",
+				"picture": "images/v2/empty-company.png",
+				"url": "https://www.linkedin.com/organization/2951785"
+			},
+			"body": {
+				"text": "Our podcast is almost there! Don't forget to register and join us tomorrow with <a href=\"https://www.linkedin.com/in/digitalmarketingdan?generatedBy=vboutBackend\">@Dan Sanchez</a>. Dan will share the best tips to use LinkedIn to generate leads and nurture them throughout the funnel.\nhttps://lnkd.in/d9t9tYms \n<a href=\"https://www.linkedin.com/feed/hashtag/?keywords=leadgeneration&generatedBy=vboutBackend\">#leadgeneration</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=ai&generatedBy=vboutBackend\">#ai</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=linkedin&generatedBy=vboutBackend\">#linkedin</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=emailmarketing&generatedBy=vboutBackend\">#emailmarketing</a>",
+				"media": "",
+				"timestamp": "05/13/2025 08:53 AM",
+				"postLink": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7328039780741435392"
+			},
+			"likes": 2,
+			"comments": 0,
+			"can": {
+				"like": 0,
+				"comment": 0
+			},
+			"streamType": "linkedInFeed",
+			"isArchived": 0
+		},
+		{
+			"postid": "urn:li:share:7327730238262497280",
+			"id": "7327730238262497280",
+			"uid": "2951785",
+			"ugcid": "urn:li:share:7327730238262497280",
+			"header": {
+				"id": 2951785,
+				"userid": 2951785,
+				"account_name": "VBOUT",
+				"picture": "images/v2/empty-company.png",
+				"url": "https://www.linkedin.com/organization/2951785"
+			},
+			"body": {
+				"text": "Guess what's missing in this flow 👇\n<a href=\"https://www.linkedin.com/feed/hashtag/?keywords=marketingautomation&generatedBy=vboutBackend\">#marketingautomation</a>  ",
+				"media": {
+					"type": "image",
+					"thumb": "https://media.licdn.com/dms/image/v2/D4D22AQFiHjkY5nD1eA/feedshare-shrink_2048_1536/B4DZbFT0UQG4Ao-/0/1747067030313?e=1750896000&v=beta&t=YnVoYOQTEvqFKAW2Ytb9P3pJ6tzmhVXzwoFVM7H5Pi8"
+				},
+				"timestamp": "05/12/2025 12:23 PM",
+				"postLink": "https://www.linkedin.com/feed/update/urn:li:share:7327730238262497280"
+			},
+			"likes": 3,
+			"comments": 0,
+			"can": {
+				"like": 0,
+				"comment": 0
+			},
+			"streamType": "linkedInFeed",
+			"isArchived": 0
+		},
+		{
+			"postid": "urn:li:share:7324084599691603969",
+			"id": "7324084599691603969",
+			"uid": "2951785",
+			"ugcid": "urn:li:share:7324084599691603969",
+			"header": {
+				"id": 2951785,
+				"userid": 2951785,
+				"account_name": "VBOUT",
+				"picture": "images/v2/empty-company.png",
+				"url": "https://www.linkedin.com/organization/2951785"
+			},
+			"body": {
+				"text": "Happy Mother's Day from the VBOUT Family!\n<a href=\"https://www.linkedin.com/feed/hashtag/?keywords=mothersday2025&generatedBy=vboutBackend\">#mothersday2025</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=ai&generatedBy=vboutBackend\">#ai</a> <a href=\"https://www.linkedin.com/feed/hashtag/?keywords=marketingautomation&generatedBy=vboutBackend\">#marketingautomation</a>\n",
+				"media": {
+					"type": "image",
+					"thumb": "https://media.licdn.com/dms/image/v2/D4D22AQFcGx7fItKeJQ/feedshare-shrink_2048_1536/B4DZaRgILmHQAo-/0/1746197843082?e=1750896000&v=beta&t=iPJuBUttvOMmCjEwSf-fkqzVO3qZJ9ikmO2DDa-BPOE"
+				},
+				"timestamp": "05/02/2025 10:57 AM",
+				"postLink": "https://www.linkedin.com/feed/update/urn:li:share:7324084599691603969"
+			},
+			"likes": 3,
+			"comments": 0,
+			"can": {
+				"like": 0,
+				"comment": 0
+			},
+			"streamType": "linkedInFeed",
+			"isArchived": 0
+		}
+	],
+	"profile": {
+		"id": "2951785"
+	},
+	"status": "success"
+}

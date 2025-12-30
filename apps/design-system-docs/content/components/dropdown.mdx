@@ -1,0 +1,281 @@
+---
+title: Dropdown Menu
+description: A versatile dropdown menu component for displaying contextual actions and options
+category: Components
+status: stable
+keywords:
+  - dropdown
+  - menu
+  - context menu
+  - actions
+  - options
+  - popover
+lastUpdated: 2025-01-27
+---
+
+import { 
+	Button, 
+	IconButton,
+	DropdownMenu, 
+	DropdownMenuTrigger, 
+	DropdownMenuItem, 
+	DropdownMenuContent, 
+	DropdownMenuLabel, 
+	DropdownMenuSeparator,
+	DropdownMenuCheckboxItem,
+	DropdownMenuRadioGroup,
+	DropdownMenuRadioItem 
+} from '@thrive/ui';
+import { MdMoreVert, MdEdit, MdShare, MdDownload, MdDelete } from 'react-icons/md';
+
+<ComponentPageHeader
+	title="Dropdown Menu"
+	description="A versatile dropdown menu component for displaying contextual actions and options"
+	status="stable"
+	category="Components"
+/>
+
+## Overview
+
+A versatile dropdown menu component built on Radix UI. Perfect for action menus, context menus, and option selectors.
+
+<InfoCallout type="info" title="When to Use">
+Use dropdown menus to provide a list of actions or options in a compact space. They're ideal for row actions in tables, toolbar menus, and settings panels.
+</InfoCallout>
+
+## Basic Usage
+
+<CodeExample
+	title="Simple Dropdown"
+	description="Basic dropdown with menu items"
+	code={`<DropdownMenu>
+  <DropdownMenuTrigger asChild>
+    <Button variant="secondary">Options</Button>
+  </DropdownMenuTrigger>
+  <DropdownMenuContent>
+    <DropdownMenuItem>Profile</DropdownMenuItem>
+    <DropdownMenuItem>Settings</DropdownMenuItem>
+    <DropdownMenuSeparator />
+    <DropdownMenuItem>Logout</DropdownMenuItem>
+  </DropdownMenuContent>
+</DropdownMenu>`}
+/>
+
+## With Icons
+
+<CodeExample
+	title="Icon Menu Items"
+	description="Menu items with leading icons"
+	code={`<DropdownMenu>
+  <DropdownMenuTrigger asChild>
+    <IconButton variant="ghost" icon={<MdMoreVert />} aria-label="Actions" />
+  </DropdownMenuTrigger>
+  <DropdownMenuContent>
+    <DropdownMenuItem>
+      <MdEdit className="mr-2 h-4 w-4" />
+      Edit
+    </DropdownMenuItem>
+    <DropdownMenuItem>
+      <MdShare className="mr-2 h-4 w-4" />
+      Share
+    </DropdownMenuItem>
+    <DropdownMenuItem>
+      <MdDownload className="mr-2 h-4 w-4" />
+      Download
+    </DropdownMenuItem>
+    <DropdownMenuSeparator />
+    <DropdownMenuItem className="text-destructive">
+      <MdDelete className="mr-2 h-4 w-4" />
+      Delete
+    </DropdownMenuItem>
+  </DropdownMenuContent>
+</DropdownMenu>`}
+/>
+
+## With Labels
+
+<CodeExample
+	title="Labeled Sections"
+	description="Group menu items with labels"
+	code={`<DropdownMenu>
+  <DropdownMenuTrigger asChild>
+    <Button variant="secondary">View Options</Button>
+  </DropdownMenuTrigger>
+  <DropdownMenuContent>
+    <DropdownMenuLabel>Display</DropdownMenuLabel>
+    <DropdownMenuItem>Grid View</DropdownMenuItem>
+    <DropdownMenuItem>List View</DropdownMenuItem>
+    <DropdownMenuSeparator />
+    <DropdownMenuLabel>Sort By</DropdownMenuLabel>
+    <DropdownMenuItem>Name</DropdownMenuItem>
+    <DropdownMenuItem>Date</DropdownMenuItem>
+    <DropdownMenuItem>Size</DropdownMenuItem>
+  </DropdownMenuContent>
+</DropdownMenu>`}
+/>
+
+## Checkbox Items
+
+<CodeExample
+	title="Multi-Select Options"
+	description="Checkbox items for toggling options"
+	code={`const [checked, setChecked] = React.useState({
+  notifications: true,
+  emails: false,
+  updates: true
+});
+
+<DropdownMenu>
+  <DropdownMenuTrigger asChild>
+    <Button variant="secondary">Preferences</Button>
+  </DropdownMenuTrigger>
+  <DropdownMenuContent>
+    <DropdownMenuLabel>Notifications</DropdownMenuLabel>
+    <DropdownMenuCheckboxItem 
+      checked={checked.notifications}
+      onCheckedChange={(value) => setChecked(prev => ({ ...prev, notifications: value }))}
+    >
+      Push Notifications
+    </DropdownMenuCheckboxItem>
+    <DropdownMenuCheckboxItem 
+      checked={checked.emails}
+      onCheckedChange={(value) => setChecked(prev => ({ ...prev, emails: value }))}
+    >
+      Email Notifications
+    </DropdownMenuCheckboxItem>
+    <DropdownMenuCheckboxItem 
+      checked={checked.updates}
+      onCheckedChange={(value) => setChecked(prev => ({ ...prev, updates: value }))}
+    >
+      Product Updates
+    </DropdownMenuCheckboxItem>
+  </DropdownMenuContent>
+</DropdownMenu>`}
+/>
+
+## Radio Group
+
+<CodeExample
+	title="Single Select Options"
+	description="Radio items for exclusive selection"
+	code={`const [position, setPosition] = React.useState('top');
+
+<DropdownMenu>
+  <DropdownMenuTrigger asChild>
+    <Button variant="secondary">Position</Button>
+  </DropdownMenuTrigger>
+  <DropdownMenuContent>
+    <DropdownMenuLabel>Panel Position</DropdownMenuLabel>
+    <DropdownMenuRadioGroup value={position} onValueChange={setPosition}>
+      <DropdownMenuRadioItem value="top">Top</DropdownMenuRadioItem>
+      <DropdownMenuRadioItem value="bottom">Bottom</DropdownMenuRadioItem>
+      <DropdownMenuRadioItem value="left">Left</DropdownMenuRadioItem>
+      <DropdownMenuRadioItem value="right">Right</DropdownMenuRadioItem>
+    </DropdownMenuRadioGroup>
+  </DropdownMenuContent>
+</DropdownMenu>`}
+/>
+
+## Disabled Items
+
+<CodeExample
+	title="Disabled Menu Items"
+	description="Disable specific menu options"
+	code={`<DropdownMenu>
+  <DropdownMenuTrigger asChild>
+    <Button variant="secondary">File</Button>
+  </DropdownMenuTrigger>
+  <DropdownMenuContent>
+    <DropdownMenuItem>New File</DropdownMenuItem>
+    <DropdownMenuItem>Open</DropdownMenuItem>
+    <DropdownMenuItem disabled>Save (No changes)</DropdownMenuItem>
+    <DropdownMenuSeparator />
+    <DropdownMenuItem>Export</DropdownMenuItem>
+  </DropdownMenuContent>
+</DropdownMenu>`}
+/>
+
+## Table Row Actions
+
+<CodeExample
+	title="Row Action Menu"
+	description="Common pattern for table row actions"
+	code={`<DropdownMenu>
+  <DropdownMenuTrigger asChild>
+    <IconButton 
+      variant="ghost" 
+      size="sm"
+      icon={<MdMoreVert />} 
+      aria-label="Row actions" 
+    />
+  </DropdownMenuTrigger>
+  <DropdownMenuContent align="end">
+    <DropdownMenuItem onSelect={() => handleView()}>
+      View Details
+    </DropdownMenuItem>
+    <DropdownMenuItem onSelect={() => handleEdit()}>
+      <MdEdit className="mr-2 h-4 w-4" />
+      Edit
+    </DropdownMenuItem>
+    <DropdownMenuItem onSelect={() => handleDuplicate()}>
+      Duplicate
+    </DropdownMenuItem>
+    <DropdownMenuSeparator />
+    <DropdownMenuItem 
+      className="text-destructive"
+      onSelect={() => handleDelete()}
+    >
+      <MdDelete className="mr-2 h-4 w-4" />
+      Delete
+    </DropdownMenuItem>
+  </DropdownMenuContent>
+</DropdownMenu>`}
+/>
+
+## Best Practices
+
+<GuidelinesGrid>
+	<Guideline type="do" title="Group related items">
+		Use separators to group related menu items logically. This improves scannability.
+	</Guideline>
+	
+	<Guideline type="do" title="Use clear labels">
+		Menu item labels should be clear and action-oriented. Use verbs like "Edit", "Delete", "Download".
+	</Guideline>
+	
+	<Guideline type="do" title="Place destructive actions last">
+		Put destructive actions (like Delete) at the bottom of the menu, separated by a divider.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't overload menus">
+		Keep dropdown menus to 5-8 items. For more options, consider using nested menus or a different pattern.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't use for navigation">
+		Dropdown menus are for actions, not primary navigation. Use proper navigation components for that.
+	</Guideline>
+	
+	<Guideline type="dont" title="Don't hide critical actions">
+		Primary actions should be visible as buttons. Use dropdowns for secondary or overflow actions.
+	</Guideline>
+</GuidelinesGrid>
+
+## Props
+
+<Props componentName="DropdownMenu" />
+
+## Accessibility
+
+<InfoCallout type="info" title="Keyboard Navigation">
+Dropdown menus support full keyboard navigation. Use Arrow keys to navigate items, Enter to select, and Escape to close.
+</InfoCallout>
+
+- Keyboard navigation: Arrow keys to navigate, Enter to select
+- Press Escape to close the menu
+- Focus returns to trigger element when closed
+- Use proper ARIA roles and attributes
+- Provide clear labels for icon-only triggers
+- Ensure sufficient color contrast for menu items
+- Support screen readers with proper announcements
+- Make disabled items clearly visually distinct
+

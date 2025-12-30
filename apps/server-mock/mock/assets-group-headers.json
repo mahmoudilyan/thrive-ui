@@ -1,0 +1,55 @@
+{
+	"headers": {
+		"id": "",
+		"group": {
+			"title": "Campaign Groups",
+			"sort": true
+		},
+		"description": "Description",
+		"assets": "Assets",
+		"created_by": {
+			"title": "Created By"
+		},
+		"created_on": {
+			"title": "Created On",
+			"sort": true
+		},
+		"actions": "Actions"
+	},
+	"actions": {
+		"master": {
+			"text": "View",
+			"className": "actionAssetObjects"
+		},
+		"list": {
+			"edit": {
+				"text": "Edit",
+				"className": "actionEditAssetGroup"
+			},
+			"divider1": "divider",
+			"attach": {
+				"text": "Attach Assets",
+				"className": "actionAttachAssets"
+			},
+			"divider2": "divider",
+			"clone": {
+				"text": "Duplicate",
+				"className": "actionCloneAssetGroup"
+			},
+			"copy": {
+				"text": "Copy To Account",
+				"className": "actionCopyAssetGroupToAccount"
+			},
+			"divider-share": "divider",
+			"share": {
+				"text": "Share Assets",
+				"className": "actionShareAssetsWithAccount"
+			},
+			"divider3": "divider",
+			"delete": {
+				"text": "Delete",
+				"className": "actionDeleteAssetGroup"
+			}
+		}
+	}
+}

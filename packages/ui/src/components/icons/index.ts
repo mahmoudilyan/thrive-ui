@@ -1,0 +1,15 @@
+export { default as AutomationIcon } from './automation-icon';
+export { default as AutomationDuotoneIcon } from './automation-duotone-icon';
+export { default as BuilderIcon } from './builder-icon';
+export { default as CampaignDuotoneIcon } from './campaign-duotone-icon';
+export { default as ChatbotIcon } from './chatbot-icon';
+export { default as ContactsIcon } from './contacts-icon';
+export { default as ContactsDuotoneIcon } from './contacts-duotone-icon';
+export { default as ContentManagerIcon } from './content-manager-icon';
+export { default as DashboardIcon } from './dashboard-icon';
+export { default as DashboardDuotoneIcon } from './dashboard-duotone-icon';
+export { default as MailIcon } from './mail-icon';
+export { default as SettingsDuotoneIcon } from './settings-duotone-icon';
+export { default as SocialIcon } from './social-icon';
+export { default as ThriveIcon } from './thrive-icon-logo';
+export { default as StepIcon } from './step-icon';

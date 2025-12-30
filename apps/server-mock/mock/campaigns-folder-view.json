@@ -1,0 +1,257 @@
+{
+	"data": [
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2574",
+			"folderName": "COVID Campaigns",
+			"folderItems": 0,
+			"id": "2574",
+			"name": "COVID Campaigns",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "EmailMarketing/Folder/2574"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			}
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "8",
+			"folderName": "Demo Events",
+			"folderItems": 0,
+			"id": "8",
+			"name": "Demo Events",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "EmailMarketing/Folder/8"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			}
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2308",
+			"folderName": "Marketing automation platforms",
+			"folderItems": 0,
+			"id": "2308",
+			"name": "Marketing automation platforms",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "EmailMarketing/Folder/2308"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			}
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2575",
+			"folderName": "Team Notifications",
+			"folderItems": 0,
+			"id": "2575",
+			"name": "Team Notifications",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "EmailMarketing/Folder/2575"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			}
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "6045",
+			"folderName": "Outbound Influencers",
+			"folderItems": 0,
+			"id": "6045",
+			"name": "Outbound Influencers",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "EmailMarketing/Folder/6045"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			}
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2566",
+			"folderName": "Demo Booking Campaigns",
+			"folderItems": 0,
+			"id": "2566",
+			"name": "Demo Booking Campaigns",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "EmailMarketing/Folder/2566"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			}
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2567",
+			"folderName": "Course Campaigns",
+			"folderItems": 0,
+			"id": "2567",
+			"name": "Course Campaigns",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "EmailMarketing/Folder/2567"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			}
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "7801",
+			"folderName": "Webinar Campaign for Leads",
+			"folderItems": 0,
+			"id": "7801",
+			"name": "Webinar Campaign for Leads",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "EmailMarketing/Folder/7801"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			}
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2315",
+			"folderName": "Reengagement Campaigns",
+			"folderItems": 0,
+			"id": "2315",
+			"name": "Reengagement Campaigns",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "EmailMarketing/Folder/2315"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			}
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2316",
+			"folderName": "Video Tutorials",
+			"folderItems": 0,
+			"id": "2316",
+			"name": "Video Tutorials",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "EmailMarketing/Folder/2316"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			}
+		}
+	],
+	"draw": 1,
+	"recordsTotal": "584",
+	"recordsFiltered": "584"
+}

@@ -1,0 +1,47 @@
+{
+	"data": [
+		{
+			"id": "382333",
+			"template": {
+				"label": "Message 2256",
+				"type": "Drag & Drop",
+				"builder_type": "New",
+				"editable": true
+			},
+			"thumb": "Thumbs/EmailTemplate/382333.png?t=1752659579",
+			"created_on": "05/16/2025 11:01AM",
+			"created_on_timestamp": 1747407677,
+			"created_by": "Richard  Fallah",
+			"actions": {
+				"folder": {
+					"text": "Move From Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Test Folder"
+		},
+		{
+			"id": "372549",
+			"template": {
+				"label": "Newsletter Template",
+				"type": "Drag & Drop",
+				"builder_type": "New",
+				"editable": true
+			},
+			"thumb": "Thumbs/EmailTemplate/372549.png?t=1752659579",
+			"created_on": "04/15/2025 09:30AM",
+			"created_on_timestamp": 1747200000,
+			"created_by": "Richard  Fallah",
+			"actions": {
+				"folder": {
+					"text": "Move From Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Test Folder"
+		}
+	],
+	"draw": 1,
+	"recordsTotal": "2",
+	"recordsFiltered": "2"
+}

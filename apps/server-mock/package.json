@@ -1,0 +1,15 @@
+{
+  "name": "server-mock",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "devServer": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "fs": "latest",
+    "cors": "latest",
+    "path": "latest"
+  }
+}

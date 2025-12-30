@@ -1,0 +1,408 @@
+{
+	"data": [
+		{
+			"id": "comment_001",
+			"text": "Great post! This is exactly what I was looking for. Thanks for sharing! 👍",
+			"created_time": "2024-01-15T10:30:00.000Z",
+			"liked": 1,
+			"type": "facebook",
+			"from": {
+				"id": "user_001",
+				"name": "Sarah Johnson",
+				"image": "https://via.placeholder.com/40/09f/fff?text=SJ"
+			},
+			"can": {
+				"remove": 0,
+				"like": 1,
+				"comment": 1
+			},
+			"count": {
+				"likes": 12,
+				"comments": 2
+			},
+			"replies": [
+				{
+					"id": "reply_001",
+					"text": "Glad you found it helpful! 😊",
+					"created_time": "2024-01-15T11:15:00.000Z",
+					"liked": 0,
+					"type": "facebook",
+					"from": {
+						"id": "author",
+						"name": "VBOUT",
+						"image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/247085067_4655530064499440_6272120501542340504_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=104&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qbIIM7HmeKkQ7kNvwHhTt2n&_nc_oc=Adnma1mI6GI2z_Acmq3t5Oqek54_3cV9-80Qd6cbF_2sn1LMUbEVbkiKKU3LCVbxjNY&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AGaHXAAEAAAA&_nc_gid=dJ-zZcqTEjr3ECEqtXeqxw&oh=00_AfKDPyAwH_cl3m1pv7V1bCw1FTdtWPz1TWwJiZnjuqEQqA&oe=68278C67"
+					},
+					"can": {
+						"remove": 1,
+						"like": 1,
+						"comment": 0
+					},
+					"count": {
+						"likes": 3,
+						"comments": 0
+					},
+					"replies": []
+				},
+				{
+					"id": "reply_002",
+					"text": "Same here! This will save me so much time.",
+					"created_time": "2024-01-15T12:30:00.000Z",
+					"liked": 0,
+					"type": "facebook",
+					"from": {
+						"id": "user_002",
+						"name": "Mike Chen",
+						"image": "https://via.placeholder.com/40/f09/fff?text=MC"
+					},
+					"can": {
+						"remove": 0,
+						"like": 1,
+						"comment": 0
+					},
+					"count": {
+						"likes": 5,
+						"comments": 0
+					},
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": "comment_002",
+			"text": "I've been using VBOUT for 2 years now and it's amazing! The automation features are game-changers. 🚀",
+			"created_time": "2024-01-15T09:45:00.000Z",
+			"liked": 0,
+			"type": "facebook",
+			"from": {
+				"id": "user_003",
+				"name": "Emma Rodriguez",
+				"image": "https://via.placeholder.com/40/0f9/fff?text=ER"
+			},
+			"can": {
+				"remove": 0,
+				"like": 1,
+				"comment": 1
+			},
+			"count": {
+				"likes": 8,
+				"comments": 1
+			},
+			"replies": [
+				{
+					"id": "reply_003",
+					"text": "Thank you Emma! We're so happy to have you as a long-time customer! 💙",
+					"created_time": "2024-01-15T10:00:00.000Z",
+					"liked": 0,
+					"type": "facebook",
+					"from": {
+						"id": "author",
+						"name": "VBOUT",
+						"image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/247085067_4655530064499440_6272120501542340504_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=104&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qbIIM7HmeKkQ7kNvwHhTt2n&_nc_oc=Adnma1mI6GI2z_Acmq3t5Oqek54_3cV9-80Qd6cbF_2sn1LMUbEVbkiKKU3LCVbxjNY&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AGaHXAAEAAAA&_nc_gid=dJ-zZcqTEjr3ECEqtXeqxw&oh=00_AfKDPyAwH_cl3m1pv7V1bCw1FTdtWPz1TWwJiZnjuqEQqA&oe=68278C67"
+					},
+					"can": {
+						"remove": 1,
+						"like": 1,
+						"comment": 0
+					},
+					"count": {
+						"likes": 4,
+						"comments": 0
+					},
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": "comment_003",
+			"text": "Does this integrate with Shopify? Looking for a solution that works with our e-commerce store.",
+			"created_time": "2024-01-15T08:20:00.000Z",
+			"liked": 0,
+			"type": "facebook",
+			"from": {
+				"id": "user_004",
+				"name": "David Kim",
+				"image": "https://via.placeholder.com/40/90f/fff?text=DK"
+			},
+			"can": {
+				"remove": 0,
+				"like": 1,
+				"comment": 1
+			},
+			"count": {
+				"likes": 3,
+				"comments": 3
+			},
+			"replies": [
+				{
+					"id": "reply_004",
+					"text": "Yes! VBOUT has native Shopify integration. You can sync customers, track purchases, and create targeted campaigns based on shopping behavior.",
+					"created_time": "2024-01-15T08:45:00.000Z",
+					"liked": 0,
+					"type": "facebook",
+					"from": {
+						"id": "author",
+						"name": "VBOUT",
+						"image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/247085067_4655530064499440_6272120501542340504_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=104&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qbIIM7HmeKkQ7kNvwHhTt2n&_nc_oc=Adnma1mI6GI2z_Acmq3t5Oqek54_3cV9-80Qd6cbF_2sn1LMUbEVbkiKKU3LCVbxjNY&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AGaHXAAEAAAA&_nc_gid=dJ-zZcqTEjr3ECEqtXeqxw&oh=00_AfKDPyAwH_cl3m1pv7V1bCw1FTdtWPz1TWwJiZnjuqEQqA&oe=68278C67"
+					},
+					"can": {
+						"remove": 1,
+						"like": 1,
+						"comment": 0
+					},
+					"count": {
+						"likes": 7,
+						"comments": 0
+					},
+					"replies": []
+				},
+				{
+					"id": "reply_005",
+					"text": "Perfect! That's exactly what I needed to know. Going to sign up for the trial.",
+					"created_time": "2024-01-15T09:10:00.000Z",
+					"liked": 0,
+					"type": "facebook",
+					"from": {
+						"id": "user_004",
+						"name": "David Kim",
+						"image": "https://via.placeholder.com/40/90f/fff?text=DK"
+					},
+					"can": {
+						"remove": 0,
+						"like": 1,
+						"comment": 0
+					},
+					"count": {
+						"likes": 2,
+						"comments": 0
+					},
+					"replies": []
+				},
+				{
+					"id": "reply_006",
+					"text": "I use VBOUT with my Shopify store and it's been fantastic! The abandoned cart emails alone have increased my revenue by 15%.",
+					"created_time": "2024-01-15T13:20:00.000Z",
+					"liked": 0,
+					"type": "facebook",
+					"from": {
+						"id": "user_005",
+						"name": "Lisa Thompson",
+						"image": "https://via.placeholder.com/40/f90/fff?text=LT"
+					},
+					"can": {
+						"remove": 0,
+						"like": 1,
+						"comment": 0
+					},
+					"count": {
+						"likes": 9,
+						"comments": 0
+					},
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": "comment_004",
+			"text": "The social media scheduling feature is a lifesaver! Managing multiple accounts has never been easier. 📱✨",
+			"created_time": "2024-01-15T07:30:00.000Z",
+			"liked": 1,
+			"type": "facebook",
+			"from": {
+				"id": "user_006",
+				"name": "Alex Martinez",
+				"image": "https://via.placeholder.com/40/9f0/fff?text=AM"
+			},
+			"can": {
+				"remove": 0,
+				"like": 1,
+				"comment": 1
+			},
+			"count": {
+				"likes": 15,
+				"comments": 0
+			},
+			"replies": []
+		},
+		{
+			"id": "comment_005",
+			"text": "How does the pricing compare to other marketing automation platforms? Looking to switch from our current solution.",
+			"created_time": "2024-01-15T06:45:00.000Z",
+			"liked": 0,
+			"type": "facebook",
+			"from": {
+				"id": "user_007",
+				"name": "Jennifer Walsh",
+				"image": "https://via.placeholder.com/40/0f9/fff?text=JW"
+			},
+			"can": {
+				"remove": 0,
+				"like": 1,
+				"comment": 1
+			},
+			"count": {
+				"likes": 2,
+				"comments": 1
+			},
+			"replies": [
+				{
+					"id": "reply_007",
+					"text": "VBOUT offers competitive pricing with more features included in the base plans compared to most competitors. You can check our pricing page or contact our sales team for a custom quote! 💼",
+					"created_time": "2024-01-15T07:00:00.000Z",
+					"liked": 0,
+					"type": "facebook",
+					"from": {
+						"id": "author",
+						"name": "VBOUT",
+						"image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/247085067_4655530064499440_6272120501542340504_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=104&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qbIIM7HmeKkQ7kNvwHhTt2n&_nc_oc=Adnma1mI6GI2z_Acmq3t5Oqek54_3cV9-80Qd6cbF_2sn1LMUbEVbkiKKU3LCVbxjNY&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AGaHXAAEAAAA&_nc_gid=dJ-zZcqTEjr3ECEqtXeqxw&oh=00_AfKDPyAwH_cl3m1pv7V1bCw1FTdtWPz1TWwJiZnjuqEQqA&oe=68278C67"
+					},
+					"can": {
+						"remove": 1,
+						"like": 1,
+						"comment": 0
+					},
+					"count": {
+						"likes": 3,
+						"comments": 0
+					},
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": "comment_006",
+			"text": "Love the analytics dashboard! The insights have helped us optimize our campaigns significantly. Data-driven marketing at its best! 📊",
+			"created_time": "2024-01-15T05:15:00.000Z",
+			"liked": 0,
+			"type": "facebook",
+			"from": {
+				"id": "user_008",
+				"name": "Robert Anderson",
+				"image": "https://via.placeholder.com/40/f0f/fff?text=RA"
+			},
+			"can": {
+				"remove": 0,
+				"like": 1,
+				"comment": 1
+			},
+			"count": {
+				"likes": 11,
+				"comments": 0
+			},
+			"replies": []
+		},
+		{
+			"id": "comment_007",
+			"text": "Quick question - does VBOUT support SMS marketing as well? We're looking for an all-in-one solution.",
+			"created_time": "2024-01-15T14:50:00.000Z",
+			"liked": 0,
+			"type": "facebook",
+			"from": {
+				"id": "user_009",
+				"name": "Maria Gonzalez",
+				"image": "https://via.placeholder.com/40/ff0/fff?text=MG"
+			},
+			"can": {
+				"remove": 0,
+				"like": 1,
+				"comment": 1
+			},
+			"count": {
+				"likes": 1,
+				"comments": 2
+			},
+			"replies": [
+				{
+					"id": "reply_008",
+					"text": "Yes! VBOUT includes SMS marketing capabilities. You can send targeted text messages, automate SMS campaigns, and track delivery & engagement rates. 📱",
+					"created_time": "2024-01-15T15:10:00.000Z",
+					"liked": 0,
+					"type": "facebook",
+					"from": {
+						"id": "author",
+						"name": "VBOUT",
+						"image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/247085067_4655530064499440_6272120501542340504_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=104&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qbIIM7HmeKkQ7kNvwHhTt2n&_nc_oc=Adnma1mI6GI2z_Acmq3t5Oqek54_3cV9-80Qd6cbF_2sn1LMUbEVbkiKKU3LCVbxjNY&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AGaHXAAEAAAA&_nc_gid=dJ-zZcqTEjr3ECEqtXeqxw&oh=00_AfKDPyAwH_cl3m1pv7V1bCw1FTdtWPz1TWwJiZnjuqEQqA&oe=68278C67"
+					},
+					"can": {
+						"remove": 1,
+						"like": 1,
+						"comment": 0
+					},
+					"count": {
+						"likes": 4,
+						"comments": 0
+					},
+					"replies": []
+				},
+				{
+					"id": "reply_009",
+					"text": "That's great to hear! We've been using multiple tools and want to consolidate. This sounds perfect.",
+					"created_time": "2024-01-15T15:25:00.000Z",
+					"liked": 0,
+					"type": "facebook",
+					"from": {
+						"id": "user_009",
+						"name": "Maria Gonzalez",
+						"image": "https://via.placeholder.com/40/ff0/fff?text=MG"
+					},
+					"can": {
+						"remove": 0,
+						"like": 1,
+						"comment": 0
+					},
+					"count": {
+						"likes": 2,
+						"comments": 0
+					},
+					"replies": []
+				}
+			]
+		},
+		{
+			"id": "comment_008",
+			"text": "Just started my free trial yesterday and I'm already impressed! The interface is so intuitive compared to other platforms I've tried. 🎯",
+			"created_time": "2024-01-15T16:20:00.000Z",
+			"liked": 0,
+			"type": "facebook",
+			"from": {
+				"id": "user_010",
+				"name": "Kevin O'Brien",
+				"image": "https://via.placeholder.com/40/0ff/fff?text=KO"
+			},
+			"can": {
+				"remove": 0,
+				"like": 1,
+				"comment": 1
+			},
+			"count": {
+				"likes": 6,
+				"comments": 1
+			},
+			"replies": [
+				{
+					"id": "reply_010",
+					"text": "Welcome to VBOUT, Kevin! 🎉 If you need any help during your trial, our support team is here to assist. Feel free to reach out anytime!",
+					"created_time": "2024-01-15T16:35:00.000Z",
+					"liked": 0,
+					"type": "facebook",
+					"from": {
+						"id": "author",
+						"name": "VBOUT",
+						"image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/247085067_4655530064499440_6272120501542340504_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=104&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qbIIM7HmeKkQ7kNvwHhTt2n&_nc_oc=Adnma1mI6GI2z_Acmq3t5Oqek54_3cV9-80Qd6cbF_2sn1LMUbEVbkiKKU3LCVbxjNY&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AGaHXAAEAAAA&_nc_gid=dJ-zZcqTEjr3ECEqtXeqxw&oh=00_AfKDPyAwH_cl3m1pv7V1bCw1FTdtWPz1TWwJiZnjuqEQqA&oe=68278C67"
+					},
+					"can": {
+						"remove": 1,
+						"like": 1,
+						"comment": 0
+					},
+					"count": {
+						"likes": 5,
+						"comments": 0
+					},
+					"replies": []
+				}
+			]
+		}
+	],
+	"after": "MQZDZDNext",
+	"status": "success"
+}

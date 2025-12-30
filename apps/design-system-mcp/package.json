@@ -1,0 +1,35 @@
+{
+  "name": "@repo/design-system-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for AI-powered design system component generation",
+  "main": "dist/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "type-check": "tsc --noEmit"
+  },
+  "keywords": [
+    "mcp",
+    "design-system",
+    "ai",
+    "components"
+  ],
+  "author": "Thrive Team",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "@anthropic-ai/sdk": "^0.32.1",
+    "express": "^4.21.2",
+    "gray-matter": "^4.0.3",
+    "zod": "^3.24.1",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

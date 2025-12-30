@@ -1,0 +1,1676 @@
+{
+  "ActionBarContent": {
+    "props": [
+      {
+        "name": "portalled",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "portalRef",
+        "type": "React.RefObject<HTMLElement>",
+        "required": false
+      },
+      {
+        "name": "onEscape",
+        "type": "() => void",
+        "required": false
+      }
+    ]
+  },
+  "AvatarCheckbox": {
+    "props": [
+      {
+        "name": "checked",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "onCheckedChange",
+        "type": "(checked: boolean) => void",
+        "required": false
+      },
+      {
+        "name": "hiddenAvatar",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "isHovered",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "size",
+        "type": "\"sm\" | \"md\" | \"lg\" | \"xs\"",
+        "required": false
+      },
+      {
+        "name": "src",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "name",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "fallback",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "variant",
+        "type": "\"normal\" | \"blue\" | \"red\" | \"yellow\" | \"orange\" | \"purple\" | \"pink\" | \"green\" | \"indigo\" | \"teal\"",
+        "required": false
+      }
+    ]
+  },
+  "Avatar": {
+    "props": [
+      {
+        "name": "showStatus",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "statusColor",
+        "type": "\"success\" | \"warning\" | \"error\"",
+        "required": false
+      },
+      {
+        "name": "badgeCount",
+        "type": "number",
+        "required": false
+      }
+    ]
+  },
+  "AvatarFallback": {
+    "props": [
+      {
+        "name": "size",
+        "type": "\"sm\" | \"md\" | \"lg\" | \"xs\" | \"xl\"",
+        "required": false
+      },
+      {
+        "name": "showIcon",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "variant",
+        "type": "\"normal\" | \"blue\" | \"red\" | \"yellow\" | \"orange\" | \"purple\" | \"pink\" | \"green\" | \"indigo\" | \"teal\"",
+        "required": false
+      }
+    ]
+  },
+  "Badge": {
+    "props": [
+      {
+        "name": "leftIcon",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "rightIcon",
+        "type": "React.ReactNode",
+        "required": false
+      }
+    ]
+  },
+  "Box": {
+    "props": [
+      {
+        "name": "as",
+        "type": "React.ElementType<any, keyof React.JSX.IntrinsicElements>",
+        "required": false
+      },
+      {
+        "name": "asChild",
+        "type": "boolean",
+        "required": false
+      }
+    ]
+  },
+  "ButtonGroup": {
+    "props": [
+      {
+        "name": "children",
+        "type": "React.ReactNode",
+        "required": true
+      }
+    ]
+  },
+  "Button": {
+    "props": [
+      {
+        "name": "variant",
+        "type": "\"primary\" | \"destructive\" | \"secondary\" | \"ghost\" | \"ghost-body\" | \"ghost-destructive\" | \"link\"",
+        "required": false,
+        "description": "Visual style variant of the button",
+        "defaultValue": "\"primary\""
+      },
+      {
+        "name": "size",
+        "type": "\"xs\" | \"sm\" | \"md\" | \"lg\"",
+        "required": false,
+        "description": "Size of the button",
+        "defaultValue": "\"md\""
+      },
+      {
+        "name": "asChild",
+        "type": "boolean",
+        "required": false,
+        "description": "Render as child component using Radix Slot",
+        "defaultValue": "false"
+      },
+      {
+        "name": "loading",
+        "type": "boolean",
+        "required": false,
+        "description": "Show loading state with spinner icon",
+        "defaultValue": "false"
+      },
+      {
+        "name": "loadingText",
+        "type": "React.ReactNode",
+        "required": false,
+        "description": "Custom text to display during loading state"
+      },
+      {
+        "name": "leftIcon",
+        "type": "React.ReactNode",
+        "required": false,
+        "description": "Icon to display on the left side of the button"
+      },
+      {
+        "name": "rightIcon",
+        "type": "React.ReactNode",
+        "required": false,
+        "description": "Icon to display on the right side of the button"
+      }
+    ]
+  },
+  "CheckboxCardItem": {
+    "props": [
+      {
+        "name": "rootRef",
+        "type": "React.Ref<HTMLDivElement>",
+        "required": false
+      },
+      {
+        "name": "icon",
+        "type": "React.ReactElement<unknown, string | React.JSXElementConstructor<any>>",
+        "required": false
+      },
+      {
+        "name": "label",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "description",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "addon",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "indicator",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "indicatorPlacement",
+        "type": "\"start\" | \"end\" | \"inside\"",
+        "required": false
+      },
+      {
+        "name": "inputProps",
+        "type": "React.InputHTMLAttributes<HTMLInputElement>",
+        "required": false
+      }
+    ]
+  },
+  "DatePicker": {
+    "props": [
+      {
+        "name": "value",
+        "type": "Date | [Date, Date]",
+        "required": false,
+        "description": "Selected date value"
+      },
+      {
+        "name": "onChange",
+        "type": "(date: Date | [Date, Date]) => void",
+        "required": false,
+        "description": "Callback when date selection changes"
+      },
+      {
+        "name": "hasPresets",
+        "type": "boolean",
+        "required": false,
+        "description": "Whether to show preset date options"
+      },
+      {
+        "name": "presets",
+        "type": "import(\"/Users/mahmoudilyan/Sites/thrive-campaign/packages/ui/src/components/date-picker\").DatePreset[]",
+        "required": false,
+        "description": "Custom preset options to display"
+      },
+      {
+        "name": "placeholder",
+        "type": "string",
+        "required": false,
+        "description": "Input placeholder"
+      },
+      {
+        "name": "isRange",
+        "type": "boolean",
+        "required": false,
+        "description": "Allow range selection"
+      },
+      {
+        "name": "disabled",
+        "type": "boolean",
+        "required": false,
+        "description": "Whether the input is disabled"
+      },
+      {
+        "name": "dateFormat",
+        "type": "string",
+        "required": false,
+        "description": "Format string for date display"
+      },
+      {
+        "name": "disabledDays",
+        "type": "(date: Date) => boolean",
+        "required": false,
+        "description": "Matcher to disable specific dates"
+      },
+      {
+        "name": "startMonth",
+        "type": "Date",
+        "required": false,
+        "description": "Earliest date that can be displayed or selected"
+      },
+      {
+        "name": "endMonth",
+        "type": "Date",
+        "required": false,
+        "description": "Latest date that can be displayed or selected"
+      },
+      {
+        "name": "onClose",
+        "type": "() => void",
+        "required": false,
+        "description": "Callback when the popover is closed"
+      },
+      {
+        "name": "className",
+        "type": "string",
+        "required": false,
+        "description": "Additional className for the trigger"
+      },
+      {
+        "name": "triggerType",
+        "type": "\"button\" | \"input\"",
+        "required": false,
+        "description": "Trigger type - 'button' or 'input'",
+        "defaultValue": "'button'"
+      }
+    ]
+  },
+  "DescriptionListItem": {
+    "props": [
+      {
+        "name": "label",
+        "type": "string",
+        "required": true
+      },
+      {
+        "name": "description",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "className",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  "DescriptionList": {
+    "props": [
+      {
+        "name": "items",
+        "type": "DescriptionListItemProps[]",
+        "required": true
+      },
+      {
+        "name": "className",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  "DialogManager": {
+    "props": [
+      {
+        "name": "config",
+        "type": "import(\"/Users/mahmoudilyan/Sites/thrive-campaign/packages/ui/src/components/dialog-manager\").DialogManagerConfig",
+        "required": true,
+        "description": "Dialog configuration including dialog registry and default settings"
+      }
+    ]
+  },
+  "EmptyState": {
+    "props": [
+      {
+        "name": "title",
+        "type": "string",
+        "required": true
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "icon",
+        "type": "React.ReactNode",
+        "required": false
+      }
+    ]
+  },
+  "Field": {
+    "props": [
+      {
+        "name": "children",
+        "type": "React.ReactNode",
+        "required": true
+      },
+      {
+        "name": "label",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "helperText",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "errorText",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "optionalText",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "required",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "className",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  "Flex": {
+    "props": [
+      {
+        "name": "direction",
+        "type": "\"col\" | \"row\" | \"row-reverse\" | \"col-reverse\"",
+        "required": false
+      },
+      {
+        "name": "wrap",
+        "type": "\"wrap\" | \"wrap-reverse\" | \"nowrap\"",
+        "required": false
+      },
+      {
+        "name": "align",
+        "type": "\"center\" | \"start\" | \"end\" | \"baseline\" | \"stretch\"",
+        "required": false
+      },
+      {
+        "name": "justify",
+        "type": "\"center\" | \"start\" | \"end\" | \"stretch\" | \"between\" | \"around\" | \"evenly\"",
+        "required": false
+      },
+      {
+        "name": "gap",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  "IconButton": {
+    "props": [
+      {
+        "name": "variant",
+        "type": "\"primary\" | \"destructive\" | \"secondary\" | \"ghost\" | \"link\"",
+        "required": false,
+        "description": "Visual style variant of the icon button",
+        "defaultValue": "\"primary\""
+      },
+      {
+        "name": "size",
+        "type": "\"xs\" | \"sm\" | \"md\" | \"lg\"",
+        "required": false,
+        "description": "Size of the icon button",
+        "defaultValue": "\"md\""
+      },
+      {
+        "name": "asChild",
+        "type": "boolean",
+        "required": false,
+        "description": "Render as child component using Radix Slot",
+        "defaultValue": "false"
+      },
+      {
+        "name": "loading",
+        "type": "boolean",
+        "required": false,
+        "description": "Show loading state with spinning refresh icon",
+        "defaultValue": "false"
+      },
+      {
+        "name": "icon",
+        "type": "React.ReactNode",
+        "required": false,
+        "description": "The icon element to display (typically from react-icons/md)"
+      }
+    ]
+  },
+  "UiIcon": {
+    "props": [
+      {
+        "name": "icon",
+        "type": "React.ReactElement<unknown, string | React.JSXElementConstructor<any>>",
+        "required": true,
+        "description": "The icon element to render (e.g., from react-icons/md)"
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "required": false,
+        "description": "Accessible label for screen readers. If omitted, icon is hidden from AT."
+      },
+      {
+        "name": "fill",
+        "type": "string",
+        "required": false,
+        "description": "Primary color token suffix (maps to CSS var --color-<fill>). Default: 'ink'"
+      },
+      {
+        "name": "fillSecondary",
+        "type": "string",
+        "required": false,
+        "description": "Secondary color token suffix for two-tone icons. If omitted, defaults to the\nprimary fill with 60% opacity via CSS."
+      }
+    ]
+  },
+  "InputShortcode": {
+    "props": [
+      {
+        "name": "value",
+        "type": "string",
+        "required": true
+      },
+      {
+        "name": "onChange",
+        "type": "(value: string) => void",
+        "required": true
+      },
+      {
+        "name": "shortcodes",
+        "type": "ShortcodeGroup[]",
+        "required": false
+      },
+      {
+        "name": "shortcodesApi",
+        "type": "any",
+        "required": false
+      },
+      {
+        "name": "shortcodesParams",
+        "type": "any",
+        "required": false
+      },
+      {
+        "name": "onLoadShortcodes",
+        "type": "() => Promise<ShortcodeGroup[]>",
+        "required": false
+      },
+      {
+        "name": "enableEmoji",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "emojiPickerTheme",
+        "type": "import(\"/Users/mahmoudilyan/Sites/thrive-campaign/node_modules/.pnpm/emoji-picker-react@4.13.2_react@19.1.1/node_modules/emoji-picker-react/dist/types/exposedTypes\").Theme",
+        "required": false
+      },
+      {
+        "name": "onEmojiClick",
+        "type": "(emoji: string) => void",
+        "required": false
+      }
+    ]
+  },
+  "Input": {
+    "props": [
+      {
+        "name": "startAdornment",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "endAdornment",
+        "type": "React.ReactNode",
+        "required": false
+      }
+    ]
+  },
+  "LinkButton": {
+    "props": [
+      {
+        "name": "href",
+        "type": "string",
+        "required": true
+      }
+    ]
+  },
+  "PageSection": {
+    "props": [
+      {
+        "name": "title",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "subtitle",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "actions",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "breadcrumbs",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "className",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "children",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "showToggle",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "onToggle",
+        "type": "() => void",
+        "required": false
+      }
+    ]
+  },
+  "MainContent": {
+    "props": [
+      {
+        "name": "className",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "children",
+        "type": "React.ReactNode",
+        "required": false
+      }
+    ]
+  },
+  "MenuItemGroup": {
+    "props": [
+      {
+        "name": "title",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  "MenuTriggerItem": {
+    "props": [
+      {
+        "name": "startIcon",
+        "type": "React.ReactNode",
+        "required": false
+      }
+    ]
+  },
+  "NavigationAccordion": {
+    "props": [
+      {
+        "name": "categories",
+        "type": "import(\"/Users/mahmoudilyan/Sites/thrive-campaign/packages/ui/src/components/navigation-accordion\").Category[]",
+        "required": true
+      },
+      {
+        "name": "items",
+        "type": "T[]",
+        "required": true
+      },
+      {
+        "name": "isLoading",
+        "type": "boolean",
+        "required": true
+      },
+      {
+        "name": "selectedItemId",
+        "type": "string",
+        "required": true
+      },
+      {
+        "name": "onSelectItem",
+        "type": "(item: T) => void",
+        "required": true
+      },
+      {
+        "name": "getLogoIcon",
+        "type": "(type: string) => React.ElementType<any, keyof React.JSX.IntrinsicElements>",
+        "required": true
+      }
+    ]
+  },
+  "NumberInput": {
+    "props": [
+      {
+        "name": "onValueChange",
+        "type": "(value: number) => void",
+        "required": false
+      },
+      {
+        "name": "defaultValue",
+        "type": "number",
+        "required": false
+      },
+      {
+        "name": "value",
+        "type": "number",
+        "required": false
+      },
+      {
+        "name": "min",
+        "type": "number",
+        "required": false
+      },
+      {
+        "name": "max",
+        "type": "number",
+        "required": false
+      },
+      {
+        "name": "step",
+        "type": "number",
+        "required": false
+      },
+      {
+        "name": "precision",
+        "type": "number",
+        "required": false
+      }
+    ]
+  },
+  "PrimarySidebar": {
+    "props": [
+      {
+        "name": "logo",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "items",
+        "type": "import(\"/Users/mahmoudilyan/Sites/thrive-campaign/packages/ui/src/components/primary-sidebar\").PrimaryNavigationItem[]",
+        "required": false
+      },
+      {
+        "name": "bottomItems",
+        "type": "Omit<import(\"/Users/mahmoudilyan/Sites/thrive-campaign/packages/ui/src/components/primary-sidebar\").PrimaryNavigationItem, \"subNavigationItems\">[]",
+        "required": false
+      },
+      {
+        "name": "userAvatar",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "onItemSelect",
+        "type": "(item: import(\"/Users/mahmoudilyan/Sites/thrive-campaign/packages/ui/src/components/primary-sidebar\").PrimaryNavigationItem) => void",
+        "required": false
+      },
+      {
+        "name": "onSecondaryItemSelect",
+        "type": "(item: import(\"/Users/mahmoudilyan/Sites/thrive-campaign/packages/ui/src/components/primary-sidebar\").SecondaryNavigationItem, primaryItem: import(\"/Users/mahmoudilyan/Sites/thrive-campaign/packages/ui/src/components/primary-sidebar\").PrimaryNavigationItem) => void",
+        "required": false
+      },
+      {
+        "name": "onUserAvatarClick",
+        "type": "() => void",
+        "required": false
+      },
+      {
+        "name": "footerContent",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "variant",
+        "type": "\"minimized\" | \"expanded\"",
+        "required": false
+      },
+      {
+        "name": "defaultVariant",
+        "type": "\"minimized\" | \"expanded\"",
+        "required": false
+      },
+      {
+        "name": "onVariantChange",
+        "type": "(variant: \"minimized\" | \"expanded\") => void",
+        "required": false
+      },
+      {
+        "name": "defaultSecondaryOpen",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "onSecondaryToggle",
+        "type": "(isOpen: boolean) => void",
+        "required": false
+      },
+      {
+        "name": "className",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  "ProgressRoot": {
+    "props": [
+      {
+        "name": "value",
+        "type": "number",
+        "required": false
+      }
+    ]
+  },
+  "ThemeProvider": {
+    "props": [
+      {
+        "name": "children",
+        "type": "React.ReactNode",
+        "required": true
+      },
+      {
+        "name": "defaultTheme",
+        "type": "\"light\" | \"dark\"",
+        "required": false
+      }
+    ]
+  },
+  "Provider": {
+    "props": [
+      {
+        "name": "children",
+        "type": "React.ReactNode",
+        "required": true
+      },
+      {
+        "name": "theme",
+        "type": "\"light\" | \"dark\"",
+        "required": false
+      }
+    ]
+  },
+  "RadioCardItem": {
+    "props": [
+      {
+        "name": "rootRef",
+        "type": "React.Ref<HTMLDivElement>",
+        "required": false
+      },
+      {
+        "name": "icon",
+        "type": "React.ReactElement<unknown, string | React.JSXElementConstructor<any>>",
+        "required": false
+      },
+      {
+        "name": "label",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "description",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "addon",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "indicator",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "indicatorPlacement",
+        "type": "\"start\" | \"end\" | \"inside\"",
+        "required": false
+      },
+      {
+        "name": "inputProps",
+        "type": "React.InputHTMLAttributes<HTMLInputElement>",
+        "required": false
+      }
+    ]
+  },
+  "Radio": {
+    "props": [
+      {
+        "name": "rootRef",
+        "type": "React.Ref<HTMLDivElement>",
+        "required": false
+      },
+      {
+        "name": "inputProps",
+        "type": "React.InputHTMLAttributes<HTMLInputElement>",
+        "required": false
+      }
+    ]
+  },
+  "Rating": {
+    "props": [
+      {
+        "name": "icon",
+        "type": "React.ReactElement<unknown, string | React.JSXElementConstructor<any>>",
+        "required": false
+      },
+      {
+        "name": "count",
+        "type": "number",
+        "required": false
+      },
+      {
+        "name": "value",
+        "type": "number",
+        "required": false
+      },
+      {
+        "name": "label",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "readOnly",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "onValueChange",
+        "type": "(value: number) => void",
+        "required": false
+      }
+    ]
+  },
+  "RichTextInput": {
+    "props": [
+      {
+        "name": "value",
+        "type": "string",
+        "required": true
+      },
+      {
+        "name": "onChange",
+        "type": "(value: string) => void",
+        "required": true
+      },
+      {
+        "name": "shortcodes",
+        "type": "ShortcodeGroup[]",
+        "required": false
+      },
+      {
+        "name": "emojiPickerTheme",
+        "type": "\"light\" | \"dark\" | \"auto\"",
+        "required": false
+      }
+    ]
+  },
+  "SegmentedControl": {
+    "props": [
+      {
+        "name": "items",
+        "type": "(string | Item)[]",
+        "required": true
+      },
+      {
+        "name": "value",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "onValueChange",
+        "type": "(value: string) => void",
+        "required": false
+      },
+      {
+        "name": "className",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  "SelectCheckboxSearchable": {
+    "props": [
+      {
+        "name": "items",
+        "type": "T[]",
+        "required": true
+      },
+      {
+        "name": "placeholder",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "searchPlaceholder",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "onChange",
+        "type": "(value: string[]) => void",
+        "required": false
+      },
+      {
+        "name": "value",
+        "type": "string[]",
+        "required": false
+      },
+      {
+        "name": "labelKey",
+        "type": "keyof T",
+        "required": false
+      },
+      {
+        "name": "valueKey",
+        "type": "keyof T",
+        "required": false
+      },
+      {
+        "name": "descriptionKey",
+        "type": "keyof T",
+        "required": false
+      },
+      {
+        "name": "className",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  "SelectMultiCategory": {
+    "props": [
+      {
+        "name": "categories",
+        "type": "import(\"/Users/mahmoudilyan/Sites/thrive-campaign/packages/ui/src/components/select-multi-category\").Category[]",
+        "required": true
+      },
+      {
+        "name": "value",
+        "type": "string[]",
+        "required": false
+      },
+      {
+        "name": "onChange",
+        "type": "(value: string[]) => void",
+        "required": false
+      },
+      {
+        "name": "placeholder",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "searchPlaceholder",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "disabled",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "isLoading",
+        "type": "boolean",
+        "required": false
+      }
+    ]
+  },
+  "SelectionManager": {
+    "props": [
+      {
+        "name": "categories",
+        "type": "Category[]",
+        "required": true
+      },
+      {
+        "name": "checkboxItems",
+        "type": "SimpleItem[]",
+        "required": true
+      },
+      {
+        "name": "categoryPlaceholder",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "checkboxPlaceholder",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "onChange",
+        "type": "(selections: { categories: string[]; checkboxItems: string[]; }) => void",
+        "required": false
+      },
+      {
+        "name": "defaultCategorySelections",
+        "type": "string[]",
+        "required": false
+      },
+      {
+        "name": "defaultCheckboxSelections",
+        "type": "string[]",
+        "required": false
+      },
+      {
+        "name": "title",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "categoryLabel",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "checkboxLabel",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "width",
+        "type": "string | number",
+        "required": false
+      },
+      {
+        "name": "className",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  "Slider": {
+    "props": [
+      {
+        "name": "marks",
+        "type": "(number | { value: number; label: React.ReactNode; })[]",
+        "required": false
+      },
+      {
+        "name": "label",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "showValue",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "size",
+        "type": "\"sm\" | \"md\" | \"lg\"",
+        "required": false
+      }
+    ]
+  },
+  "Spinner": {
+    "props": [
+      {
+        "name": "label",
+        "type": "string",
+        "required": false,
+        "description": "Optional label for accessibility"
+      }
+    ]
+  },
+  "Splitter": {
+    "props": [
+      {
+        "name": "children",
+        "type": "React.ReactNode[]",
+        "required": true
+      },
+      {
+        "name": "defaultSizes",
+        "type": "number[]",
+        "required": false
+      },
+      {
+        "name": "direction",
+        "type": "\"horizontal\" | \"vertical\"",
+        "required": false
+      },
+      {
+        "name": "onSizesChange",
+        "type": "(sizes: number[]) => void",
+        "required": false
+      },
+      {
+        "name": "className",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  "StatCard": {
+    "props": [
+      {
+        "name": "icon",
+        "type": "import(\"/Users/mahmoudilyan/Sites/thrive-campaign/node_modules/.pnpm/react-icons@5.5.0_react@19.1.1/node_modules/react-icons/lib/iconBase\").IconType",
+        "required": true
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "required": true
+      },
+      {
+        "name": "value",
+        "type": "string | number",
+        "required": true
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "required": false
+      }
+    ]
+  },
+  "Stepper": {
+    "props": [
+      {
+        "name": "value",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "defaultValue",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "onValueChange",
+        "type": "(value: string) => void",
+        "required": false
+      },
+      {
+        "name": "onValueComplete",
+        "type": "(value: string, completed: boolean) => void",
+        "required": false
+      },
+      {
+        "name": "onValueAdd",
+        "type": "(value: string) => void",
+        "required": false
+      },
+      {
+        "name": "onValueRemove",
+        "type": "(value: string) => void",
+        "required": false
+      },
+      {
+        "name": "dir",
+        "type": "Direction",
+        "required": false
+      },
+      {
+        "name": "orientation",
+        "type": "Orientation",
+        "required": false
+      },
+      {
+        "name": "loop",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "disabled",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "activationMode",
+        "type": "ActivationMode",
+        "required": false
+      }
+    ]
+  },
+  "StepperList": {
+    "props": [
+      {
+        "name": "asChild",
+        "type": "boolean",
+        "required": false
+      }
+    ]
+  },
+  "StepperItem": {
+    "props": [
+      {
+        "name": "value",
+        "type": "string",
+        "required": true
+      },
+      {
+        "name": "completed",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "disabled",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "asChild",
+        "type": "boolean",
+        "required": false
+      }
+    ]
+  },
+  "StepperTrigger": {
+    "props": [
+      {
+        "name": "asChild",
+        "type": "boolean",
+        "required": false
+      }
+    ]
+  },
+  "StepperIndicator": {
+    "props": [
+      {
+        "name": "render",
+        "type": "(state: DataState) => React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "asChild",
+        "type": "boolean",
+        "required": false
+      }
+    ]
+  },
+  "StepperSeparator": {
+    "props": [
+      {
+        "name": "forceMount",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "asChild",
+        "type": "boolean",
+        "required": false
+      }
+    ]
+  },
+  "StepperTitle": {
+    "props": [
+      {
+        "name": "asChild",
+        "type": "boolean",
+        "required": false
+      }
+    ]
+  },
+  "StepperDescription": {
+    "props": [
+      {
+        "name": "asChild",
+        "type": "boolean",
+        "required": false
+      }
+    ]
+  },
+  "StepperContent": {
+    "props": [
+      {
+        "name": "value",
+        "type": "string",
+        "required": true
+      },
+      {
+        "name": "forceMount",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "asChild",
+        "type": "boolean",
+        "required": false
+      }
+    ]
+  },
+  "StepperTriggerControl": {
+    "props": [
+      {
+        "name": "asChild",
+        "type": "boolean",
+        "required": false
+      }
+    ]
+  },
+  "StepsNav": {
+    "props": [
+      {
+        "name": "title",
+        "type": "string | React.ReactElement<unknown, string | React.JSXElementConstructor<any>>",
+        "required": false
+      },
+      {
+        "name": "subtitle",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "trailing",
+        "type": "React.ReactNode",
+        "required": false
+      }
+    ]
+  },
+  "StepsItem": {
+    "props": [
+      {
+        "name": "label",
+        "type": "React.ReactNode",
+        "required": true
+      },
+      {
+        "name": "description",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "status",
+        "type": "StepsStatus",
+        "required": false
+      },
+      {
+        "name": "stepIndex",
+        "type": "number",
+        "required": false
+      }
+    ]
+  },
+  "StepsFooter": {
+    "props": [
+      {
+        "name": "showDivider",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "actions",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "secondaryAction",
+        "type": "React.ReactNode",
+        "required": false
+      }
+    ]
+  },
+  "StepsCompleted": {
+    "props": [
+      {
+        "name": "icon",
+        "type": "React.ReactNode",
+        "required": false
+      }
+    ]
+  },
+  "Tabs": {
+    "props": [
+      {
+        "name": "variant",
+        "type": "\"line\" | \"pill\"",
+        "required": false
+      },
+      {
+        "name": "orientation",
+        "type": "\"horizontal\" | \"vertical\"",
+        "required": false
+      }
+    ]
+  },
+  "Tag": {
+    "props": [
+      {
+        "name": "startElement",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "endElement",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "onClose",
+        "type": "VoidFunction",
+        "required": false
+      },
+      {
+        "name": "closable",
+        "type": "boolean",
+        "required": false
+      }
+    ]
+  },
+  "Text": {
+    "props": [
+      {
+        "name": "align",
+        "type": "Align",
+        "required": false
+      },
+      {
+        "name": "as",
+        "type": "AsElement",
+        "required": false
+      },
+      {
+        "name": "breakWord",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "children",
+        "type": "React.ReactNode",
+        "required": false
+      },
+      {
+        "name": "color",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "fontWeight",
+        "type": "FontWeight",
+        "required": false
+      },
+      {
+        "name": "id",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "numeric",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "truncate",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "variant",
+        "type": "TextVariant",
+        "required": false
+      },
+      {
+        "name": "visuallyHidden",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "textDecoration",
+        "type": "\"line-through\"",
+        "required": false
+      },
+      {
+        "name": "asChild",
+        "type": "boolean",
+        "required": false
+      }
+    ]
+  },
+  "Tooltip": {
+    "props": [
+      {
+        "name": "showArrow",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "portalled",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "content",
+        "type": "React.ReactNode",
+        "required": true
+      },
+      {
+        "name": "contentProps",
+        "type": "Omit<Omit<import(\"/Users/mahmoudilyan/Sites/thrive-campaign/node_modules/.pnpm/@radix-ui+react-tooltip@1.2.8_@types+react-dom@19.1.9_@types+react@19.1.12__@types+react@19.1_xvsirg77z6tgfg6ck6fmtxftrq/node_modules/@radix-ui/react-tooltip/dist/index\").TooltipContentProps & React.RefAttributes<HTMLDivElement>, \"ref\"> & React.RefAttributes<HTMLDivElement>, \"ref\">",
+        "required": false
+      },
+      {
+        "name": "disabled",
+        "type": "boolean",
+        "required": false
+      },
+      {
+        "name": "children",
+        "type": "React.ReactNode",
+        "required": true
+      },
+      {
+        "name": "side",
+        "type": "\"top\" | \"right\" | \"bottom\" | \"left\"",
+        "required": false
+      },
+      {
+        "name": "align",
+        "type": "\"center\" | \"start\" | \"end\"",
+        "required": false
+      },
+      {
+        "name": "delayDuration",
+        "type": "number",
+        "required": false
+      },
+      {
+        "name": "skipDelayDuration",
+        "type": "number",
+        "required": false
+      },
+      {
+        "name": "disableHoverableContent",
+        "type": "boolean",
+        "required": false
+      }
+    ]
+  },
+  "Icon": {
+    "props": [
+      {
+        "name": "fill",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "strokeColor",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "width",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "height",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "className",
+        "type": "string",
+        "required": false
+      }
+    ]
+  }
+}

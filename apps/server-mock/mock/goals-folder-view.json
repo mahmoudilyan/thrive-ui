@@ -1,0 +1,287 @@
+{
+	"data": [
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2568",
+			"folderName": "SMS Campaigns",
+			"folderItems": 0,
+			"id": "2568",
+			"name": "SMS Campaigns",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Goals/Folder/2568"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"value": "-",
+			"achieved": "-",
+			"status-label": "-"
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2576",
+			"folderName": "Web Push Campaigns",
+			"folderItems": 0,
+			"id": "2576",
+			"name": "Web Push Campaigns",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Goals/Folder/2576"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"value": "-",
+			"achieved": "-",
+			"status-label": "-"
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2318",
+			"folderName": "Done-for-you funnel Campaign",
+			"folderItems": 0,
+			"id": "2318",
+			"name": "Done-for-you funnel Campaign",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Goals/Folder/2318"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"value": "-",
+			"achieved": "-",
+			"status-label": "-"
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2309",
+			"folderName": "Case Studies",
+			"folderItems": 0,
+			"id": "2309",
+			"name": "Case Studies",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Goals/Folder/2309"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"value": "-",
+			"achieved": "-",
+			"status-label": "-"
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2310",
+			"folderName": "VBOUT Agency Features",
+			"folderItems": 0,
+			"id": "2310",
+			"name": "VBOUT Agency Features",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Goals/Folder/2310"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"value": "-",
+			"achieved": "-",
+			"status-label": "-"
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2577",
+			"folderName": "Assigning Tags",
+			"folderItems": 0,
+			"id": "2577",
+			"name": "Assigning Tags",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Goals/Folder/2577"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"value": "-",
+			"achieved": "-",
+			"status-label": "-"
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "7804",
+			"folderName": "Top 10 Influencers Campaign",
+			"folderItems": 0,
+			"id": "7804",
+			"name": "Top 10 Influencers Campaign",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Goals/Folder/7804"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"value": "-",
+			"achieved": "-",
+			"status-label": "-"
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2569",
+			"folderName": "Sunset Policy Campaign",
+			"folderItems": 0,
+			"id": "2569",
+			"name": "Sunset Policy Campaign",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Goals/Folder/2569"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"value": "-",
+			"achieved": "-",
+			"status-label": "-"
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "8167",
+			"folderName": "Social Media and Chatbot automation - Richard",
+			"folderItems": 0,
+			"id": "8167",
+			"name": "Social Media and Chatbot automation - Richard",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Goals/Folder/8167"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"value": "-",
+			"achieved": "-",
+			"status-label": "-"
+		},
+		{
+			"indexid": "icon-folder",
+			"rowtype": "folder",
+			"folderId": "2317",
+			"folderName": "VBOUT Partners Monthly Meeting Groups",
+			"folderItems": 0,
+			"id": "2317",
+			"name": "VBOUT Partners Monthly Meeting Groups",
+			"actionslist": {
+				"master": {
+					"text": "View",
+					"goToView": "Goals/Folder/2317"
+				},
+				"list": {
+					"rename": {
+						"text": "Rename Folder",
+						"className": "actionEditFolder"
+					},
+					"delete": {
+						"text": "Delete Folder",
+						"className": "actionDeleteFolder"
+					}
+				}
+			},
+			"value": "-",
+			"achieved": "-",
+			"status-label": "-"
+		}
+	],
+	"draw": 1,
+	"recordsTotal": "59",
+	"recordsFiltered": "59"
+}

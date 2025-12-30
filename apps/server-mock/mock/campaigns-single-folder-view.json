@@ -1,0 +1,85 @@
+{
+	"data": [
+		{
+			"id": "296772",
+			"type": "regular",
+			"campaign": {
+				"name": "Holiday Campaign",
+				"subject": "Happy Holidays from Our Team!",
+				"from": "marketing@company.com",
+				"fromname": "Marketing Team",
+				"replyto": "marketing@company.com",
+				"type": "Regular",
+				"thumb": "https://assets.vbt.io/public/capture_url/capture_6733773003.png",
+				"details": {
+					"email_opened": { "r": 1250 },
+					"link_clicked": { "r": 85 }
+				},
+				"status": {
+					"name": "sent",
+					"scheduled": "never"
+				}
+			},
+			"target": {
+				"lists": ["Holiday List"],
+				"audiences": ["All Subscribers"],
+				"folders": [],
+				"total": 5000
+			},
+			"labels": {
+				"sent": "Sent"
+			},
+			"date": "Created on 12/15/2024 10:00 AM",
+			"startsenddate": "12/20/2024 09:00 AM",
+			"endsenddate": "12/20/2024 11:30 AM",
+			"actions": {
+				"folder": {
+					"text": "Move From Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Test Folder"
+		},
+		{
+			"id": "295123",
+			"type": "regular",
+			"campaign": {
+				"name": "Product Update",
+				"subject": "New Features Available Now",
+				"from": "updates@company.com",
+				"fromname": "Product Team",
+				"replyto": "updates@company.com",
+				"type": "Regular",
+				"thumb": "https://assets.vbt.io/public/capture_url/capture_1234567890.png",
+				"details": {
+					"email_opened": { "r": 800 },
+					"link_clicked": { "r": 120 }
+				},
+				"status": {
+					"name": "draft",
+					"scheduled": "never"
+				}
+			},
+			"target": {
+				"lists": ["Product Users"],
+				"audiences": [],
+				"folders": [],
+				"total": 2500
+			},
+			"labels": {
+				"draft": "Draft"
+			},
+			"date": "Created on 12/10/2024 02:30 PM",
+			"actions": {
+				"folder": {
+					"text": "Move From Folder",
+					"className": "actionMoveFromFolder"
+				}
+			},
+			"folder_name": "Test Folder"
+		}
+	],
+	"draw": 1,
+	"recordsTotal": "2",
+	"recordsFiltered": "2"
+}
