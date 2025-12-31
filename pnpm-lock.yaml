@@ -730,13 +730,13 @@ importers:
         specifier: ^1.4.3
         version: 1.4.3(@types/react-dom@19.2.3(@types/react@19.2.7))(@types/react@19.2.7)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
       react:
-        specifier: ^19.2.0
+        specifier: ^19.2.3
         version: 19.2.3
       react-day-picker:
         specifier: ^9.6.7
         version: 9.13.0(react@19.2.3)
       react-dom:
-        specifier: ^19.2.0
+        specifier: ^19.2.3
         version: 19.2.3(react@19.2.3)
       react-hook-form:
         specifier: ^7.63.0
@@ -770,10 +770,10 @@ importers:
         specifier: ^4.1.13
         version: 4.1.18
       '@types/react':
-        specifier: ^19.2.0
+        specifier: ^19.2.3
         version: 19.2.7
       '@types/react-dom':
-        specifier: ^19.2.0
+        specifier: ^19.2.3
         version: 19.2.3(@types/react@19.2.7)
       autoprefixer:
         specifier: ^10.4.17
