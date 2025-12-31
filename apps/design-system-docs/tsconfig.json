@@ -20,7 +20,8 @@
     ],
     "paths": {
       "@/*": ["./src/*"],
-      "@thrive/ui": ["../../packages/ui/src/index.ts"]
+      "@thrive/ui": ["../../packages/ui/src/index.ts"],
+      "@thrive/ui/style.css": ["../../packages/ui/src/styles/globals.css"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
