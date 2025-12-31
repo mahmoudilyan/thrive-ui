@@ -28,6 +28,8 @@
     "build": "rm -f dist/*.js dist/*.mjs && pnpm tailwindcss -i src/styles/globals.css -o dist/style.css --minify && tsup",
     "build:css": "tailwindcss -i src/styles/globals.css -o dist/style.css --minify",
     "tailwind": "tailwindcss -i src/styles/globals.css -o dist/style.css --minify",
+    "prepare": "mkdir -p dist && (test -f dist/style.css || pnpm build:css)",
+    "postinstall": "mkdir -p dist && (test -f dist/style.css || pnpm build:css)",
     "dev": "tsup --watch",
     "dev:js": "tsup --watch",
     "dev:css": "tailwindcss -i src/styles/globals.css -o dist/style.css --watch",
@@ -36,8 +38,8 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "peerDependencies": {
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
   },
   "dependencies": {
     "@diceui/tags-input": "^0.7.2",
@@ -76,8 +78,8 @@
     "@esbuild-plugins/tsconfig-paths": "^0.1.2",
     "@tailwindcss/cli": "^4.1.13",
     "@tailwindcss/postcss": "^4.1.13",
-    "@types/react": "^19.2.0",
-    "@types/react-dom": "^19.2.0",
+    "@types/react": "^19.2.3",
+    "@types/react-dom": "^19.2.3",
     "autoprefixer": "^10.4.17",
     "concurrently": "^9.1.2",
     "postcss": "^8.4.35",
