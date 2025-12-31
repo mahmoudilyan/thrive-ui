@@ -15,7 +15,7 @@ interface SidebarContextType extends SidebarState {
 	toggleSecondary: () => void;
 	setActiveMainItem: (itemId: string) => void;
 	setActiveSecondaryItem: (itemId: string) => void;
-	setActiveSubItem: (itemId: string) => void;
+	setActiveSubItem: (itemId: string | null) => void;
 	toggleSecondaryExpanded: (itemId: string) => void;
 	setExpandedSecondaryItems: (itemIds: string[]) => void;
 
@@ -30,7 +30,7 @@ type SidebarAction =
 	| { type: 'TOGGLE_SECONDARY' }
 	| { type: 'SET_ACTIVE_MAIN_ITEM'; payload: string }
 	| { type: 'SET_ACTIVE_SECONDARY_ITEM'; payload: string }
-	| { type: 'SET_ACTIVE_SUB_ITEM'; payload: string }
+	| { type: 'SET_ACTIVE_SUB_ITEM'; payload: string | null }
 	| { type: 'TOGGLE_SECONDARY_EXPANDED'; payload: string }
 	| { type: 'SET_EXPANDED_SECONDARY_ITEMS'; payload: string[] }
 	| { type: 'SET_MAIN_NAV_ITEMS'; payload: NavigationItem[] };
@@ -126,7 +126,7 @@ export function SidebarProvider({
 		dispatch({ type: 'SET_ACTIVE_SECONDARY_ITEM', payload: itemId });
 	}, []);
 
-	const setActiveSubItem = useCallback((itemId: string) => {
+	const setActiveSubItem = useCallback((itemId: string | null) => {
 		dispatch({ type: 'SET_ACTIVE_SUB_ITEM', payload: itemId });
 	}, []);
 

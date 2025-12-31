@@ -1,7 +1,6 @@
 'use client';
 
 import * as React from 'react';
-import Link from 'next/link';
 import { Button, ButtonProps } from './button';
 
 export interface LinkButtonProps extends Omit<ButtonProps, 'asChild'> {
@@ -14,7 +13,7 @@ export const LinkButton = React.forwardRef<HTMLAnchorElement, LinkButtonProps>(f
 ) {
 	return (
 		<Button asChild {...props}>
-			<Link ref={ref} href={href} />
+			<a ref={ref} href={href} />
 		</Button>
 	);
 });

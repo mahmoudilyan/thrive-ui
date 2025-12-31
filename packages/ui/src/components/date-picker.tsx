@@ -3,6 +3,7 @@
 import * as React from 'react';
 import { format } from 'date-fns';
 import { MdCalendarToday } from 'react-icons/md';
+import type { DateRange } from 'react-day-picker';
 import { Calendar } from './calendar';
 import { Popover, PopoverContent, PopoverTrigger } from './popover';
 import { Button } from './button';
@@ -240,7 +241,7 @@ export function DatePicker({
 		setSelectedDate(day);
 	};
 
-	const handleRangeDaySelect = (range: { from: Date | undefined; to: Date | undefined }) => {
+	const handleRangeDaySelect = (range: DateRange | undefined) => {
 		if (range?.from) {
 			setSelectedPreset('Custom');
 			setSelectedDate(range.from);

@@ -1,7 +1,5 @@
 'use client';
 
-import Link from 'next/link';
-import { usePathname, useRouter } from 'next/navigation';
 import { Button } from '../button';
 import { MdMoreHoriz } from 'react-icons/md';
 import {
@@ -22,7 +20,6 @@ import {
 interface BreadcrumbItemType {
 	label: string;
 	href?: string;
-	preserveQuery?: boolean;
 	onClick?: () => void;
 	actions?: Array<{
 		label: string;
@@ -47,35 +44,11 @@ interface DataNavProps {
 }
 
 export function DataNav({ breadcrumbs, actions, primaryAction }: DataNavProps) {
-	const router = useRouter();
-	const pathname = usePathname();
-
 	const handleBreadcrumbClick = (item: BreadcrumbItemType, e: React.MouseEvent) => {
-		if (!item.href) return;
-
-		e.preventDefault();
-
-		if (item.onClick) item.onClick();
-
-		// If we want to preserve query parameters, use the provided href
-		if (item.preserveQuery) {
-			router.push(item.href);
-			return;
+		if (item.onClick) {
+			e.preventDefault();
+			item.onClick();
 		}
-
-		// For root paths or specific paths without IDs
-		if (item.href === '/' || !item.href.includes('[id]')) {
-			router.push(item.href);
-			return;
-		}
-
-		// Extract the base path without ID
-		const currentPathParts = pathname.split('/');
-		const targetPathParts = item.href.split('/');
-		const newPathParts = currentPathParts.slice(0, targetPathParts.length);
-		const newPath = newPathParts.join('/');
-
-		router.push(newPath);
 	};
 
 	return (
@@ -151,13 +124,17 @@ export function DataNav({ breadcrumbs, actions, primaryAction }: DataNavProps) {
 				)}
 
 				{primaryAction && (
-					<Button variant="primary" onClick={primaryAction.onClick} asChild={!!primaryAction.href}>
-						{primaryAction.href ? (
-							<Link href={primaryAction.href}>{primaryAction.label}</Link>
-						) : (
-							<span>{primaryAction.label}</span>
-						)}
-					</Button>
+					primaryAction.href ? (
+						<Button variant="primary" asChild>
+							<a href={primaryAction.href} onClick={primaryAction.onClick}>
+								{primaryAction.label}
+							</a>
+						</Button>
+					) : (
+						<Button variant="primary" onClick={primaryAction.onClick}>
+							{primaryAction.label}
+						</Button>
+					)
 				)}
 			</div>
 		</div>

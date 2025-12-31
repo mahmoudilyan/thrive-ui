@@ -5,7 +5,7 @@ export function cn(...inputs: ClassValue[]) {
 	return twMerge(clsx(inputs));
 }
 
-function getRelativeLuminance(r, g, b) {
+function getRelativeLuminance(r: number, g: number, b: number): number {
 	// Convert RGB to 0-1 range
 	const [rs, gs, bs] = [r, g, b].map(c => {
 		c = c / 255;
@@ -16,7 +16,7 @@ function getRelativeLuminance(r, g, b) {
 	return 0.2126 * rs + 0.7152 * gs + 0.0722 * bs;
 }
 
-export function shouldUseLightText(r, g, b) {
+export function shouldUseLightText(r: number, g: number, b: number): boolean {
 	const luminance = getRelativeLuminance(r, g, b);
 	// Use light text if background is dark (luminance < 0.5)
 	return luminance < 0.5;

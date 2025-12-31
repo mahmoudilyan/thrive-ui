@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
     "target": "ES2017",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -11,19 +15,36 @@
     "moduleResolution": "Bundler",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "jsx": "preserve",
+    "jsx": "react-jsx",
     "incremental": true,
+    "baseUrl": ".",
     "plugins": [
       {
         "name": "next"
       }
     ],
     "paths": {
-      "@/*": ["./src/*"],
-      "@thrive/ui": ["../../packages/ui/src/index.ts"],
-      "@thrive/ui/style.css": ["../../packages/ui/src/styles/globals.css"]
+      "@/*": [
+        "./src/*"
+      ],
+      "@thrive/ui": [
+        "../../packages/ui/src/index.ts"
+      ],
+      "@thrive/ui/style.css": [
+        "../../packages/ui/dist/style.css"
+      ],
+      "fumadocs-mdx:collections/*": [".source/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
-  "exclude": ["node_modules", "storybook-static"]
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    ".next/dev/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "storybook-static"
+  ]
 }

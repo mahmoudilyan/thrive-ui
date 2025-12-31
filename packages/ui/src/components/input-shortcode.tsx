@@ -266,6 +266,10 @@ export const InputShortcode = React.forwardRef<HTMLInputElement, InputShortcodeP
 		const hasShortcodes = loadedShortcodes.length > 0 || shortcodesApi || onLoadShortcodes;
 		const hasActions = hasShortcodes || enableEmoji;
 
+		// Filter out null from size prop to match InputGroupInput's type requirements
+		const { size, ...restInputProps } = inputProps;
+		const inputGroupSize = size === null ? undefined : size;
+
 		return (
 			<InputGroup className={cn('relative w-full', className)}>
 				<InputGroupInput
@@ -275,7 +279,8 @@ export const InputShortcode = React.forwardRef<HTMLInputElement, InputShortcodeP
 					onSelect={handleCursorPositionChange}
 					onClick={handleCursorPositionChange}
 					onKeyUp={handleCursorPositionChange}
-					{...inputProps}
+					size={inputGroupSize}
+					{...restInputProps}
 				/>
 				<InputGroupAddon align="inline-end">
 					{hasActions && (

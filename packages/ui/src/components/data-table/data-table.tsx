@@ -12,6 +12,7 @@ import {
 	getSortedRowModel,
 	getFilteredRowModel,
 	ColumnResizeMode,
+	type VisibilityState,
 } from '@tanstack/react-table';
 import { TableProps } from './types';
 import { DataTableHeader } from './data-table-header';
@@ -71,6 +72,23 @@ export function DataTable<T>({
 	const [columnResizeMode] = React.useState<ColumnResizeMode>('onChange');
 	const [columnSizing, setColumnSizing] = React.useState({});
 
+	// Wrapper function to handle TanStack Table's OnChangeFn pattern
+	// TanStack Table can pass either a value or an updater function
+	const handleColumnVisibilityChange = React.useCallback(
+		(updaterOrValue: VisibilityState | ((old: VisibilityState) => VisibilityState)) => {
+			if (!onColumnVisibilityChange) return;
+			
+			// Resolve the value (either direct value or result of updater function)
+			const newVisibility = typeof updaterOrValue === 'function' 
+				? updaterOrValue(columnVisibility) 
+				: updaterOrValue;
+			
+			// Call the user's callback with the resolved value
+			onColumnVisibilityChange(newVisibility);
+		},
+		[onColumnVisibilityChange, columnVisibility]
+	);
+
 	const table = useReactTable({
 		data,
 		columns,
@@ -92,7 +110,7 @@ export function DataTable<T>({
 			},
 		},
 		onRowSelectionChange: setRowSelection,
-		onColumnVisibilityChange,
+		onColumnVisibilityChange: handleColumnVisibilityChange,
 		onColumnSizingChange: setColumnSizing,
 		enableRowSelection: true,
 		enableColumnResizing: true,

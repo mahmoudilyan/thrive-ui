@@ -17,7 +17,7 @@ type DataTableView = 'list' | 'folder';
 interface DataTableHeaderProps {
 	table: any;
 	pageSize: number;
-	total: number;
+	total?: number;
 	dataType: string;
 	searchPlaceholder?: string;
 	hideSearch?: boolean;
@@ -76,7 +76,7 @@ export function DataTableHeader({
 		<Flex className="w-full md:w-auto justify-between">
 			<Box className="flex items-center gap-2">
 				<Text variant="body-sm" as="p">
-					Showing {pageSize} of {total} {dataType}
+					Showing {pageSize} of {total ?? 0} {dataType}
 				</Text>
 			</Box>
 			<Flex gap={'2'}>
@@ -124,13 +124,15 @@ export function DataTableHeader({
 						</ToggleGroupItem>
 					</ToggleGroup>
 				) : null}
-				<DataTableFilters
-					filters={filters}
-					tableState={tableState}
-					setTableState={setTableState}
-					className={className}
-					buttonLabel="Filters"
-				/>
+				{tableState && setTableState ? (
+					<DataTableFilters
+						filters={filters}
+						tableState={tableState}
+						setTableState={setTableState}
+						className={className}
+						buttonLabel="Filters"
+					/>
+				) : null}
 			</Flex>
 		</Flex>
 	);

@@ -73,14 +73,14 @@ function MainNavigationButton({ item, isActive, onClick }: MainNavigationButtonP
 												${isActive ? 'opacity-0' : 'opacity-100 text-ink-dark group-hover:text-ink-primary'}
 											`}
 										/>
-									) : (
+									) : IconFilled ? (
 										<IconFilled
 											className={`
 												w-6 h-6 transition-opacity duration-150
 												${isActive ? 'opacity-0' : 'opacity-100 text-ink-dark group-hover:text-ink-primary'}
 											`}
 										/>
-									)}
+									) : null}
 								</>
 							)}
 						</>

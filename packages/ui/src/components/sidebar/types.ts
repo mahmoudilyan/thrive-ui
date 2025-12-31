@@ -43,7 +43,7 @@ export interface SidebarActions {
 	toggleSecondary: () => void;
 	setActiveMainItem: (itemId: string) => void;
 	setActiveSecondaryItem: (itemId: string) => void;
-	setActiveSubItem: (itemId: string) => void;
+	setActiveSubItem: (itemId: string | null) => void;
 	setMainNavItems: (items: NavigationItem[]) => void;
 	toggleSecondaryExpanded: (itemId: string) => void;
 	setExpandedSecondaryItems: (itemIds: string[]) => void;

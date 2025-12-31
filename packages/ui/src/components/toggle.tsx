@@ -6,7 +6,7 @@ import { cva, type VariantProps } from 'class-variance-authority';
 import { buttonSizeVariants, buttonVariants } from './button-variants';
 
 import { cn } from '../lib/utils';
-type ButtonSizeKey = VariantProps<typeof buttonSizeVariants>['size'];
+type ButtonSizeKey = NonNullable<VariantProps<typeof buttonSizeVariants>['size']>;
 
 const createVariantMap = <TKey extends string>(
 	keys: readonly TKey[],

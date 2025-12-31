@@ -1,8 +1,7 @@
 'use client';
 
-import React, { useRef, useState, useCallback } from 'react';
+import React, { useRef, useCallback } from 'react';
 import { Button } from '../../button';
-import { Input } from '../../input';
 import { Badge } from '../../badge';
 import { cn } from '../../../lib/utils';
 
@@ -162,10 +161,10 @@ export default function MessageComposer({
 							{getPlatformCounts().map((platform, index) => (
 								<Badge
 									key={index}
-									variant={platform.isOver ? 'destructive' : 'normal'}
+									variant={platform?.isOver ? 'destructive' : 'normal'}
 									className="text-xs"
 								>
-									{formatChannelName(platform.channel)}: {platform.limit - platform.count}
+									{formatChannelName(platform?.channel || '')}: 3
 								</Badge>
 							))}
 						</div>
@@ -180,8 +179,8 @@ export default function MessageComposer({
 							<>
 								Your message exceeds the character limit for:{' '}
 								{getPlatformCounts()
-									.filter(p => p.isOver)
-									.map(p => `${formatChannelName(p.channel)} (${p.limit})`)
+									.filter(p => p?.isOver)
+									.map(p => `${formatChannelName(p?.channel || '')} (${p?.limit})`)
 									.join(', ')}
 								. Please shorten it to continue.
 							</>

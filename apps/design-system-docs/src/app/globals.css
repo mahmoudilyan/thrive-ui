@@ -1,5 +1,6 @@
 @import 'tailwindcss';
 @import 'fumadocs-ui/css/neutral.css';
+@import 'fumadocs-ui/css/preset.css';
 
 @plugin 'tailwindcss-animate';
 
@@ -8,6 +9,8 @@
 @source "../**/*.{ts,tsx,js,jsx}";
 /* Import UI package's compiled styles which include all component classes */
 @source "../../../packages/ui/src/**/*.{ts,tsx,js,jsx}";
+/* Fumadocs UI components - required for Tailwind v4 */
+@source "../../node_modules/fumadocs-ui/dist/**/*.js";
 
 @custom-variant dark (&:is(.dark *));
 
@@ -201,8 +204,7 @@
 	}
 }
 
-/* Fumadocs UI Theme & Presets - must come early */
-@import 'fumadocs-ui/css/neutral.css';
+/* Additional animations */
 @import 'tw-animate-css';
 
 /* Map Fumadocs variables to work with existing shadcn colors */

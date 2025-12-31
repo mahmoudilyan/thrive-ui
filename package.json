@@ -29,5 +29,8 @@
     "prettier": "^3.4.2",
     "turbo": "^2.0.4",
     "typescript": "^5.3.3"
+  },
+  "pnpm": {
+    "patchedDependencies": {}
   }
 }
