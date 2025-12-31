@@ -5,7 +5,6 @@ import { cn } from '../../lib/utils';
 import { MdMoreHoriz, MdOutlineChromeReaderMode } from 'react-icons/md';
 
 import { Button } from '../button';
-import Link from 'next/link';
 import { IconButton } from '../icon-button';
 import {
 	DropdownMenu,
@@ -224,7 +223,7 @@ export default function PageSection({
 			<div className="flex items-center gap-space-xs min-h-9">
 				{secondaryActions?.map(action => (
 					<Button key={action.label} variant="secondary" onClick={action.onClick} asChild>
-						<Link href={action.href}>{action.label}</Link>
+						<a href={action.href}>{action.label}</a>
 					</Button>
 				))}
 
